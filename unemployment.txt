@@ -1,0 +1,3134 @@
+county	unemploymentRate	state	year	countyCode
+"Rockingham County, NC"	6.6	North Carolina	2015	37157
+"Christian County, KY"	6.4	Kentucky	2015	21047
+"Sherman County, OR"	6.1	Oregon	2015	41055
+"Greene County, AR"	5.2	Arkansas	2015	5055
+"Faribault County, MN"	4.4	Minnesota	2015	27043
+"Clark County, ID"	3.8	Idaho	2015	16033
+"Galveston County, TX"	5	Texas	2015	48167
+"Morehouse Parish, LA"	11	Louisiana	2015	22067
+"Pamlico County, NC"	6	North Carolina	2015	37137
+"Dewey County, OK"	3.6	Oklahoma	2015	40043
+"Vilas County, WI"	7	Wisconsin	2015	55125
+"Cass County, MI"	5	Michigan	2015	26027
+"Fairfield County, CT"	5.4	Connecticut	2015	9001
+"Plumas County, CA"	10.2	California	2015	6063
+"Leslie County, KY"	10.9	Kentucky	2015	21131
+"Tyler County, WV"	9.4	West Virginia	2015	54095
+"Matanuska-Susitna Borough, AK"	7.6	Alaska	2015	2170
+"Imperial County, CA"	24	California	2015	6025
+"Williams County, OH"	4.4	Ohio	2015	39171
+"Addison County, VT"	3.6	Vermont	2015	50001
+"Wayne County, IL"	6.8	Illinois	2015	17191
+"Buena Vista City, VA"	5.1	Virginia	2015	unavailable
+"Fairfax County, VA"	3.6	Virginia	2015	51059
+"Fredericksburg City, VA"	5.3	Virginia	2015	unavailable
+"Wyoming County, NY"	5.6	New York	2015	36121
+"Stone County, AR"	6.3	Arkansas	2015	5137
+"Carroll County, MO"	6	Missouri	2015	29033
+"Union County, SD"	3.4	South Dakota	2015	46127
+"Marquette County, WI"	6.1	Wisconsin	2015	55077
+"Henry County, IA"	4	Iowa	2015	19087
+"Stephens County, OK"	6	Oklahoma	2015	40137
+"Middlesex County, NJ"	5.2	New Jersey	2015	34023
+"Patrick County, VA"	5.4	Virginia	2015	51141
+"Anderson County, TN"	5.8	Tennessee	2015	47001
+"Hardin County, IA"	4	Iowa	2015	19083
+"Peoria County, IL"	6.8	Illinois	2015	17143
+"Aroostook County, ME"	6	Maine	2015	23003
+"Lafourche Parish, LA"	5.4	Louisiana	2015	22057
+"Greene County, OH"	4.4	Ohio	2015	39057
+"Wells County, ND"	4	North Dakota	2015	38103
+"Marion County, SC"	10	South Carolina	2015	45067
+"Atoka County, OK"	6.5	Oklahoma	2015	40005
+"Coahoma County, MS"	10	Mississippi	2015	28027
+"Centre County, PA"	4	Pennsylvania	2015	42027
+"Navajo County, AZ"	9.6	Arizona	2015	4017
+"Hancock County, GA"	9.8	Georgia	2015	13141
+"Clinton County, IA"	5.1	Iowa	2015	19045
+"Polk County, OR"	5.6	Oregon	2015	41053
+"Bartow County, GA"	5.9	Georgia	2015	13015
+"Pottawatomie County, OK"	4.5	Oklahoma	2015	40125
+"Oneida County, WI"	5.8	Wisconsin	2015	55085
+"Gaines County, TX"	3.2	Texas	2015	48165
+"Angelina County, TX"	5.6	Texas	2015	48005
+"Washington County, IA"	3.2	Iowa	2015	19183
+"Jefferson County, ID"	3.4	Idaho	2015	16051
+"Calhoun County, GA"	6.2	Georgia	2015	13037
+"Cole County, MO"	4	Missouri	2015	29051
+"Clear Creek County, CO"	3.7	Colorado	2015	8019
+"Pratt County, KS"	4.1	Kansas	2015	20151
+"Logan County, ND"	2.8	North Dakota	2015	38047
+"Osage County, MO"	3.7	Missouri	2015	29151
+"Whatcom County, WA"	6	Washington	2015	53073
+"Kleberg County, TX"	5.9	Texas	2015	48273
+"Boone County, MO"	3.5	Missouri	2015	29019
+"Grayson County, KY"	6.6	Kentucky	2015	21085
+"Fremont County, ID"	3.7	Idaho	2015	16043
+"King County, TX"	3.5	Texas	2015	48269
+"Jackson County, WV"	7.2	West Virginia	2015	54035
+"Dearborn County, IN"	5.1	Indiana	2015	18029
+"Bradford County, FL"	4.8	Florida	2015	12007
+"Clarion County, PA"	6	Pennsylvania	2015	42031
+"Saint Louis County, MN"	5	Minnesota	2015	unavailable
+"Queen Annes County, MD"	4.5	Maryland	2015	unavailable
+"O'Brien County, IA"	2.9	Iowa	2015	19141
+"Lake County, SD"	3.6	South Dakota	2015	46079
+"Lamar County, AL"	6.3	Alabama	2015	1075
+"Finney County, KS"	3.5	Kansas	2015	20055
+"Douglas County, SD"	2.4	South Dakota	2015	46043
+"Knox County, KY"	8.2	Kentucky	2015	21121
+"Pickett County, TN"	7.6	Tennessee	2015	47137
+"King County, WA"	4.3	Washington	2015	53033
+"Essex County, NJ"	6.9	New Jersey	2015	34013
+"Baltimore County, MD"	5.3	Maryland	2015	24005
+"Todd County, KY"	4.7	Kentucky	2015	21219
+"Menominee County, WI"	9.7	Wisconsin	2015	55078
+"Kendall County, TX"	3.3	Texas	2015	48259
+"La Salle County, IL"	6.9	Illinois	2015	unavailable
+"Pierce County, WA"	6.5	Washington	2015	53053
+"Custer County, ID"	6.7	Idaho	2015	16037
+"Jack County, TX"	4.2	Texas	2015	48237
+"Stanley County, SD"	2.4	South Dakota	2015	46117
+"Osceola County, IA"	2.9	Iowa	2015	19143
+"Carter County, MT"	3.2	Montana	2015	30011
+"Mason County, MI"	6.1	Michigan	2015	26105
+"Lowndes County, MS"	7	Mississippi	2015	28087
+"Monroe County, TN"	6.3	Tennessee	2015	47123
+"Iron County, MI"	7	Michigan	2015	26071
+"Jefferson County, TN"	6.4	Tennessee	2015	47089
+"Darke County, OH"	4.3	Ohio	2015	39037
+"Bullock County, AL"	7.9	Alabama	2015	1011
+"Robeson County, NC"	8.5	North Carolina	2015	37155
+"Coweta County, GA"	5.3	Georgia	2015	13077
+"Williamsburg City, VA"	6.3	Virginia	2015	unavailable
+"Cimarron County, OK"	2.2	Oklahoma	2015	40025
+"San Juan County, WA"	4.9	Washington	2015	53055
+"Clinton County, MO"	4.8	Missouri	2015	29049
+"Maui County, HI"	3.7	Hawaii	2015	15009
+"Halifax County, NC"	8.8	North Carolina	2015	37083
+"Riverside County, CA"	6.7	California	2015	6065
+"Thayer County, NE"	2.4	Nebraska	2015	31169
+"Saguache County, CO"	6.2	Colorado	2015	8109
+"Hancock County, WV"	7.8	West Virginia	2015	54029
+"Orange County, TX"	6.5	Texas	2015	48361
+"Baker County, FL"	5.5	Florida	2015	12003
+"Edwards County, IL"	5.9	Illinois	2015	17047
+"Marion County, TX"	6.5	Texas	2015	48315
+"Nelson County, KY"	5	Kentucky	2015	21179
+"Glascock County, GA"	6.7	Georgia	2015	13125
+"Dickson County, TN"	5.4	Tennessee	2015	47043
+"Brantley County, GA"	7.4	Georgia	2015	13025
+"Osceola County, MI"	6.5	Michigan	2015	26133
+"Pitkin County, CO"	3.9	Colorado	2015	8097
+"Jackson County, KS"	3.7	Kansas	2015	20085
+"Fayette County, GA"	5.2	Georgia	2015	13113
+"Fentress County, TN"	7.2	Tennessee	2015	47049
+"Jasper County, IN"	5.8	Indiana	2015	18073
+"Russell County, VA"	6.6	Virginia	2015	51167
+"Baldwin County, AL"	5.6	Alabama	2015	1003
+"Winnebago County, IL"	6.9	Illinois	2015	17201
+"Sumter County, FL"	7.6	Florida	2015	12119
+"Greenlee County, AZ"	7.9	Arizona	2015	4011
+"Jackson County, IL"	5.5	Illinois	2015	17077
+"Lawrence County, KY"	9.3	Kentucky	2015	21127
+"Lamoille County, VT"	4.6	Vermont	2015	50015
+"Ottawa County, OH"	6.6	Ohio	2015	39123
+"Snohomish County, WA"	4.6	Washington	2015	53061
+"Harrisonburg City, VA"	5.3	Virginia	2015	unavailable
+"Orange County, IN"	6	Indiana	2015	18117
+"Burt County, NE"	3.7	Nebraska	2015	31021
+"Wilkes County, NC"	5.7	North Carolina	2015	37193
+"Cottonwood County, MN"	4.8	Minnesota	2015	27033
+"King George County, VA"	4.8	Virginia	2015	51099
+"Lee County, GA"	5.3	Georgia	2015	13177
+"Saint Francis County, AR"	7.2	Arkansas	2015	unavailable
+"Morgan County, MO"	6.7	Missouri	2015	29141
+"Worth County, MO"	3.3	Missouri	2015	29227
+"Hancock County, TN"	9.6	Tennessee	2015	47067
+"Jefferson County, WI"	4.2	Wisconsin	2015	55055
+"Crawford County, IN"	6	Indiana	2015	18025
+"Lake County, OR"	7.7	Oregon	2015	41037
+"Union County, NJ"	6.1	New Jersey	2015	34039
+"Brown County, SD"	2.6	South Dakota	2015	46013
+"Union County, PA"	4.5	Pennsylvania	2015	42119
+"Chambers County, TX"	5.3	Texas	2015	48071
+"Avery County, NC"	5.9	North Carolina	2015	37011
+"Clayton County, GA"	7.6	Georgia	2015	13063
+"Meade County, KY"	5.6	Kentucky	2015	21163
+"Luzerne County, PA"	6.5	Pennsylvania	2015	42079
+"Archer County, TX"	4.4	Texas	2015	48009
+"Dale County, AL"	6.3	Alabama	2015	1045
+"Benton County, AR"	3.8	Arkansas	2015	5007
+"Highlands County, FL"	7.4	Florida	2015	12055
+"West Feliciana Parish, LA"	5.3	Louisiana	2015	22125
+"Caldwell County, NC"	6.3	North Carolina	2015	37027
+"Grant County, KS"	3.6	Kansas	2015	20067
+"Crawford County, GA"	6.3	Georgia	2015	13079
+"Branch County, MI"	5.1	Michigan	2015	26023
+"Jefferson County, KY"	4.8	Kentucky	2015	21111
+"Allen County, IN"	4.6	Indiana	2015	18003
+"Yamhill County, OR"	5.3	Oregon	2015	41071
+"Hardee County, FL"	6.9	Florida	2015	12049
+"Norton County, KS"	2.5	Kansas	2015	20137
+"Rock Island County, IL"	6.3	Illinois	2015	17161
+"Atchison County, MO"	4.5	Missouri	2015	29005
+"Scott County, MN"	3.1	Minnesota	2015	27139
+"Ritchie County, WV"	7	West Virginia	2015	54085
+"Barbour County, WV"	7.4	West Virginia	2015	54001
+"Door County, WI"	6.7	Wisconsin	2015	55029
+"Wise County, TX"	4.6	Texas	2015	48497
+"Phillips County, MT"	5	Montana	2015	30071
+"Cuming County, NE"	2.7	Nebraska	2015	31039
+"Franklin County, ME"	4.6	Maine	2015	23007
+"Portsmouth City, VA"	6.2	Virginia	2015	unavailable
+"Chippewa County, WI"	4.7	Wisconsin	2015	55017
+"Chambers County, AL"	6	Alabama	2015	1017
+"Carroll County, MD"	4.2	Maryland	2015	24013
+"Bonneville County, ID"	3.5	Idaho	2015	16019
+"Dewey County, SD"	11.4	South Dakota	2015	46041
+"Harmon County, OK"	3.4	Oklahoma	2015	40057
+"Manassas Park City, VA"	4.2	Virginia	2015	unavailable
+"Lonoke County, AR"	4.2	Arkansas	2015	5085
+"Clare County, MI"	7.7	Michigan	2015	26035
+"Bay County, FL"	5.4	Florida	2015	12005
+"Fremont County, WY"	5.5	Wyoming	2015	56013
+"Mifflin County, PA"	5.8	Pennsylvania	2015	42087
+"Skagit County, WA"	6.8	Washington	2015	53057
+"Adams County, IN"	3.8	Indiana	2015	18001
+"Hyde County, NC"	9.1	North Carolina	2015	37095
+"De Witt County, IL"	5.5	Illinois	2015	17039
+"Hockley County, TX"	4.2	Texas	2015	48219
+"Harrison County, KY"	4.6	Kentucky	2015	21097
+"Jackson Parish, LA"	6.1	Louisiana	2015	22049
+"Pendleton County, KY"	5.4	Kentucky	2015	21191
+"Camden County, NC"	5.7	North Carolina	2015	37029
+"Gilmer County, WV"	7.8	West Virginia	2015	54021
+"Deuel County, NE"	2.5	Nebraska	2015	31049
+"Custer County, NE"	2.3	Nebraska	2015	31041
+"Shiawassee County, MI"	5.6	Michigan	2015	26155
+"Harrison County, MS"	5.9	Mississippi	2015	28047
+"Boyle County, KY"	5.6	Kentucky	2015	21021
+"Osborne County, KS"	3.5	Kansas	2015	20141
+"Perry County, AL"	10	Alabama	2015	1105
+"Wise County, VA"	8.3	Virginia	2015	51195
+"Arthur County, NE"	4.9	Nebraska	2015	31005
+"Sarasota County, FL"	5	Florida	2015	12115
+"Williamson County, IL"	6.1	Illinois	2015	17199
+"Allamakee County, IA"	5	Iowa	2015	19005
+"New Madrid County, MO"	6.2	Missouri	2015	29143
+"Erie County, NY"	5.3	New York	2015	36029
+"Yell County, AR"	5.1	Arkansas	2015	5149
+"Delaware County, PA"	4.9	Pennsylvania	2015	42045
+"Island County, WA"	6.1	Washington	2015	53029
+"Montgomery County, AR"	6.8	Arkansas	2015	5097
+"Assumption Parish, LA"	7.9	Louisiana	2015	22007
+"Lamar County, TX"	4.8	Texas	2015	48277
+"Hancock County, ME"	5.7	Maine	2015	23009
+"Bollinger County, MO"	5.6	Missouri	2015	29017
+"Autauga County, AL"	5.3	Alabama	2015	1001
+"Payette County, ID"	5	Idaho	2015	16075
+"Unicoi County, TN"	7.9	Tennessee	2015	47171
+"Midland County, MI"	4.8	Michigan	2015	26111
+"Tama County, IA"	4.4	Iowa	2015	19171
+"Lancaster County, VA"	6.6	Virginia	2015	51103
+"Orange County, VA"	4.6	Virginia	2015	51137
+"Bell County, KY"	8.5	Kentucky	2015	21013
+"Forest County, WI"	7.5	Wisconsin	2015	55041
+"Washington County, PA"	5.6	Pennsylvania	2015	42125
+"Wapello County, IA"	5.2	Iowa	2015	19179
+"White County, GA"	5.2	Georgia	2015	13311
+"Harlan County, NE"	2.2	Nebraska	2015	31083
+"Winchester City, VA"	4.4	Virginia	2015	unavailable
+"Cayuga County, NY"	5.3	New York	2015	36011
+"Kanawha County, WV"	6	West Virginia	2015	54039
+"Steuben County, IN"	3.9	Indiana	2015	18151
+"Logan County, KY"	4.7	Kentucky	2015	21141
+"Washington County, AL"	8.9	Alabama	2015	1129
+"Strafford County, NH"	3.1	New Hampshire	2015	33017
+"Atchison County, KS"	6.2	Kansas	2015	20005
+"Cassia County, ID"	3.4	Idaho	2015	16031
+"Colleton County, SC"	7	South Carolina	2015	45029
+"Luna County, NM"	17.4	New Mexico	2015	35029
+"Loup County, NE"	3.7	Nebraska	2015	31115
+"Webster County, WV"	7.6	West Virginia	2015	54101
+"Schuylkill County, PA"	6.3	Pennsylvania	2015	42107
+"Cross County, AR"	5.4	Arkansas	2015	5037
+"Crittenden County, AR"	6.2	Arkansas	2015	5035
+"Iowa County, WI"	4.3	Wisconsin	2015	55049
+"Daviess County, KY"	4.6	Kentucky	2015	21059
+"Walton County, GA"	5.4	Georgia	2015	13297
+"Fulton County, IL"	7.5	Illinois	2015	17057
+"Sussex County, VA"	6.8	Virginia	2015	51183
+"Marlboro County, SC"	10.1	South Carolina	2015	45069
+"Shannon County, MO"	8.1	Missouri	2015	29203
+"Buena Vista County, IA"	3.7	Iowa	2015	19021
+"Archuleta County, CO"	4.1	Colorado	2015	8007
+"Pawnee County, NE"	2.6	Nebraska	2015	31133
+"Yazoo County, MS"	8.2	Mississippi	2015	28163
+"Loving County, TX"	5.2	Texas	2015	48301
+"Pawnee County, KS"	3.7	Kansas	2015	20145
+"Clark County, KS"	2.4	Kansas	2015	20025
+"Wirt County, WV"	10.4	West Virginia	2015	54105
+"Taylor County, TX"	3.7	Texas	2015	48441
+"Donley County, TX"	4.2	Texas	2015	48129
+"Albemarle County, VA"	3.9	Virginia	2015	51003
+"Sacramento County, CA"	6	California	2015	6067
+"Logan County, IL"	5.4	Illinois	2015	17107
+"Ottawa County, KS"	3.8	Kansas	2015	20143
+"Washington County, MD"	5.6	Maryland	2015	24043
+"Buffalo County, SD"	7	South Dakota	2015	46017
+"Wyandotte County, KS"	6.1	Kansas	2015	20209
+"Jefferson County, OH"	7.4	Ohio	2015	39081
+"Halifax County, VA"	6.4	Virginia	2015	51083
+"Clay County, KY"	9.5	Kentucky	2015	21051
+"Lincoln County, MN"	3.5	Minnesota	2015	27081
+"Madison County, TX"	4.3	Texas	2015	48313
+"Jasper County, TX"	7.5	Texas	2015	48241
+"Monroe County, OH"	9.9	Ohio	2015	39111
+"Mineral County, MT"	8.4	Montana	2015	30061
+"Graves County, KY"	6.1	Kentucky	2015	21083
+"Allen County, OH"	4.8	Ohio	2015	39003
+"Moultrie County, IL"	4.3	Illinois	2015	17139
+"Perry County, OH"	6.5	Ohio	2015	39127
+"Russell County, KY"	11.7	Kentucky	2015	21207
+"Ashtabula County, OH"	6	Ohio	2015	39007
+"Webster County, MS"	7.2	Mississippi	2015	28155
+"Morgan County, GA"	5.5	Georgia	2015	13211
+"Cameron Parish, LA"	4.7	Louisiana	2015	22023
+"Yates County, NY"	5	New York	2015	36123
+"Clermont County, OH"	4.5	Ohio	2015	39025
+"Edwards County, TX"	4.6	Texas	2015	48137
+"Providence County, RI"	6.4	Rhode Island	2015	44007
+"Lee County, TX"	3.6	Texas	2015	48287
+"Lenawee County, MI"	5	Michigan	2015	26091
+"Clark County, NV"	6.9	Nevada	2015	32003
+"Dunn County, ND"	2	North Dakota	2015	38025
+"Haralson County, GA"	6.5	Georgia	2015	13143
+"Bryan County, GA"	5.2	Georgia	2015	13029
+"Jefferson County, MO"	4.8	Missouri	2015	29099
+"Cowlitz County, WA"	7.8	Washington	2015	53015
+"Isle of Wight County, VA"	4.6	Virginia	2015	51093
+"Blackford County, IN"	6	Indiana	2015	18009
+"Waller County, TX"	4.8	Texas	2015	48473
+"Columbiana County, OH"	5.9	Ohio	2015	39029
+"Allendale County, SC"	11.3	South Carolina	2015	45005
+"Douglas County, WI"	5	Wisconsin	2015	55031
+"Jefferson County, TX"	7	Texas	2015	48245
+"Clarke County, MS"	7.8	Mississippi	2015	28023
+"Walla Walla County, WA"	5.9	Washington	2015	53071
+"Somerset County, MD"	8.3	Maryland	2015	24039
+"Red Lake County, MN"	5.9	Minnesota	2015	27125
+"Storey County, NV"	7.5	Nevada	2015	32029
+"Parker County, TX"	4.2	Texas	2015	48367
+"Duval County, TX"	8.1	Texas	2015	48131
+"Nuckolls County, NE"	2.6	Nebraska	2015	31129
+"Mason County, WA"	7.9	Washington	2015	53045
+"Lincoln County, CO"	3.4	Colorado	2015	8073
+"Ripley County, IN"	5.3	Indiana	2015	18137
+"White County, IN"	4.1	Indiana	2015	18181
+"Franklin County, VA"	4.7	Virginia	2015	51067
+"Fremont County, IA"	3.4	Iowa	2015	19071
+"Gallatin County, IL"	6.6	Illinois	2015	17059
+"Lake County, OH"	4.5	Ohio	2015	39085
+"Page County, IA"	4.2	Iowa	2015	19145
+"Chelan County, WA"	5.6	Washington	2015	53007
+"Harford County, MD"	4.9	Maryland	2015	24025
+"Bexar County, TX"	3.8	Texas	2015	48029
+"Muskingum County, OH"	6.2	Ohio	2015	39119
+"Polk County, TX"	6.1	Texas	2015	48373
+"Franklin County, WA"	7.6	Washington	2015	53021
+"Johnson County, IN"	4.1	Indiana	2015	18081
+"Scotland County, MO"	4.5	Missouri	2015	29199
+"Petroleum County, MT"	5.3	Montana	2015	30069
+"Washington County, WI"	3.8	Wisconsin	2015	55131
+"Goochland County, VA"	4.2	Virginia	2015	51075
+"Mason County, KY"	6	Kentucky	2015	21161
+"Delta County, TX"	4.6	Texas	2015	48119
+"Montgomery County, KS"	6.5	Kansas	2015	20125
+"Ohio County, IN"	5.5	Indiana	2015	18115
+"Meigs County, OH"	8.2	Ohio	2015	39105
+"Jefferson County, WA"	7.2	Washington	2015	53031
+"San Diego County, CA"	5.2	California	2015	6073
+"Sharkey County, MS"	9.6	Mississippi	2015	28125
+"Idaho County, ID"	6.3	Idaho	2015	16049
+"Tarrant County, TX"	4.2	Texas	2015	48439
+"Richland County, MT"	3.2	Montana	2015	30083
+"Oklahoma County, OK"	3.9	Oklahoma	2015	40109
+"Charles City County, VA"	5.3	Virginia	2015	51036
+"Wayne County, OH"	3.9	Ohio	2015	39169
+"Livingston County, NY"	5.3	New York	2015	36051
+"Crawford County, OH"	5.8	Ohio	2015	39033
+"Warren County, IL"	5.2	Illinois	2015	17187
+"Queens County, NY"	5	New York	2015	36081
+"Traverse County, MN"	4.2	Minnesota	2015	27155
+"Person County, NC"	6.8	North Carolina	2015	37145
+"Cottle County, TX"	7.2	Texas	2015	48101
+"Dodge County, WI"	4.4	Wisconsin	2015	55027
+"Potter County, PA"	7	Pennsylvania	2015	42105
+"Worth County, GA"	6.5	Georgia	2015	13321
+"McLean County, IL"	4.8	Illinois	2015	17113
+"Hand County, SD"	2.3	South Dakota	2015	46059
+"Aleutians East Borough, AK"	3.2	Alaska	2015	2013
+"Martinsville City, VA"	8.8	Virginia	2015	unavailable
+"Madison County, FL"	6.1	Florida	2015	12079
+"Iberia Parish, LA"	8.1	Louisiana	2015	22045
+"Fulton County, NY"	6.4	New York	2015	36035
+"Morton County, KS"	4.2	Kansas	2015	20129
+"Pulaski County, KY"	5.8	Kentucky	2015	21199
+"Alamance County, NC"	5.4	North Carolina	2015	37001
+"San Luis Obispo County, CA"	4.7	California	2015	6079
+"Livingston County, MI"	4.6	Michigan	2015	26093
+"Worcester County, MD"	10.6	Maryland	2015	24047
+"George County, MS"	7.5	Mississippi	2015	28039
+"Meade County, KS"	3	Kansas	2015	20119
+"Sandoval County, NM"	6.7	New Mexico	2015	35043
+"Custer County, MT"	3.3	Montana	2015	30017
+"Susquehanna County, PA"	5.6	Pennsylvania	2015	42115
+"Yellowstone County, MT"	3.3	Montana	2015	30111
+"Saline County, MO"	4.8	Missouri	2015	29195
+"Milwaukee County, WI"	5.8	Wisconsin	2015	55079
+"Leon County, TX"	5.3	Texas	2015	48289
+"Colonial Heights City, VA"	4.7	Virginia	2015	unavailable
+"Cumberland County, NC"	7.3	North Carolina	2015	37051
+"Covington County, AL"	7.1	Alabama	2015	1039
+"Staunton City, VA"	4.4	Virginia	2015	unavailable
+"Independence County, AR"	6.5	Arkansas	2015	5063
+"Renville County, ND"	3.4	North Dakota	2015	38075
+"Belmont County, OH"	6.3	Ohio	2015	39013
+"Terrebonne Parish, LA"	6	Louisiana	2015	22109
+"Kerr County, TX"	3.7	Texas	2015	48265
+"Jefferson County, IN"	4.8	Indiana	2015	18077
+"Brunswick County, VA"	6.8	Virginia	2015	51025
+"Wayne County, NY"	5.3	New York	2015	36117
+"Volusia County, FL"	5.8	Florida	2015	12127
+"Pine County, MN"	5.6	Minnesota	2015	27115
+"Oxford County, ME"	5.5	Maine	2015	23017
+"Denali Borough, AK"	8.6	Alaska	2015	2068
+"Sterling County, TX"	3.4	Texas	2015	48431
+"Polk County, NE"	2.6	Nebraska	2015	31143
+"Linn County, OR"	6.7	Oregon	2015	41043
+"Jefferson County, IL"	6.7	Illinois	2015	17081
+"Cumberland County, IL"	5.2	Illinois	2015	17035
+"Allen County, KY"	4.9	Kentucky	2015	21003
+"Charlevoix County, MI"	6	Michigan	2015	26029
+"Chittenden County, VT"	2.7	Vermont	2015	50007
+"Elmore County, ID"	4.8	Idaho	2015	16039
+"Jackson County, OR"	6.8	Oregon	2015	41029
+"Richland County, ND"	2.7	North Dakota	2015	38077
+"Washtenaw County, MI"	3.7	Michigan	2015	26161
+"Calhoun County, IA"	4.4	Iowa	2015	19025
+"Decatur County, TN"	7.8	Tennessee	2015	47039
+"Bracken County, KY"	6.4	Kentucky	2015	21023
+"Wahkiakum County, WA"	9	Washington	2015	53069
+"Pembina County, ND"	5.3	North Dakota	2015	38067
+"Deschutes County, OR"	5.9	Oregon	2015	41017
+"Greenwood County, SC"	6.3	South Carolina	2015	45047
+"Coshocton County, OH"	6.4	Ohio	2015	39031
+"Boyd County, NE"	2.7	Nebraska	2015	31015
+"Loudoun County, VA"	3.6	Virginia	2015	51107
+"Hardin County, OH"	4.8	Ohio	2015	39065
+"Sheridan County, MT"	2.5	Montana	2015	30091
+"Merrick County, NE"	3.8	Nebraska	2015	31121
+"Somerset County, PA"	6.8	Pennsylvania	2015	42111
+"Logan County, OH"	4.2	Ohio	2015	39091
+"Greene County, GA"	6.6	Georgia	2015	13133
+"Turner County, GA"	6.8	Georgia	2015	13287
+"Arapahoe County, CO"	3.7	Colorado	2015	8005
+"Vernon Parish, LA"	7.8	Louisiana	2015	22115
+"Putnam County, TN"	5.8	Tennessee	2015	47141
+"Jones County, IA"	4.3	Iowa	2015	19105
+"Hancock County, OH"	3.7	Ohio	2015	39063
+"Okeechobee County, FL"	6.2	Florida	2015	12093
+"Floyd County, IA"	3.8	Iowa	2015	19067
+"Craighead County, AR"	4.4	Arkansas	2015	5031
+"Saint Clair County, MI"	6.8	Michigan	2015	unavailable
+"Dutchess County, NY"	4.5	New York	2015	36027
+"Putnam County, NY"	4.3	New York	2015	36079
+"Caroline County, MD"	5.5	Maryland	2015	24011
+"Floyd County, IN"	4.3	Indiana	2015	18043
+"Lamb County, TX"	8.9	Texas	2015	48279
+"Sanborn County, SD"	2.5	South Dakota	2015	46111
+"Columbia County, WI"	4.4	Wisconsin	2015	55021
+"Washakie County, WY"	4.2	Wyoming	2015	56043
+"Fisher County, TX"	3.8	Texas	2015	48151
+"Hampden County, MA"	6.6	Massachusetts	2015	25013
+"Oldham County, TX"	3	Texas	2015	48359
+"Montezuma County, CO"	5.7	Colorado	2015	8083
+"Botetourt County, VA"	4.2	Virginia	2015	51023
+"Wells County, IN"	3.9	Indiana	2015	18179
+"Pulaski County, MO"	5.8	Missouri	2015	29169
+"Geauga County, OH"	4.2	Ohio	2015	39055
+"Pontotoc County, OK"	4	Oklahoma	2015	40123
+"Lewis County, WA"	8.5	Washington	2015	53041
+"Newaygo County, MI"	5.4	Michigan	2015	26123
+"Forrest County, MS"	6.3	Mississippi	2015	28035
+"Douglas County, WA"	6.4	Washington	2015	53017
+"Tangipahoa Parish, LA"	7.2	Louisiana	2015	22105
+"San Benito County, CA"	7.7	California	2015	6069
+"Stark County, OH"	5.3	Ohio	2015	39151
+"Calhoun County, FL"	6.1	Florida	2015	12013
+"La Salle County, TX"	4.2	Texas	2015	48283
+"Santa Cruz County, AZ"	11.4	Arizona	2015	4023
+"Carbon County, UT"	5.7	Utah	2015	49007
+"Dallas County, AR"	7.2	Arkansas	2015	5039
+"Bertie County, NC"	7.2	North Carolina	2015	37015
+"Onslow County, NC"	5.9	North Carolina	2015	37133
+"Houston County, GA"	5.8	Georgia	2015	13153
+"Searcy County, AR"	5.6	Arkansas	2015	5129
+"Kimble County, TX"	3.7	Texas	2015	48267
+"Edwards County, KS"	3	Kansas	2015	20047
+"Bremer County, IA"	3.6	Iowa	2015	19017
+"Nodaway County, MO"	4.9	Missouri	2015	29147
+"Oakland County, MI"	4.8	Michigan	2015	26125
+"San Francisco County, CA"	3.6	California	2015	6075
+"Metcalfe County, KY"	5.2	Kentucky	2015	21169
+"Clay County, NC"	6.2	North Carolina	2015	37043
+"Wayne County, IN"	5.3	Indiana	2015	18177
+"Winnebago County, IA"	4	Iowa	2015	19189
+"Lake County, TN"	8.5	Tennessee	2015	47095
+"Jennings County, IN"	5.1	Indiana	2015	18079
+"Franklin County, NE"	2.4	Nebraska	2015	31061
+"Waushara County, WI"	6.3	Wisconsin	2015	55137
+"Adams County, IA"	2.8	Iowa	2015	19003
+"Burleson County, TX"	4.4	Texas	2015	48051
+"Howard County, NE"	3.7	Nebraska	2015	31093
+"Turner County, SD"	2.7	South Dakota	2015	46125
+"LaPorte County, IN"	6.3	Indiana	2015	unavailable
+"Galax City, VA"	5.5	Virginia	2015	unavailable
+"Ogemaw County, MI"	7.8	Michigan	2015	26129
+"Marshall County, IL"	6.5	Illinois	2015	17123
+"Northampton County, NC"	7.6	North Carolina	2015	37131
+"Wilson County, TX"	3.8	Texas	2015	48493
+"Cowley County, KS"	4.6	Kansas	2015	20035
+"Coffee County, TN"	5.5	Tennessee	2015	47031
+"Adams County, ID"	7.7	Idaho	2015	16003
+"Scott County, MO"	5.2	Missouri	2015	29201
+"Upton County, TX"	3.9	Texas	2015	48461
+"Sierra County, NM"	9.1	New Mexico	2015	35051
+"Holt County, MO"	3.6	Missouri	2015	29087
+"Benton County, IA"	4	Iowa	2015	19011
+"Stephens County, TX"	4.2	Texas	2015	48429
+"Bath County, VA"	4.1	Virginia	2015	51017
+"Baldwin County, GA"	7.6	Georgia	2015	13009
+"Rusk County, WI"	5.5	Wisconsin	2015	55107
+"Rock County, NE"	2.7	Nebraska	2015	31149
+"Athens County, OH"	6.2	Ohio	2015	39009
+"Sherman County, TX"	2.8	Texas	2015	48421
+"Prentiss County, MS"	6	Mississippi	2015	28117
+"Walker County, TX"	5.1	Texas	2015	48471
+"Kenosha County, WI"	5.1	Wisconsin	2015	55059
+"Meigs County, TN"	7.6	Tennessee	2015	47121
+"Duplin County, NC"	5.8	North Carolina	2015	37061
+"Langlade County, WI"	6.1	Wisconsin	2015	55067
+"Bell County, TX"	4.7	Texas	2015	48027
+"Saunders County, NE"	3.1	Nebraska	2015	31155
+"Montgomery County, TX"	4.2	Texas	2015	48339
+"El Paso County, TX"	5.2	Texas	2015	48141
+"Clinch County, GA"	7	Georgia	2015	13065
+"Edgefield County, SC"	6.4	South Carolina	2015	45037
+"Washington County, TX"	4.8	Texas	2015	48477
+"Lincoln County, OR"	6.6	Oregon	2015	41041
+"Kent County, DE"	5.4	Delaware	2015	10001
+"Barron County, WI"	5	Wisconsin	2015	55005
+"Bristol County, RI"	5.1	Rhode Island	2015	44001
+"Kay County, OK"	5.7	Oklahoma	2015	40071
+"Pope County, AR"	5.3	Arkansas	2015	5115
+"Muscogee County, GA"	7.4	Georgia	2015	13215
+"Parke County, IN"	5.6	Indiana	2015	18121
+"Camden County, MO"	6.5	Missouri	2015	29029
+"Appanoose County, IA"	5	Iowa	2015	19007
+"Alleghany County, NC"	6.2	North Carolina	2015	37005
+"Bee County, TX"	6.2	Texas	2015	48025
+"Chaffee County, CO"	3.4	Colorado	2015	8015
+"Chippewa County, MN"	4.4	Minnesota	2015	27023
+"Marshall County, KS"	2.9	Kansas	2015	20117
+"Union County, AR"	6.2	Arkansas	2015	5139
+"Mason County, WV"	8.5	West Virginia	2015	54053
+"Boone County, IA"	3.1	Iowa	2015	19015
+"Noble County, IN"	4.3	Indiana	2015	18113
+"Trempealeau County, WI"	3.9	Wisconsin	2015	55121
+"Butte County, CA"	7.1	California	2015	6007
+"Attala County, MS"	7.6	Mississippi	2015	28007
+"Presidio County, TX"	10.7	Texas	2015	48377
+"Park County, CO"	3.4	Colorado	2015	8093
+"Hill County, MT"	4.2	Montana	2015	30041
+"McLennan County, TX"	4.1	Texas	2015	48309
+"Essex County, VT"	6.6	Vermont	2015	50009
+"Santa Clara County, CA"	4.2	California	2015	6085
+"Jasper County, IA"	4	Iowa	2015	19099
+"Salem County, NJ"	7.4	New Jersey	2015	34033
+"Fayette County, PA"	7.5	Pennsylvania	2015	42051
+"Emery County, UT"	6.1	Utah	2015	49015
+"Weld County, CO"	3.9	Colorado	2015	8123
+"Lincoln County, ME"	4.5	Maine	2015	23015
+"Doniphan County, KS"	4.4	Kansas	2015	20043
+"Natchitoches Parish, LA"	7.9	Louisiana	2015	22069
+"Columbia County, AR"	6.6	Arkansas	2015	5027
+"Adams County, IL"	4.9	Illinois	2015	17001
+"Hodgeman County, KS"	3.1	Kansas	2015	20083
+"Yalobusha County, MS"	7.1	Mississippi	2015	28161
+"Butler County, PA"	4.7	Pennsylvania	2015	42019
+"Dixon County, NE"	3.3	Nebraska	2015	31051
+"McKenzie County, ND"	2.5	North Dakota	2015	38053
+"Wake County, NC"	4.7	North Carolina	2015	37183
+"Boone County, NE"	2.5	Nebraska	2015	31011
+"Otter Tail County, MN"	4.2	Minnesota	2015	27111
+"Knox County, ME"	4.1	Maine	2015	23013
+"Sullivan County, PA"	6.2	Pennsylvania	2015	42113
+"Jenkins County, GA"	8.3	Georgia	2015	13165
+"Van Zandt County, TX"	4.5	Texas	2015	48467
+"Cumberland County, VA"	5.1	Virginia	2015	51049
+"Adair County, MO"	5.6	Missouri	2015	29001
+"Chilton County, AL"	5.7	Alabama	2015	1021
+"Macomb County, MI"	5.8	Michigan	2015	26099
+"Harvey County, KS"	3.9	Kansas	2015	20079
+"Washington County, TN"	5.5	Tennessee	2015	47179
+"Jackson County, GA"	4.8	Georgia	2015	13157
+"Dekalb County, TN"	6.8	Tennessee	2015	unavailable
+"Muscatine County, IA"	3.9	Iowa	2015	19139
+"Fayette County, IL"	6.5	Illinois	2015	17051
+"Willacy County, TX"	13	Texas	2015	48489
+"Bingham County, ID"	4.1	Idaho	2015	16011
+"Butler County, KS"	4.3	Kansas	2015	20015
+"Greene County, AL"	11.1	Alabama	2015	1063
+"Hudson County, NJ"	5.4	New Jersey	2015	34017
+"Henry County, MO"	5.4	Missouri	2015	29083
+"Hill County, TX"	4.6	Texas	2015	48217
+"Long County, GA"	5.9	Georgia	2015	13183
+"Eddy County, ND"	4.8	North Dakota	2015	38027
+"Asotin County, WA"	4.8	Washington	2015	53003
+"Atascosa County, TX"	4.8	Texas	2015	48013
+"Washington County, RI"	5.5	Rhode Island	2015	44009
+"Yavapai County, AZ"	5.6	Arizona	2015	4025
+"Randolph County, AR"	7.2	Arkansas	2015	5121
+"McCurtain County, OK"	7.9	Oklahoma	2015	40089
+"Ohio County, KY"	6.3	Kentucky	2015	21183
+"Wyandot County, OH"	3.7	Ohio	2015	39175
+"Kimball County, NE"	3.6	Nebraska	2015	31105
+"Gulf County, FL"	5.2	Florida	2015	12045
+"Greene County, MS"	7.5	Mississippi	2015	28041
+"Grady County, GA"	6	Georgia	2015	13131
+"Chisago County, MN"	4.2	Minnesota	2015	27025
+"Butler County, OH"	4.6	Ohio	2015	39017
+"Coos County, OR"	7.4	Oregon	2015	41011
+"Grayson County, TX"	4	Texas	2015	48181
+"Niobrara County, WY"	3	Wyoming	2015	56027
+"Oswego County, NY"	7.2	New York	2015	36075
+"Russell County, AL"	5.9	Alabama	2015	1113
+"Lincoln County, OK"	4.6	Oklahoma	2015	40081
+"Kent County, TX"	2.6	Texas	2015	48263
+"San Juan County, UT"	7.9	Utah	2015	49037
+"Alpena County, MI"	6.2	Michigan	2015	26007
+"Real County, TX"	5.1	Texas	2015	48385
+"Prince Edward County, VA"	6.3	Virginia	2015	51147
+"Johnson County, KS"	3.4	Kansas	2015	20091
+"Perkins County, NE"	1.9	Nebraska	2015	31135
+"Fauquier County, VA"	4	Virginia	2015	51061
+"Huerfano County, CO"	7.7	Colorado	2015	8055
+"Whitley County, IN"	4.1	Indiana	2015	18183
+"Davidson County, TN"	4.4	Tennessee	2015	47037
+"Presque Isle County, MI"	10.1	Michigan	2015	26141
+"Clay County, IL"	7	Illinois	2015	17025
+"Bienville Parish, LA"	8.3	Louisiana	2015	22013
+"Douglas County, GA"	6.3	Georgia	2015	13097
+"Dickinson County, KS"	5.2	Kansas	2015	20041
+"Chippewa County, MI"	7.7	Michigan	2015	26033
+"San Miguel County, NM"	7.7	New Mexico	2015	35047
+"Rutherford County, TN"	4.5	Tennessee	2015	47149
+"Ellis County, OK"	4.1	Oklahoma	2015	40045
+"Madison Parish, LA"	9.3	Louisiana	2015	22065
+"Marshall County, MN"	6.9	Minnesota	2015	27089
+"Lincoln County, SD"	2.2	South Dakota	2015	46083
+"Rich County, UT"	3.7	Utah	2015	49033
+"Bacon County, GA"	5.7	Georgia	2015	13005
+"Miner County, SD"	2.4	South Dakota	2015	46097
+"Jefferson County, IA"	3.9	Iowa	2015	19101
+"Mecosta County, MI"	6.1	Michigan	2015	26107
+"Ochiltree County, TX"	4.3	Texas	2015	48357
+"McDonald County, MO"	4.7	Missouri	2015	29119
+"Cabell County, WV"	5.5	West Virginia	2015	54011
+"San Juan County, CO"	4.2	Colorado	2015	8111
+"Muskogee County, OK"	5.1	Oklahoma	2015	40101
+"Clark County, WI"	4.4	Wisconsin	2015	55019
+"Titus County, TX"	5.8	Texas	2015	48449
+"Summit County, UT"	3.3	Utah	2015	49043
+"Faulk County, SD"	2.6	South Dakota	2015	46049
+"Pipestone County, MN"	3.4	Minnesota	2015	27117
+"Honolulu County, HI"	3.4	Hawaii	2015	15003
+"Pulaski County, IL"	8.8	Illinois	2015	17153
+"Adams County, OH"	7.8	Ohio	2015	39001
+"Gloucester County, VA"	4.1	Virginia	2015	51073
+"Stoddard County, MO"	6.6	Missouri	2015	29207
+"Pender County, NC"	6.1	North Carolina	2015	37141
+"Wabash County, IN"	4.8	Indiana	2015	18169
+"Newton County, MS"	6.1	Mississippi	2015	28101
+"Orange County, VT"	3.4	Vermont	2015	50017
+"Maricopa County, AZ"	5.1	Arizona	2015	4013
+"Linn County, IA"	3.9	Iowa	2015	19113
+"Yuma County, CO"	2.6	Colorado	2015	8125
+"Martin County, IN"	4.2	Indiana	2015	18101
+"Paulding County, GA"	5.2	Georgia	2015	13223
+"Lafayette County, WI"	3.7	Wisconsin	2015	55065
+"Greene County, NC"	5.5	North Carolina	2015	37079
+"Saint Louis County, MO"	4.6	Missouri	2015	unavailable
+"Lamar County, MS"	4.8	Mississippi	2015	28073
+"Houston County, AL"	6.2	Alabama	2015	1069
+"Calaveras County, CA"	6.4	California	2015	6009
+"Lake County, IL"	5.3	Illinois	2015	17097
+"Brule County, SD"	2.7	South Dakota	2015	46015
+"Sioux County, IA"	2.5	Iowa	2015	19167
+"Beltrami County, MN"	4.9	Minnesota	2015	27007
+"Collingsworth County, TX"	3.6	Texas	2015	48087
+"Dodge County, GA"	8.4	Georgia	2015	13091
+"Franklin County, NY"	6.5	New York	2015	36033
+"Morton County, ND"	3.1	North Dakota	2015	38059
+"Virginia Beach City, VA"	4.3	Virginia	2015	unavailable
+"Manitowoc County, WI"	5	Wisconsin	2015	55071
+"Gonzales County, TX"	3.7	Texas	2015	48177
+"Holmes County, MS"	12	Mississippi	2015	28051
+"Coconino County, AZ"	6.5	Arizona	2015	4005
+"Goodhue County, MN"	3.5	Minnesota	2015	27049
+"Sheridan County, NE"	2.7	Nebraska	2015	31161
+"Nemaha County, KS"	2.6	Kansas	2015	20131
+"Barry County, MI"	4.3	Michigan	2015	26015
+"Amherst County, VA"	4.8	Virginia	2015	51009
+"Baraga County, MI"	9.1	Michigan	2015	26013
+"Echols County, GA"	4.7	Georgia	2015	13101
+"Polk County, AR"	5.8	Arkansas	2015	5113
+"Cook County, MN"	4.4	Minnesota	2015	27031
+"Shawnee County, KS"	4.3	Kansas	2015	20177
+"Josephine County, OR"	7.7	Oregon	2015	41033
+"Denver County, CO"	3.7	Colorado	2015	8031
+"Bristol City, VA"	5.4	Virginia	2015	unavailable
+"Sitka Borough, AK"	4.6	Alaska	2015	2220
+"Corson County, SD"	5	South Dakota	2015	46031
+"Lincoln County, NV"	6	Nevada	2015	32017
+"Haskell County, KS"	2.5	Kansas	2015	20081
+"Monroe County, IN"	4.9	Indiana	2015	18105
+"Lauderdale County, TN"	8.8	Tennessee	2015	47097
+"Manatee County, FL"	5	Florida	2015	12081
+"Graham County, KS"	4	Kansas	2015	20065
+"Blount County, TN"	5.1	Tennessee	2015	47009
+"Garfield County, NE"	2.4	Nebraska	2015	31071
+"Hickory County, MO"	6.6	Missouri	2015	29085
+"Richmond County, GA"	7.4	Georgia	2015	13245
+"Doddridge County, WV"	5.5	West Virginia	2015	54017
+"Bandera County, TX"	4	Texas	2015	48019
+"Nueces County, TX"	4.9	Texas	2015	48355
+"Alachua County, FL"	4.6	Florida	2015	12001
+"Covington City, VA"	6	Virginia	2015	unavailable
+"Catahoula Parish, LA"	9.6	Louisiana	2015	22025
+"York County, NE"	2.9	Nebraska	2015	31185
+"Greene County, PA"	6	Pennsylvania	2015	42059
+"Grainger County, TN"	6.6	Tennessee	2015	47057
+"Solano County, CA"	6.1	California	2015	6095
+"Morgan County, WV"	5.5	West Virginia	2015	54065
+"Van Buren County, IA"	4.1	Iowa	2015	19177
+"Warren County, NJ"	5.4	New Jersey	2015	34041
+"Henrico County, VA"	4.3	Virginia	2015	51087
+"Anne Arundel County, MD"	4.4	Maryland	2015	24003
+"Nez Perce County, ID"	3.7	Idaho	2015	16069
+"Buncombe County, NC"	4.4	North Carolina	2015	37021
+"Utah County, UT"	3.3	Utah	2015	49049
+"Bedford County, PA"	6.1	Pennsylvania	2015	42009
+"Monroe County, MI"	4.5	Michigan	2015	26115
+"Big Stone County, MN"	4.5	Minnesota	2015	27011
+"Pike County, PA"	6.5	Pennsylvania	2015	42103
+"Grant County, SD"	2.9	South Dakota	2015	46051
+"Chowan County, NC"	7.2	North Carolina	2015	37041
+"Anchorage Borough, AK"	5	Alaska	2015	2020
+"Hettinger County, ND"	2.5	North Dakota	2015	38041
+"Washington County, ID"	5.9	Idaho	2015	16087
+"Sainte Genevieve County, MO"	5.3	Missouri	2015	unavailable
+"Pike County, OH"	7.3	Ohio	2015	39131
+"Logan County, NE"	3	Nebraska	2015	31113
+"Cheyenne County, KS"	2.7	Kansas	2015	20023
+"Franklin County, IA"	3.4	Iowa	2015	19069
+"Orange County, NC"	4.6	North Carolina	2015	37135
+"Fayette County, TN"	6.1	Tennessee	2015	47047
+"Modoc County, CA"	8.5	California	2015	6049
+"Thurston County, NE"	5.4	Nebraska	2015	31173
+"Saint Clair County, MO"	6.9	Missouri	2015	unavailable
+"Brown County, TX"	4.3	Texas	2015	48049
+"Tuscaloosa County, AL"	5.5	Alabama	2015	1125
+"Waupaca County, WI"	4.7	Wisconsin	2015	55135
+"Creek County, OK"	4.9	Oklahoma	2015	40037
+"Malheur County, OR"	6.4	Oregon	2015	41045
+"Randall County, TX"	2.9	Texas	2015	48381
+"Multnomah County, OR"	4.9	Oregon	2015	41051
+"Wayne County, UT"	9.1	Utah	2015	49055
+"Racine County, WI"	5.6	Wisconsin	2015	55101
+"Alamosa County, CO"	5.2	Colorado	2015	8003
+"Douglas County, MO"	6.8	Missouri	2015	29067
+"Klamath County, OR"	7.8	Oregon	2015	41035
+"Saint Landry Parish, LA"	8	Louisiana	2015	unavailable
+"Pontotoc County, MS"	5.6	Mississippi	2015	28115
+"Clay County, IN"	5.3	Indiana	2015	18021
+"Shelby County, KY"	4	Kentucky	2015	21211
+"Iosco County, MI"	7.5	Michigan	2015	26069
+"Southampton County, VA"	4	Virginia	2015	51175
+"Kit Carson County, CO"	2.4	Colorado	2015	8063
+"Floyd County, KY"	9.2	Kentucky	2015	21071
+"Comanche County, TX"	4.2	Texas	2015	48093
+"Benzie County, MI"	6.9	Michigan	2015	26019
+"Sheridan County, WY"	4.2	Wyoming	2015	56033
+"Alleghany County, VA"	5.1	Virginia	2015	51005
+"Hays County, TX"	3.4	Texas	2015	48209
+"Mercer County, KY"	5	Kentucky	2015	21167
+"Bulloch County, GA"	6	Georgia	2015	13031
+"Murray County, MN"	4.5	Minnesota	2015	27101
+"Newton County, TX"	7.5	Texas	2015	48351
+"Manassas City, VA"	4.2	Virginia	2015	unavailable
+"Mitchell County, IA"	2.9	Iowa	2015	19131
+"Sanders County, MT"	8.3	Montana	2015	30089
+"Schley County, GA"	6.6	Georgia	2015	13249
+"Texas County, OK"	3.2	Oklahoma	2015	40139
+"Rockland County, NY"	4.5	New York	2015	36087
+"Bartholomew County, IN"	3.6	Indiana	2015	18005
+"Gray County, TX"	5.6	Texas	2015	48179
+"Fond du Lac County, WI"	4.1	Wisconsin	2015	55039
+"Franklin County, TX"	4.9	Texas	2015	48159
+"Baca County, CO"	2.1	Colorado	2015	8009
+"Clearwater County, ID"	8.1	Idaho	2015	16035
+"Rio Blanco County, CO"	5.3	Colorado	2015	8103
+"Barber County, KS"	4.3	Kansas	2015	20007
+"Benton County, TN"	7.7	Tennessee	2015	47005
+"Daggett County, UT"	4.7	Utah	2015	49009
+"Linn County, MO"	7	Missouri	2015	29115
+"Gosper County, NE"	2.5	Nebraska	2015	31073
+"Passaic County, NJ"	7.1	New Jersey	2015	34031
+"Stanton County, KS"	3	Kansas	2015	20187
+"Morris County, TX"	8.8	Texas	2015	48343
+"West Carroll Parish, LA"	13.5	Louisiana	2015	22123
+"Levy County, FL"	5.7	Florida	2015	12075
+"Wadena County, MN"	6	Minnesota	2015	27159
+"Marshall County, IA"	5.2	Iowa	2015	19127
+"Pearl River County, MS"	6.1	Mississippi	2015	28109
+"Talbot County, GA"	7.7	Georgia	2015	13263
+"Rusk County, TX"	4.8	Texas	2015	48401
+"Keokuk County, IA"	4.3	Iowa	2015	19107
+"Baxter County, AR"	5.5	Arkansas	2015	5005
+"Howard County, AR"	4.2	Arkansas	2015	5061
+"Siskiyou County, CA"	9.3	California	2015	6093
+"Medina County, OH"	4.1	Ohio	2015	39103
+"Alameda County, CA"	4.7	California	2015	6001
+"Ector County, TX"	4.6	Texas	2015	48135
+"Dekalb County, GA"	6	Georgia	2015	unavailable
+"Dade County, GA"	5.5	Georgia	2015	13083
+"Moffat County, CO"	4.6	Colorado	2015	8081
+"Carroll County, NH"	3.5	New Hampshire	2015	33003
+"Clinton County, KY"	8.2	Kentucky	2015	21053
+"Jackson County, MS"	7	Mississippi	2015	28059
+"Litchfield County, CT"	5.1	Connecticut	2015	9005
+"Scott County, MS"	4.8	Mississippi	2015	28123
+"Lowndes County, GA"	5.9	Georgia	2015	13185
+"Sherburne County, MN"	4	Minnesota	2015	27141
+"Van Buren County, TN"	8	Tennessee	2015	47175
+"Gwinnett County, GA"	5.2	Georgia	2015	13135
+"Moody County, SD"	3.4	South Dakota	2015	46101
+"Lawrence County, OH"	5.9	Ohio	2015	39087
+"Cheatham County, TN"	4.8	Tennessee	2015	47021
+"Mathews County, VA"	4.2	Virginia	2015	51115
+"Crisp County, GA"	6.8	Georgia	2015	13081
+"Holt County, NE"	2.4	Nebraska	2015	31089
+"Lowndes County, AL"	11.7	Alabama	2015	1085
+"Clinton County, IN"	4	Indiana	2015	18023
+"Caroline County, VA"	5.1	Virginia	2015	51033
+"Cass County, IN"	4.6	Indiana	2015	18017
+"Kemper County, MS"	10.3	Mississippi	2015	28069
+"Hutchinson County, SD"	2.5	South Dakota	2015	46067
+"Garfield County, CO"	4.2	Colorado	2015	8045
+"Johnson County, TN"	5.6	Tennessee	2015	47091
+"Minidoka County, ID"	3.7	Idaho	2015	16067
+"Franklin City, VA"	6.7	Virginia	2015	unavailable
+"Lane County, KS"	3.3	Kansas	2015	20101
+"Currituck County, NC"	5.8	North Carolina	2015	37053
+"Coal County, OK"	7.6	Oklahoma	2015	40029
+"Berkeley County, SC"	5.5	South Carolina	2015	45015
+"Comal County, TX"	3.7	Texas	2015	48091
+"Llano County, TX"	4.2	Texas	2015	48299
+"Kiowa County, OK"	4.6	Oklahoma	2015	40075
+"Macon County, IL"	6.9	Illinois	2015	17115
+"Darlington County, SC"	7.4	South Carolina	2015	45031
+"Prairie County, MT"	4.1	Montana	2015	30079
+"Yolo County, CA"	6.4	California	2015	6113
+"Trimble County, KY"	5.7	Kentucky	2015	21223
+"Cumberland County, ME"	3.3	Maine	2015	23005
+"Lea County, NM"	6.2	New Mexico	2015	35025
+"Crawford County, KS"	5.1	Kansas	2015	20037
+"Saint Helena Parish, LA"	9.1	Louisiana	2015	unavailable
+"Monterey County, CA"	8.1	California	2015	6053
+"Jeff Davis County, GA"	6.7	Georgia	2015	13161
+"Norfolk City, VA"	5.6	Virginia	2015	unavailable
+"Price County, WI"	4.5	Wisconsin	2015	55099
+"Missoula County, MT"	3.9	Montana	2015	30063
+"Johnston County, OK"	6.5	Oklahoma	2015	40069
+"Brevard County, FL"	5.9	Florida	2015	12009
+"Richland County, SC"	5.7	South Carolina	2015	45079
+"Monroe County, WV"	5.6	West Virginia	2015	54063
+"Grand Forks County, ND"	2.4	North Dakota	2015	38035
+"Desha County, AR"	7.3	Arkansas	2015	5041
+"Newton County, IN"	5.8	Indiana	2015	18111
+"Jefferson County, OR"	7.3	Oregon	2015	41031
+"Carter County, KY"	9.8	Kentucky	2015	21043
+"Evans County, GA"	5.6	Georgia	2015	13109
+"Tipton County, IN"	4	Indiana	2015	18159
+"Pike County, MO"	4.6	Missouri	2015	29163
+"Monroe County, MS"	7.3	Mississippi	2015	28095
+"Walker County, GA"	6	Georgia	2015	13295
+"Whiteside County, IL"	6.1	Illinois	2015	17195
+"Louisa County, IA"	3.9	Iowa	2015	19115
+"Owen County, IN"	6.3	Indiana	2015	18119
+"Waukesha County, WI"	3.8	Wisconsin	2015	55133
+"Van Wert County, OH"	4.1	Ohio	2015	39161
+"Latimer County, OK"	8.1	Oklahoma	2015	40077
+"Jeff Davis County, TX"	3.3	Texas	2015	48243
+"Newton County, AR"	4.9	Arkansas	2015	5101
+"Essex County, MA"	5	Massachusetts	2015	25009
+"Quitman County, GA"	6.9	Georgia	2015	13239
+"Blue Earth County, MN"	3	Minnesota	2015	27013
+"Harnett County, NC"	6.7	North Carolina	2015	37085
+"Monona County, IA"	4.5	Iowa	2015	19133
+"Nowata County, OK"	5.7	Oklahoma	2015	40105
+"Beaufort County, SC"	5.5	South Carolina	2015	45013
+"Coryell County, TX"	4.8	Texas	2015	48099
+"Benton County, OR"	4.2	Oregon	2015	41003
+"Walworth County, SD"	5.4	South Dakota	2015	46129
+"Valencia County, NM"	7.5	New Mexico	2015	35061
+"Cass County, IL"	5.6	Illinois	2015	17017
+"Jackson County, TX"	3.8	Texas	2015	48239
+"Keith County, NE"	2.7	Nebraska	2015	31101
+"McIntosh County, OK"	8.6	Oklahoma	2015	40091
+"Roane County, WV"	11.5	West Virginia	2015	54087
+"Lipscomb County, TX"	3.9	Texas	2015	48295
+"Grand County, CO"	3.2	Colorado	2015	8049
+"Aransas County, TX"	5.1	Texas	2015	48007
+"Washington County, KS"	3.1	Kansas	2015	20201
+"Sheridan County, KS"	2.2	Kansas	2015	20179
+"Houston County, TN"	8.6	Tennessee	2015	47083
+"Bryan County, OK"	4.5	Oklahoma	2015	40013
+"Bolivar County, MS"	7.8	Mississippi	2015	28011
+"Fulton County, PA"	6.2	Pennsylvania	2015	42057
+"Pope County, MN"	3.5	Minnesota	2015	27121
+"Quay County, NM"	7.1	New Mexico	2015	35037
+"Dallas County, MO"	6.2	Missouri	2015	29059
+"El Paso County, CO"	4.6	Colorado	2015	8041
+"Mineral County, WV"	7.4	West Virginia	2015	54057
+"Johnson County, NE"	3.3	Nebraska	2015	31097
+"Karnes County, TX"	4.2	Texas	2015	48255
+"Delaware County, IN"	5.7	Indiana	2015	18035
+"Sumter County, SC"	6.8	South Carolina	2015	45085
+"Lake County, IN"	6.8	Indiana	2015	18089
+"Coosa County, AL"	6.7	Alabama	2015	1037
+"Beaverhead County, MT"	3.4	Montana	2015	30001
+"Ventura County, CA"	5.6	California	2015	6111
+"Taylor County, GA"	9.2	Georgia	2015	13269
+"Golden Valley County, ND"	2.3	North Dakota	2015	38033
+"Lyon County, MN"	3.2	Minnesota	2015	27083
+"Eddy County, NM"	4.9	New Mexico	2015	35015
+"Delta County, CO"	5.7	Colorado	2015	8029
+"Monongalia County, WV"	4.7	West Virginia	2015	54061
+"Richland County, OH"	5.6	Ohio	2015	39139
+"Pike County, AL"	6.6	Alabama	2015	1109
+"Chester County, TN"	5.8	Tennessee	2015	47023
+"San Patricio County, TX"	6.5	Texas	2015	48409
+"Dooly County, GA"	7.5	Georgia	2015	13093
+"Kootenai County, ID"	5.1	Idaho	2015	16055
+"Seminole County, OK"	6.8	Oklahoma	2015	40133
+"Los Angeles County, CA"	6.6	California	2015	6037
+"Simpson County, MS"	5.9	Mississippi	2015	28127
+"Kearny County, KS"	3.1	Kansas	2015	20093
+"Nye County, NV"	8.7	Nevada	2015	32023
+"Lewis County, TN"	7.3	Tennessee	2015	47101
+"Warrick County, IN"	4.1	Indiana	2015	18173
+"Madison County, ID"	2.7	Idaho	2015	16065
+"Hempstead County, AR"	5	Arkansas	2015	5057
+"Clark County, IL"	6.2	Illinois	2015	17023
+"Sagadahoc County, ME"	3.5	Maine	2015	23023
+"Middlesex County, CT"	4.9	Connecticut	2015	9007
+"Howard County, TX"	4.6	Texas	2015	48227
+"Dixie County, FL"	6.2	Florida	2015	12029
+"Crawford County, MO"	6	Missouri	2015	29055
+"Putnam County, IN"	5.1	Indiana	2015	18133
+"Caddo Parish, LA"	7.1	Louisiana	2015	22017
+"Cleveland County, NC"	6.4	North Carolina	2015	37045
+"McDuffie County, GA"	8.3	Georgia	2015	13189
+"Nolan County, TX"	4	Texas	2015	48353
+"Washington County, IN"	5.2	Indiana	2015	18175
+"Greer County, OK"	5.6	Oklahoma	2015	40055
+"Plymouth County, MA"	5.1	Massachusetts	2015	25023
+"Chenango County, NY"	5.5	New York	2015	36017
+"Hayes County, NE"	2.3	Nebraska	2015	31085
+"Allen Parish, LA"	7	Louisiana	2015	22003
+"Vernon County, WI"	4.1	Wisconsin	2015	55123
+"Freestone County, TX"	5.4	Texas	2015	48161
+"Nassau County, FL"	5.1	Florida	2015	12089
+"Jefferson County, OK"	5.7	Oklahoma	2015	40067
+"Shawano County, WI"	4.9	Wisconsin	2015	55115
+"Greeley County, NE"	3.1	Nebraska	2015	31077
+"Calhoun County, WV"	12.5	West Virginia	2015	54013
+"Pennington County, MN"	5.2	Minnesota	2015	27113
+"Benton County, IN"	4.5	Indiana	2015	18007
+"Spink County, SD"	3.1	South Dakota	2015	46115
+"Gordon County, GA"	5.9	Georgia	2015	13129
+"Socorro County, NM"	7.6	New Mexico	2015	35053
+"Transylvania County, NC"	5.5	North Carolina	2015	37175
+"Bannock County, ID"	4	Idaho	2015	16005
+"Washita County, OK"	5.5	Oklahoma	2015	40149
+"Bear Lake County, ID"	4.5	Idaho	2015	16007
+"Fremont County, CO"	6.2	Colorado	2015	8043
+"Sedgwick County, CO"	3.4	Colorado	2015	8115
+"Spencer County, IN"	4.1	Indiana	2015	18147
+"Weston County, WY"	3.4	Wyoming	2015	56045
+"Cape May County, NJ"	11.1	New Jersey	2015	34009
+"Bristol Bay Borough, AK"	9.2	Alaska	2015	2060
+"Amite County, MS"	7.5	Mississippi	2015	28005
+"Lumpkin County, GA"	5.4	Georgia	2015	13187
+"Fayette County, IA"	4.6	Iowa	2015	19065
+"Van Buren County, AR"	6.7	Arkansas	2015	5141
+"Hanson County, SD"	3.3	South Dakota	2015	46061
+"Hood River County, OR"	4.7	Oregon	2015	41027
+"Bennett County, SD"	4.9	South Dakota	2015	46007
+"Ingham County, MI"	4.7	Michigan	2015	26065
+"Isanti County, MN"	4.3	Minnesota	2015	27059
+"Clay County, IA"	3.7	Iowa	2015	19041
+"Coke County, TX"	4	Texas	2015	48081
+"Alpine County, CA"	7.3	California	2015	6003
+"Woodbury County, IA"	3.8	Iowa	2015	19193
+"Lincoln County, MS"	6.1	Mississippi	2015	28085
+"Reagan County, TX"	4.5	Texas	2015	48383
+"Jasper County, IL"	6.2	Illinois	2015	17079
+"Cullman County, AL"	5.2	Alabama	2015	1043
+"Stone County, MS"	7.4	Mississippi	2015	28131
+"Smith County, TN"	5.6	Tennessee	2015	47159
+"West Baton Rouge Parish, LA"	5.6	Louisiana	2015	22121
+"Daviess County, MO"	4.5	Missouri	2015	29061
+"Wyoming County, WV"	9.7	West Virginia	2015	54109
+"Sutter County, CA"	10.7	California	2015	6101
+"Yukon-Koyukuk Census Area, AK"	18.2	Alaska	2015	2290
+"Taylor County, KY"	6.4	Kentucky	2015	21217
+"Forest County, PA"	7.8	Pennsylvania	2015	42053
+"Hot Springs County, WY"	4.2	Wyoming	2015	56017
+"Neosho County, KS"	7.5	Kansas	2015	20133
+"Broome County, NY"	6	New York	2015	36007
+"Cherokee County, AL"	5.4	Alabama	2015	1019
+"Lawrence County, IL"	7	Illinois	2015	17101
+"Dekalb County, AL"	6	Alabama	2015	unavailable
+"Lake of the Woods County, MN"	4.5	Minnesota	2015	27077
+"Tioga County, PA"	6.5	Pennsylvania	2015	42117
+"Clark County, WA"	6.5	Washington	2015	53011
+"Montgomery County, AL"	6.2	Alabama	2015	1101
+"Costilla County, CO"	6.5	Colorado	2015	8023
+"Lac qui Parle County, MN"	4.1	Minnesota	2015	27073
+"Tallahatchie County, MS"	7.5	Mississippi	2015	28135
+"Iowa County, IA"	3.6	Iowa	2015	19095
+"Lawrence County, MO"	4.9	Missouri	2015	29109
+"Franklin County, NC"	5.9	North Carolina	2015	37069
+"Buckingham County, VA"	5.9	Virginia	2015	51029
+"Umatilla County, OR"	6.4	Oregon	2015	41059
+"Floyd County, TX"	5.5	Texas	2015	48153
+"Horry County, SC"	7.1	South Carolina	2015	45051
+"Cherokee County, NC"	6.5	North Carolina	2015	37039
+"Westchester County, NY"	4.5	New York	2015	36119
+"Rush County, IN"	4.3	Indiana	2015	18139
+"Noxubee County, MS"	9.7	Mississippi	2015	28103
+"Cleveland County, OK"	3.5	Oklahoma	2015	40027
+"Seneca County, NY"	5.1	New York	2015	36099
+"Benton County, WA"	6.7	Washington	2015	53005
+"Logan County, CO"	3.1	Colorado	2015	8075
+"Ramsey County, ND"	3.4	North Dakota	2015	38071
+"Armstrong County, TX"	2.7	Texas	2015	48011
+"Dillingham Census Area, AK"	9.6	Alaska	2015	2070
+"Jefferson County, PA"	6.1	Pennsylvania	2015	42065
+"Ziebach County, SD"	5	South Dakota	2015	46137
+"Jackson County, IN"	4	Indiana	2015	18071
+"Clarke County, IA"	4.2	Iowa	2015	19039
+"Scott County, KY"	4	Kentucky	2015	21209
+"McLean County, KY"	4.9	Kentucky	2015	21149
+"Madison County, MS"	4.6	Mississippi	2015	28089
+"Benton County, MO"	6.5	Missouri	2015	29015
+"Waynesboro City, VA"	4.8	Virginia	2015	unavailable
+"Lincoln Parish, LA"	7.4	Louisiana	2015	22061
+"Montmorency County, MI"	9.9	Michigan	2015	26119
+"Radford City, VA"	5.7	Virginia	2015	unavailable
+"Liberty County, FL"	5.8	Florida	2015	12077
+"Cherokee County, GA"	4.7	Georgia	2015	13057
+"Trigg County, KY"	5.8	Kentucky	2015	21221
+"Shelby County, TX"	5.3	Texas	2015	48419
+"Washington County, MN"	3.2	Minnesota	2015	27163
+"Fayette County, IN"	6.6	Indiana	2015	18041
+"Caledonia County, VT"	4.7	Vermont	2015	50005
+"Thurston County, WA"	6	Washington	2015	53067
+"Preston County, WV"	6.3	West Virginia	2015	54077
+"Aitkin County, MN"	6.6	Minnesota	2015	27001
+"Falls County, TX"	4.2	Texas	2015	48145
+"Salem City, VA"	4.4	Virginia	2015	unavailable
+"Greene County, IL"	6.1	Illinois	2015	17061
+"Stafford County, KS"	4	Kansas	2015	20185
+"Flathead County, MT"	5.7	Montana	2015	30029
+"Vinton County, OH"	6.5	Ohio	2015	39163
+"Otero County, CO"	5.8	Colorado	2015	8089
+"Laurel County, KY"	6.2	Kentucky	2015	21125
+"Le Flore County, OK"	6.9	Oklahoma	2015	40079
+"Phillips County, KS"	3.2	Kansas	2015	20147
+"Jasper County, SC"	5.1	South Carolina	2015	45053
+"Keweenaw County, MI"	9.2	Michigan	2015	26083
+"Dekalb County, MO"	4.6	Missouri	2015	unavailable
+"Twin Falls County, ID"	3.7	Idaho	2015	16083
+"Decatur County, IN"	4.1	Indiana	2015	18031
+"Saint Joseph County, MI"	4.5	Michigan	2015	unavailable
+"Musselshell County, MT"	4.3	Montana	2015	30065
+"Oktibbeha County, MS"	6.1	Mississippi	2015	28105
+"Kittitas County, WA"	6.3	Washington	2015	53037
+"Madison County, AL"	5.5	Alabama	2015	1089
+"Yoakum County, TX"	3.8	Texas	2015	48501
+"Hudspeth County, TX"	5.6	Texas	2015	48229
+"Cameron County, TX"	7.1	Texas	2015	48061
+"Hillsdale County, MI"	5.2	Michigan	2015	26059
+"Camas County, ID"	3.5	Idaho	2015	16025
+"Northumberland County, PA"	6.1	Pennsylvania	2015	42097
+"Mingo County, WV"	13.2	West Virginia	2015	54059
+"Fulton County, KY"	7.6	Kentucky	2015	21075
+"East Feliciana Parish, LA"	6	Louisiana	2015	22037
+"Hinds County, MS"	6	Mississippi	2015	28049
+"Jackson County, CO"	3.7	Colorado	2015	8057
+"Tillman County, OK"	4.3	Oklahoma	2015	40141
+"San Joaquin County, CA"	8.9	California	2015	6077
+"Walsh County, ND"	4.2	North Dakota	2015	38099
+"Richmond City, VA"	5.2	Virginia	2015	unavailable
+"Augusta County, VA"	4.1	Virginia	2015	51015
+"Conejos County, CO"	5.7	Colorado	2015	8021
+"Taylor County, IA"	3.2	Iowa	2015	19173
+"Gregg County, TX"	5	Texas	2015	48183
+"Irwin County, GA"	8.4	Georgia	2015	13155
+"Travis County, TX"	3.3	Texas	2015	48453
+"Perry County, IL"	7.1	Illinois	2015	17145
+"Alexander County, IL"	9.1	Illinois	2015	17003
+"Calhoun County, MS"	6.2	Mississippi	2015	28013
+"Cape Girardeau County, MO"	4.3	Missouri	2015	29031
+"Shelby County, OH"	4.3	Ohio	2015	39149
+"Rabun County, GA"	6.7	Georgia	2015	13241
+"Republic County, KS"	2.7	Kansas	2015	20157
+"Magoffin County, KY"	15	Kentucky	2015	21153
+"Texas County, MO"	6.6	Missouri	2015	29215
+"Brewster County, TX"	4	Texas	2015	48043
+"Montgomery County, GA"	8.7	Georgia	2015	13209
+"Davidson County, NC"	5.6	North Carolina	2015	37057
+"Rockbridge County, VA"	4.7	Virginia	2015	51163
+"Polk County, MN"	4.2	Minnesota	2015	27119
+"Ravalli County, MT"	5.2	Montana	2015	30081
+"Osage County, OK"	5.2	Oklahoma	2015	40113
+"Owyhee County, ID"	4.8	Idaho	2015	16073
+"Bonner County, ID"	6	Idaho	2015	16017
+"Marion County, TN"	6.7	Tennessee	2015	47115
+"Harrison County, MO"	5.1	Missouri	2015	29081
+"Erath County, TX"	3.9	Texas	2015	48143
+"Jerome County, ID"	3.3	Idaho	2015	16053
+"Gallatin County, MT"	3	Montana	2015	30031
+"Benton County, MN"	4.5	Minnesota	2015	27009
+"Wilkinson County, GA"	7.3	Georgia	2015	13319
+"Butler County, IA"	4.5	Iowa	2015	19023
+"Gallatin County, KY"	5.2	Kentucky	2015	21077
+"Cherokee County, TX"	5.2	Texas	2015	48073
+"Boyd County, KY"	6.9	Kentucky	2015	21019
+"Love County, OK"	3.5	Oklahoma	2015	40085
+"Gem County, ID"	5.3	Idaho	2015	16045
+"Stanly County, NC"	5.3	North Carolina	2015	37167
+"Carroll County, IL"	5.4	Illinois	2015	17015
+"Rockingham County, NH"	3.6	New Hampshire	2015	33015
+"Frontier County, NE"	2.5	Nebraska	2015	31063
+"Sabine County, TX"	9.3	Texas	2015	48403
+"Winona County, MN"	3.3	Minnesota	2015	27169
+"Morgan County, AL"	5.8	Alabama	2015	1103
+"Chatham County, GA"	5.8	Georgia	2015	13051
+"Murray County, GA"	7.4	Georgia	2015	13213
+"Clayton County, IA"	4.2	Iowa	2015	19043
+"Stone County, MO"	7.9	Missouri	2015	29209
+"Gasconade County, MO"	4.2	Missouri	2015	29073
+"Red River Parish, LA"	6.9	Louisiana	2015	22081
+"Wilson County, TN"	4.6	Tennessee	2015	47189
+"Swift County, MN"	6.1	Minnesota	2015	27151
+"Mahnomen County, MN"	5.8	Minnesota	2015	27087
+"Thomas County, GA"	7.2	Georgia	2015	13275
+"Fairfield County, OH"	4.3	Ohio	2015	39045
+"Mason County, TX"	3.8	Texas	2015	48319
+"Franklin County, TN"	5.2	Tennessee	2015	47051
+"Washington County, NY"	5	New York	2015	36115
+"Ohio County, WV"	5.6	West Virginia	2015	54069
+"Kaufman County, TX"	4.1	Texas	2015	48257
+"Polk County, IA"	3.7	Iowa	2015	19153
+"Bedford County, TN"	6.4	Tennessee	2015	47003
+"Worcester County, MA"	5.2	Massachusetts	2015	25027
+"Washington County, NE"	3	Nebraska	2015	31177
+"Izard County, AR"	6.6	Arkansas	2015	5065
+"Sioux County, ND"	4.4	North Dakota	2015	38085
+"Franklin County, AL"	6.4	Alabama	2015	1059
+"York County, PA"	4.8	Pennsylvania	2015	42133
+"Foard County, TX"	4	Texas	2015	48155
+"Wilbarger County, TX"	4.8	Texas	2015	48487
+"Floyd County, VA"	4	Virginia	2015	51063
+"Saline County, NE"	3	Nebraska	2015	31151
+"Marion County, KS"	3.8	Kansas	2015	20115
+"Lee County, MS"	5.5	Mississippi	2015	28081
+"Greensville County, VA"	5.4	Virginia	2015	51081
+"Simpson County, KY"	4.8	Kentucky	2015	21213
+"Gage County, NE"	3.7	Nebraska	2015	31067
+"Lorain County, OH"	5.6	Ohio	2015	39093
+"Lewis and Clark County, MT"	3.4	Montana	2015	30049
+"Lake County, MN"	4.8	Minnesota	2015	27075
+"Hancock County, IA"	2.8	Iowa	2015	19081
+"Colbert County, AL"	7.9	Alabama	2015	1033
+"Morgan County, IL"	5	Illinois	2015	17137
+"Dickinson County, IA"	4	Iowa	2015	19059
+"Pueblo County, CO"	5.7	Colorado	2015	8101
+"Golden Valley County, MT"	4.2	Montana	2015	30037
+"Wheatland County, MT"	5.4	Montana	2015	30107
+"Macon County, MO"	5.3	Missouri	2015	29121
+"Brooke County, WV"	7.3	West Virginia	2015	54009
+"Schoharie County, NY"	5.8	New York	2015	36095
+"Knott County, KY"	10	Kentucky	2015	21119
+"Charlottesville City, VA"	3.7	Virginia	2015	unavailable
+"Douglas County, NE"	3.4	Nebraska	2015	31055
+"Calumet County, WI"	3.6	Wisconsin	2015	55015
+"Wayne County, IA"	4	Iowa	2015	19185
+"Sherman County, KS"	2.9	Kansas	2015	20181
+"Stark County, ND"	2.7	North Dakota	2015	38089
+"Mercer County, OH"	3.3	Ohio	2015	39107
+"Boone County, IN"	3.7	Indiana	2015	18011
+"Suwannee County, FL"	5.4	Florida	2015	12121
+"Douglas County, IL"	4.9	Illinois	2015	17041
+"Salt Lake County, UT"	3.4	Utah	2015	49035
+"Schleicher County, TX"	5.3	Texas	2015	48413
+"Fulton County, IN"	4.8	Indiana	2015	18049
+"McLean County, ND"	3.7	North Dakota	2015	38055
+"Bucks County, PA"	4.7	Pennsylvania	2015	42017
+"Hall County, NE"	4	Nebraska	2015	31079
+"Cass County, MN"	6.7	Minnesota	2015	27021
+"Hampshire County, MA"	4.3	Massachusetts	2015	25015
+"Perry County, MS"	7.9	Mississippi	2015	28111
+"Choctaw County, OK"	7.6	Oklahoma	2015	40023
+"Atlantic County, NJ"	9.6	New Jersey	2015	34001
+"Oregon County, MO"	6.3	Missouri	2015	29149
+"Towner County, ND"	2.7	North Dakota	2015	38095
+"Boone County, IL"	6.5	Illinois	2015	17007
+"Carter County, OK"	4.5	Oklahoma	2015	40019
+"Phelps County, NE"	2.4	Nebraska	2015	31137
+"Huntingdon County, PA"	7	Pennsylvania	2015	42061
+"Iron County, UT"	4.5	Utah	2015	49021
+"Neshoba County, MS"	6.1	Mississippi	2015	28099
+"Matagorda County, TX"	6.7	Texas	2015	48321
+"Harper County, OK"	3	Oklahoma	2015	40059
+"Calhoun County, IL"	6.7	Illinois	2015	17013
+"Roberts County, TX"	4	Texas	2015	48393
+"Sumter County, AL"	8	Alabama	2015	1119
+"Hawkins County, TN"	6.4	Tennessee	2015	47073
+"Rio Arriba County, NM"	8	New Mexico	2015	35039
+"Comanche County, OK"	4.3	Oklahoma	2015	40031
+"Saint Charles Parish, LA"	5.7	Louisiana	2015	unavailable
+"Gadsden County, FL"	7.1	Florida	2015	12039
+"Aurora County, SD"	2.2	South Dakota	2015	46003
+"Chase County, NE"	1.9	Nebraska	2015	31029
+"Shelby County, AL"	4.2	Alabama	2015	1117
+"Mahoning County, OH"	6.1	Ohio	2015	39099
+"Caddo County, OK"	5.1	Oklahoma	2015	40015
+"Schuyler County, NY"	6.6	New York	2015	36097
+"Dawes County, NE"	2.6	Nebraska	2015	31045
+"Codington County, SD"	3.1	South Dakota	2015	46029
+"Riley County, KS"	3.3	Kansas	2015	20161
+"Rockdale County, GA"	6.5	Georgia	2015	13247
+"Oldham County, KY"	3.9	Kentucky	2015	21185
+"Edgecombe County, NC"	9.6	North Carolina	2015	37065
+"Saint Mary Parish, LA"	7.6	Louisiana	2015	unavailable
+"Union County, IN"	4.5	Indiana	2015	18161
+"Starke County, IN"	5.9	Indiana	2015	18149
+"Washoe County, NV"	6.3	Nevada	2015	32031
+"Hamilton County, IL"	5.4	Illinois	2015	17065
+"Madison County, MT"	3.6	Montana	2015	30057
+"Brooks County, TX"	9.9	Texas	2015	48047
+"Kauai County, HI"	4	Hawaii	2015	15007
+"Spencer County, KY"	4.3	Kentucky	2015	21215
+"Bottineau County, ND"	4.4	North Dakota	2015	38009
+"Putnam County, MO"	4	Missouri	2015	29171
+"Lee County, AR"	6.7	Arkansas	2015	5077
+"Burke County, NC"	5.6	North Carolina	2015	37023
+"Phillips County, CO"	2.4	Colorado	2015	8095
+"Newton County, GA"	6.7	Georgia	2015	13217
+"Cameron County, PA"	7.2	Pennsylvania	2015	42023
+"Martin County, FL"	5.3	Florida	2015	12085
+"Reynolds County, MO"	7	Missouri	2015	29179
+"Haines Borough, AK"	9.7	Alaska	2015	2100
+"Calhoun County, AL"	7	Alabama	2015	1015
+"Refugio County, TX"	5.3	Texas	2015	48391
+"Colquitt County, GA"	6.4	Georgia	2015	13071
+"Seward County, KS"	4.3	Kansas	2015	20175
+"Bullitt County, KY"	4.6	Kentucky	2015	21029
+"Boulder County, CO"	3.2	Colorado	2015	8013
+"Warren County, OH"	4.1	Ohio	2015	39165
+"Broward County, FL"	5.1	Florida	2015	12011
+"Warren County, NY"	5.5	New York	2015	36113
+"Sussex County, NJ"	5.5	New Jersey	2015	34037
+"Greene County, VA"	3.7	Virginia	2015	51079
+"Moore County, NC"	5.8	North Carolina	2015	37125
+"Northampton County, VA"	6.1	Virginia	2015	51131
+"Sierra County, CA"	8.8	California	2015	6091
+"Teton County, WY"	3.8	Wyoming	2015	56039
+"Whitley County, KY"	6.8	Kentucky	2015	21235
+"Smith County, MS"	5.3	Mississippi	2015	28129
+"Henderson County, KY"	4.9	Kentucky	2015	21101
+"Aiken County, SC"	5.9	South Carolina	2015	45003
+"Young County, TX"	4.3	Texas	2015	48503
+"North Slope Borough, AK"	5.7	Alaska	2015	2185
+"Ada County, ID"	3.7	Idaho	2015	16001
+"Monroe County, MO"	5.2	Missouri	2015	29137
+"Barry County, MO"	5	Missouri	2015	29009
+"Saint Joseph County, IN"	5	Indiana	2015	unavailable
+"Monroe County, IA"	4.5	Iowa	2015	19135
+"Robertson County, TN"	4.9	Tennessee	2015	47147
+"Menard County, TX"	5.2	Texas	2015	48327
+"Humboldt County, CA"	5.6	California	2015	6023
+"Stark County, IL"	6.5	Illinois	2015	17175
+"Greenbrier County, WV"	6.6	West Virginia	2015	54025
+"San Saba County, TX"	3.7	Texas	2015	48411
+"Bath County, KY"	7.7	Kentucky	2015	21011
+"La Crosse County, WI"	3.9	Wisconsin	2015	55063
+"Champaign County, OH"	4.4	Ohio	2015	39021
+"Mohave County, AZ"	7.9	Arizona	2015	4015
+"Sanpete County, UT"	4.2	Utah	2015	49039
+"Bland County, VA"	5.7	Virginia	2015	51021
+"Gates County, NC"	5.5	North Carolina	2015	37073
+"Claiborne County, MS"	12.5	Mississippi	2015	28021
+"Telfair County, GA"	8.7	Georgia	2015	13271
+"Barnstable County, MA"	6.2	Massachusetts	2015	25001
+"Sullivan County, IN"	6.2	Indiana	2015	18153
+"Tazewell County, VA"	7.4	Virginia	2015	51185
+"Barton County, MO"	5.4	Missouri	2015	29011
+"Nacogdoches County, TX"	4.7	Texas	2015	48347
+"Conecuh County, AL"	9.2	Alabama	2015	1035
+"Tate County, MS"	7	Mississippi	2015	28137
+"Granville County, NC"	5	North Carolina	2015	37077
+"Scott County, IA"	4.8	Iowa	2015	19163
+"Watonwan County, MN"	4.7	Minnesota	2015	27165
+"Heard County, GA"	6.4	Georgia	2015	13149
+"Pinellas County, FL"	4.9	Florida	2015	12103
+"Caribou County, ID"	4.1	Idaho	2015	16029
+"Knox County, MO"	3.9	Missouri	2015	29103
+"Randolph County, WV"	7	West Virginia	2015	54083
+"Lincoln County, KS"	3.5	Kansas	2015	20105
+"Clinton County, PA"	6.9	Pennsylvania	2015	42035
+"Wibaux County, MT"	3.3	Montana	2015	30109
+"Union County, IL"	7.6	Illinois	2015	17181
+"Jefferson County, NY"	6.6	New York	2015	36045
+"Payne County, OK"	3.5	Oklahoma	2015	40119
+"Sarpy County, NE"	2.8	Nebraska	2015	31153
+"Glasscock County, TX"	2.8	Texas	2015	48173
+"Jackson County, IA"	4.3	Iowa	2015	19097
+"Dekalb County, IL"	5.5	Illinois	2015	unavailable
+"Ocean County, NJ"	6.2	New Jersey	2015	34029
+"Buffalo County, NE"	2.5	Nebraska	2015	31019
+"Fayette County, TX"	3.3	Texas	2015	48149
+"Hooker County, NE"	4.2	Nebraska	2015	31091
+"Lee County, IA"	5.5	Iowa	2015	19111
+"Armstrong County, PA"	6.6	Pennsylvania	2015	42005
+"Pike County, MS"	7.3	Mississippi	2015	28113
+"Ross County, OH"	5.3	Ohio	2015	39141
+"Bibb County, GA"	6.6	Georgia	2015	13021
+"Putnam County, OH"	3.9	Ohio	2015	39137
+"Bamberg County, SC"	10.5	South Carolina	2015	45009
+"Missaukee County, MI"	6.5	Michigan	2015	26113
+"Carter County, TN"	6.4	Tennessee	2015	47019
+"Goliad County, TX"	4.5	Texas	2015	48175
+"Montague County, TX"	4.2	Texas	2015	48337
+"Clark County, SD"	3.6	South Dakota	2015	46025
+"Essex County, NY"	6	New York	2015	36031
+"Grundy County, IA"	3.9	Iowa	2015	19075
+"Madison County, MO"	5.9	Missouri	2015	29123
+"Grant County, ND"	3.2	North Dakota	2015	38037
+"Brazos County, TX"	3.3	Texas	2015	48041
+"Kane County, IL"	5.7	Illinois	2015	17089
+"Beaver County, UT"	3.8	Utah	2015	49001
+"Duchesne County, UT"	7.6	Utah	2015	49013
+"Gratiot County, MI"	5.6	Michigan	2015	26057
+"Baker County, OR"	6.7	Oregon	2015	41001
+"Fresno County, CA"	10.2	California	2015	6019
+"Marion County, FL"	6.4	Florida	2015	12083
+"Ottawa County, OK"	5.1	Oklahoma	2015	40115
+"Liberty County, MT"	2.6	Montana	2015	30051
+"Iredell County, NC"	5.5	North Carolina	2015	37097
+"Elliott County, KY"	9.9	Kentucky	2015	21063
+"Stanton County, NE"	2.6	Nebraska	2015	31167
+"Lamoure County, ND"	2.5	North Dakota	2015	unavailable
+"Nobles County, MN"	3.2	Minnesota	2015	27105
+"Burke County, ND"	3.3	North Dakota	2015	38013
+"Oconto County, WI"	5.2	Wisconsin	2015	55083
+"Larimer County, CO"	3.3	Colorado	2015	8069
+"Lee County, KY"	8.3	Kentucky	2015	21129
+"Thomas County, NE"	3	Nebraska	2015	31171
+"Lincoln County, TN"	4.8	Tennessee	2015	47103
+"Dickinson County, MI"	5.6	Michigan	2015	26043
+"Lincoln County, NE"	2.9	Nebraska	2015	31111
+"Cleburne County, AR"	6.9	Arkansas	2015	5023
+"Pend Oreille County, WA"	9.7	Washington	2015	53051
+"Lehigh County, PA"	5.3	Pennsylvania	2015	42077
+"Wasatch County, UT"	3.5	Utah	2015	49051
+"Wood County, WV"	6.3	West Virginia	2015	54107
+"Cochise County, AZ"	7.2	Arizona	2015	4003
+"Elkhart County, IN"	3.9	Indiana	2015	18039
+"Hendricks County, IN"	3.8	Indiana	2015	18063
+"Macon County, NC"	6.2	North Carolina	2015	37113
+"Greenup County, KY"	7.7	Kentucky	2015	21089
+"Hawaii County, HI"	4.4	Hawaii	2015	15001
+"Mendocino County, CA"	5.8	California	2015	6045
+"Norfolk County, MA"	4.3	Massachusetts	2015	25021
+"Coffey County, KS"	5.8	Kansas	2015	20031
+"Charleston County, SC"	4.9	South Carolina	2015	45019
+"Greeley County, KS"	2.1	Kansas	2015	20071
+"Bossier Parish, LA"	5.7	Louisiana	2015	22015
+"Jim Hogg County, TX"	7.2	Texas	2015	48247
+"Ogle County, IL"	6.1	Illinois	2015	17141
+"Harrison County, IN"	4.6	Indiana	2015	18061
+"Marin County, CA"	3.5	California	2015	6041
+"Spartanburg County, SC"	5.7	South Carolina	2015	45083
+"Day County, SD"	4.9	South Dakota	2015	46037
+"Montgomery County, NC"	5.7	North Carolina	2015	37123
+"Wheeler County, NE"	2.5	Nebraska	2015	31183
+"Elbert County, CO"	3.2	Colorado	2015	8039
+"Beadle County, SD"	2.6	South Dakota	2015	46005
+"Marshall County, SD"	3.8	South Dakota	2015	46091
+"Webster County, KY"	5.2	Kentucky	2015	21233
+"Ralls County, MO"	4.2	Missouri	2015	29173
+"Louisa County, VA"	4.2	Virginia	2015	51109
+"Marion County, WV"	6.9	West Virginia	2015	54049
+"Kern County, CA"	10.2	California	2015	6029
+"Jefferson County, KS"	4.2	Kansas	2015	20087
+"Perry County, IN"	4.7	Indiana	2015	18123
+"Pittsburg County, OK"	5.7	Oklahoma	2015	40121
+"Tipton County, TN"	7	Tennessee	2015	47167
+"Chesterfield County, VA"	4.3	Virginia	2015	51041
+"Gray County, KS"	2.3	Kansas	2015	20069
+"Montgomery County, MS"	7.7	Mississippi	2015	28097
+"Callahan County, TX"	4.3	Texas	2015	48059
+"Sawyer County, WI"	7.9	Wisconsin	2015	55113
+"Kenton County, KY"	4.5	Kentucky	2015	21117
+"Floyd County, GA"	6.7	Georgia	2015	13115
+"Knox County, TX"	3.8	Texas	2015	48275
+"San Miguel County, CO"	3.8	Colorado	2015	8113
+"Albany County, WY"	3.1	Wyoming	2015	56001
+"Summers County, WV"	7	West Virginia	2015	54089
+"McCook County, SD"	2.4	South Dakota	2015	46087
+"Carroll County, IN"	4.3	Indiana	2015	18015
+"Johnston County, NC"	5.2	North Carolina	2015	37101
+"Nicollet County, MN"	2.7	Minnesota	2015	27103
+"Venango County, PA"	5.9	Pennsylvania	2015	42121
+"Crawford County, AR"	5.2	Arkansas	2015	5033
+"Denton County, TX"	3.6	Texas	2015	48121
+"Big Horn County, WY"	4.4	Wyoming	2015	56003
+"Windham County, VT"	3.6	Vermont	2015	50025
+"Franklin County, ID"	3.2	Idaho	2015	16041
+"Green Lake County, WI"	5.4	Wisconsin	2015	55047
+"Kings County, CA"	10.5	California	2015	6031
+"Vigo County, IN"	6.1	Indiana	2015	18167
+"Essex County, VA"	5.4	Virginia	2015	51057
+"Stevens County, WA"	9	Washington	2015	53065
+"Brooks County, GA"	6	Georgia	2015	13027
+"Suffolk County, NY"	4.7	New York	2015	36103
+"Henry County, IL"	6.1	Illinois	2015	17073
+"Lawrence County, SD"	3.2	South Dakota	2015	46081
+"Cibola County, NM"	8	New Mexico	2015	35006
+"Gregory County, SD"	3.1	South Dakota	2015	46053
+"Gilchrist County, FL"	5.6	Florida	2015	12041
+"Rice County, MN"	3.6	Minnesota	2015	27131
+"Wasco County, OR"	5.6	Oregon	2015	41065
+"Van Buren County, MI"	6.2	Michigan	2015	26159
+"Bernalillo County, NM"	5.9	New Mexico	2015	35001
+"Steuben County, NY"	6.3	New York	2015	36101
+"Pulaski County, IN"	4.5	Indiana	2015	18131
+"DeKalb County, IN"	4.1	Indiana	2015	unavailable
+"Georgetown County, SC"	8.4	South Carolina	2015	45043
+"Grant County, WV"	7.6	West Virginia	2015	54023
+"Kingfisher County, OK"	3.1	Oklahoma	2015	40073
+"Lincoln County, AR"	6.2	Arkansas	2015	5079
+"Dodge County, NE"	3.3	Nebraska	2015	31053
+"Sheboygan County, WI"	3.8	Wisconsin	2015	55117
+"Sabine Parish, LA"	7.2	Louisiana	2015	22085
+"Hamilton County, IA"	4.3	Iowa	2015	19079
+"Hamlin County, SD"	3.3	South Dakota	2015	46057
+"Franklin Parish, LA"	9.7	Louisiana	2015	22041
+"Noble County, OK"	3.5	Oklahoma	2015	40103
+"Ringgold County, IA"	3.4	Iowa	2015	19159
+"Wood County, WI"	5.5	Wisconsin	2015	55141
+"Lafayette County, MS"	5.5	Mississippi	2015	28071
+"Woodward County, OK"	5.1	Oklahoma	2015	40153
+"Koochiching County, MN"	8.2	Minnesota	2015	27071
+"Schenectady County, NY"	4.7	New York	2015	36093
+"Carlisle County, KY"	5.6	Kentucky	2015	21039
+"Buchanan County, IA"	4.3	Iowa	2015	19019
+"Indian River County, FL"	6.8	Florida	2015	12061
+"Wabasha County, MN"	3.8	Minnesota	2015	27157
+"Jim Wells County, TX"	7.9	Texas	2015	48249
+"White County, AR"	6.2	Arkansas	2015	5145
+"Franklin County, IL"	8	Illinois	2015	17055
+"Grant Parish, LA"	7.3	Louisiana	2015	22043
+"Cedar County, NE"	2.4	Nebraska	2015	31027
+"Fayette County, WV"	8.6	West Virginia	2015	54019
+"Brown County, IL"	3.6	Illinois	2015	17009
+"Saint Lawrence County, NY"	7.3	New York	2015	unavailable
+"Douglas County, NV"	6.8	Nevada	2015	32005
+"Lincoln County, MO"	5.2	Missouri	2015	29113
+"Dundy County, NE"	2.1	Nebraska	2015	31057
+"Beckham County, OK"	5.1	Oklahoma	2015	40009
+"Owen County, KY"	4	Kentucky	2015	21187
+"Alger County, MI"	8.5	Michigan	2015	26003
+"Obion County, TN"	8.6	Tennessee	2015	47131
+"Steele County, MN"	3.4	Minnesota	2015	27147
+"Clay County, MN"	3.1	Minnesota	2015	27027
+"Washington County, OR"	4.7	Oregon	2015	41067
+"Scotts Bluff County, NE"	3.4	Nebraska	2015	31157
+"Tyrrell County, NC"	9.5	North Carolina	2015	37177
+"Hamilton County, TX"	4.7	Texas	2015	48193
+"Giles County, TN"	5	Tennessee	2015	47055
+"Massac County, IL"	7.2	Illinois	2015	17127
+"Jackson County, KY"	8.7	Kentucky	2015	21109
+"Runnels County, TX"	3.7	Texas	2015	48399
+"Johnson County, IL"	8.4	Illinois	2015	17087
+"Dougherty County, GA"	7.7	Georgia	2015	13095
+"Edgar County, IL"	6.2	Illinois	2015	17045
+"Nicholas County, KY"	6	Kentucky	2015	21181
+"Cook County, GA"	6.7	Georgia	2015	13075
+"Washington County, IL"	3.7	Illinois	2015	17189
+"Pushmataha County, OK"	7.7	Oklahoma	2015	40127
+"Schuyler County, IL"	5.8	Illinois	2015	17169
+"Fleming County, KY"	6.1	Kentucky	2015	21069
+"Motley County, TX"	3.5	Texas	2015	48345
+"Lake County, MT"	5	Montana	2015	30047
+"Cotton County, OK"	4.1	Oklahoma	2015	40033
+"Mora County, NM"	9.7	New Mexico	2015	35033
+"Cass County, NE"	3.4	Nebraska	2015	31025
+"Todd County, SD"	7.3	South Dakota	2015	46121
+"Clay County, MS"	9.5	Mississippi	2015	28025
+"Belknap County, NH"	3.3	New Hampshire	2015	33001
+"Crosby County, TX"	4.3	Texas	2015	48107
+"Washington County, GA"	7	Georgia	2015	13303
+"Audubon County, IA"	4	Iowa	2015	19009
+"Mobile County, AL"	7	Alabama	2015	1097
+"Cheboygan County, MI"	9	Michigan	2015	26031
+"Keya Paha County, NE"	2.1	Nebraska	2015	31103
+"Clay County, KS"	4.3	Kansas	2015	20027
+"Emporia City, VA"	7	Virginia	2015	unavailable
+"Union Parish, LA"	7.2	Louisiana	2015	22111
+"Tunica County, MS"	9.3	Mississippi	2015	28143
+"Oneida County, NY"	5.3	New York	2015	36065
+"Laurens County, SC"	6.6	South Carolina	2015	45059
+"Kent County, MI"	3.7	Michigan	2015	26081
+"Elk County, KS"	4.8	Kansas	2015	20049
+"Knox County, IL"	6	Illinois	2015	17095
+"Okmulgee County, OK"	6.6	Oklahoma	2015	40111
+"Polk County, WI"	4.8	Wisconsin	2015	55095
+"Franklin County, MA"	4.4	Massachusetts	2015	25011
+"Slope County, ND"	2.6	North Dakota	2015	38087
+"Lucas County, IA"	3.6	Iowa	2015	19117
+"Pulaski County, GA"	6.6	Georgia	2015	13235
+"Miami County, KS"	4.4	Kansas	2015	20121
+"Monroe County, WI"	4.5	Wisconsin	2015	55081
+"Clarke County, VA"	4	Virginia	2015	51043
+"Casey County, KY"	5.6	Kentucky	2015	21045
+"Marion County, KY"	4.9	Kentucky	2015	21155
+"Bristol County, MA"	6.1	Massachusetts	2015	25005
+"Blaine County, ID"	3.6	Idaho	2015	16013
+"Wade Hampton Census Area, AK"	22.9	Alaska	2015	2270
+"Chester County, SC"	8.4	South Carolina	2015	45023
+"Martin County, TX"	3.5	Texas	2015	48317
+"Randolph County, MO"	6	Missouri	2015	29175
+"Lawrence County, MS"	7.2	Mississippi	2015	28077
+"Warren County, NC"	8.3	North Carolina	2015	37185
+"Shelby County, IL"	5.8	Illinois	2015	17173
+"Plaquemines Parish, LA"	5.6	Louisiana	2015	22075
+"Rutland County, VT"	4.3	Vermont	2015	50021
+"Preble County, OH"	4.8	Ohio	2015	39135
+"Benson County, ND"	4.5	North Dakota	2015	38005
+"Powhatan County, VA"	4	Virginia	2015	51145
+"Hancock County, IN"	4.2	Indiana	2015	18059
+"Jefferson County, NE"	2.7	Nebraska	2015	31095
+"Ellsworth County, KS"	3.7	Kansas	2015	20053
+"Jefferson County, MS"	14.9	Mississippi	2015	28063
+"Ozaukee County, WI"	3.7	Wisconsin	2015	55089
+"Saint Charles County, MO"	3.8	Missouri	2015	unavailable
+"Terrell County, TX"	4.8	Texas	2015	48443
+"Marquette County, MI"	6	Michigan	2015	26103
+"Roanoke County, VA"	3.9	Virginia	2015	51161
+"Lancaster County, SC"	6.3	South Carolina	2015	45057
+"Clay County, FL"	5	Florida	2015	12019
+"Montgomery County, NY"	6.6	New York	2015	36057
+"Kent County, MD"	5.3	Maryland	2015	24029
+"Newton County, MO"	4.6	Missouri	2015	29145
+"Nome Census Area, AK"	11.8	Alaska	2015	2180
+"Decatur County, IA"	3.3	Iowa	2015	19053
+"Toole County, MT"	3.4	Montana	2015	30101
+"Jefferson County, MT"	4.1	Montana	2015	30043
+"Antelope County, NE"	2.6	Nebraska	2015	31003
+"Rankin County, MS"	4.1	Mississippi	2015	28121
+"Cherokee County, KS"	4.5	Kansas	2015	20021
+"Butler County, KY"	5.9	Kentucky	2015	21031
+"Washington County, CO"	2.6	Colorado	2015	8121
+"Montgomery County, IL"	7.5	Illinois	2015	17135
+"Broadwater County, MT"	5.1	Montana	2015	30007
+"Eastland County, TX"	4.7	Texas	2015	48133
+"Lauderdale County, MS"	6.5	Mississippi	2015	28075
+"Claiborne County, TN"	7.2	Tennessee	2015	47025
+"Peach County, GA"	7.9	Georgia	2015	13225
+"Atkinson County, GA"	5.7	Georgia	2015	13003
+"Pottawatomie County, KS"	3.5	Kansas	2015	20149
+"Oglethorpe County, GA"	5.5	Georgia	2015	13221
+"Monroe County, KY"	4.3	Kentucky	2015	21171
+"Billings County, ND"	3.2	North Dakota	2015	38007
+"Sharp County, AR"	6.9	Arkansas	2015	5135
+"Miami-Dade County, FL"	5.9	Florida	2015	12086
+"Lapeer County, MI"	7.2	Michigan	2015	26087
+"Logan County, AR"	5.8	Arkansas	2015	5083
+"Letcher County, KY"	11.2	Kentucky	2015	21133
+"Monroe County, AR"	6.1	Arkansas	2015	5095
+"Hendry County, FL"	10.5	Florida	2015	12051
+"Perry County, TN"	6.7	Tennessee	2015	47135
+"Wayne County, GA"	7.2	Georgia	2015	13305
+"Lincoln County, WV"	9.8	West Virginia	2015	54043
+"Coos County, NH"	4.6	New Hampshire	2015	33007
+"McMullen County, TX"	2.1	Texas	2015	48311
+"Warren County, VA"	4.8	Virginia	2015	51187
+"Sequoyah County, OK"	6.3	Oklahoma	2015	40135
+"Sunflower County, MS"	10.5	Mississippi	2015	28133
+"Dunn County, WI"	4.5	Wisconsin	2015	55033
+"Marion County, AR"	5.2	Arkansas	2015	5089
+"Lake and Peninsula Borough, AK"	12.4	Alaska	2015	2164
+"Ben Hill County, GA"	9	Georgia	2015	13017
+"Mariposa County, CA"	7.1	California	2015	6043
+"Clatsop County, OR"	5.5	Oregon	2015	41007
+"New Kent County, VA"	3.8	Virginia	2015	51127
+"Martin County, KY"	9.6	Kentucky	2015	21159
+"McHenry County, ND"	4.2	North Dakota	2015	38049
+"Shannon County, SD"	11.3	South Dakota	2015	46113
+"Lee County, IL"	5.3	Illinois	2015	17103
+"Philadelphia County, PA"	7.1	Pennsylvania	2015	42101
+"Uvalde County, TX"	5	Texas	2015	48463
+"Miller County, AR"	5	Arkansas	2015	5091
+"Gaston County, NC"	6	North Carolina	2015	37071
+"Iberville Parish, LA"	7.3	Louisiana	2015	22047
+"Kosciusko County, IN"	4.1	Indiana	2015	18085
+"Macon County, TN"	5.3	Tennessee	2015	47111
+"Bowman County, ND"	1.9	North Dakota	2015	38011
+"Saline County, IL"	7.7	Illinois	2015	17165
+"Rawlins County, KS"	2.3	Kansas	2015	20153
+"Putnam County, FL"	7.6	Florida	2015	12107
+"McPherson County, KS"	3	Kansas	2015	20113
+"Copiah County, MS"	7.2	Mississippi	2015	28029
+"Victoria County, TX"	4.2	Texas	2015	48469
+"Webster County, NE"	3.6	Nebraska	2015	31181
+"Winnebago County, WI"	4.3	Wisconsin	2015	55139
+"Ness County, KS"	3.3	Kansas	2015	20135
+"Duval County, FL"	5.8	Florida	2015	12031
+"Pickens County, GA"	5.3	Georgia	2015	13227
+"Anson County, NC"	6.5	North Carolina	2015	37007
+"Kossuth County, IA"	2.9	Iowa	2015	19109
+"Delaware County, OK"	4.9	Oklahoma	2015	40041
+"Minnehaha County, SD"	2.7	South Dakota	2015	46099
+"Garfield County, UT"	8.9	Utah	2015	49017
+"Adams County, WI"	7.3	Wisconsin	2015	55001
+"Orange County, FL"	5	Florida	2015	12095
+"Carbon County, PA"	6.1	Pennsylvania	2015	42025
+"Nevada County, AR"	5	Arkansas	2015	5099
+"Appling County, GA"	7.3	Georgia	2015	13001
+"Cherry County, NE"	2.3	Nebraska	2015	31031
+"Blair County, PA"	5.2	Pennsylvania	2015	42013
+"Bent County, CO"	4	Colorado	2015	8011
+"Clackamas County, OR"	5.1	Oregon	2015	41005
+"Banks County, GA"	5.6	Georgia	2015	13011
+"Cherokee County, OK"	5.1	Oklahoma	2015	40021
+"Fulton County, OH"	4.9	Ohio	2015	39051
+"Braxton County, WV"	8.9	West Virginia	2015	54007
+"Lane County, OR"	5.8	Oregon	2015	41039
+"Hamilton County, IN"	3.4	Indiana	2015	18057
+"Custer County, CO"	3.5	Colorado	2015	8027
+"Jerauld County, SD"	2.2	South Dakota	2015	46073
+"Hansford County, TX"	3	Texas	2015	48195
+"Lawrence County, AR"	6	Arkansas	2015	5075
+"Gloucester County, NJ"	6.1	New Jersey	2015	34015
+"Roger Mills County, OK"	4.2	Oklahoma	2015	40129
+"Chicot County, AR"	9.1	Arkansas	2015	5017
+"Mitchell County, GA"	6.7	Georgia	2015	13205
+"Dunklin County, MO"	8	Missouri	2015	29069
+"Sherman County, NE"	2.9	Nebraska	2015	31163
+"Oconee County, GA"	4.4	Georgia	2015	13219
+"Haywood County, NC"	5.3	North Carolina	2015	37087
+"Barrow County, GA"	5.3	Georgia	2015	13013
+"Orleans County, VT"	5.6	Vermont	2015	50019
+"Ripley County, MO"	7.9	Missouri	2015	29181
+"Pendleton County, WV"	4.6	West Virginia	2015	54071
+"Harper County, KS"	3.9	Kansas	2015	20077
+"Delta County, MI"	6.7	Michigan	2015	26041
+"Jackson County, TN"	7.8	Tennessee	2015	47087
+"Crow Wing County, MN"	5.2	Minnesota	2015	27035
+"Sully County, SD"	2.5	South Dakota	2015	46119
+"Cass County, IA"	3.7	Iowa	2015	19029
+"Falls Church City, VA"	3.1	Virginia	2015	unavailable
+"Butte County, ID"	4.5	Idaho	2015	16023
+"Grant County, KY"	5.4	Kentucky	2015	21081
+"Harding County, NM"	8.5	New Mexico	2015	35021
+"Skamania County, WA"	7.5	Washington	2015	53059
+"Cheyenne County, NE"	2.2	Nebraska	2015	31033
+"Cook County, IL"	6.2	Illinois	2015	17031
+"Mineral County, CO"	3.6	Colorado	2015	8079
+"Hubbard County, MN"	6.2	Minnesota	2015	27057
+"Pittsylvania County, VA"	5.3	Virginia	2015	51143
+"Rooks County, KS"	4.6	Kansas	2015	20163
+"Saint Tammany Parish, LA"	5.4	Louisiana	2015	unavailable
+"Otoe County, NE"	3.3	Nebraska	2015	31131
+"Will County, IL"	6.2	Illinois	2015	17197
+"Menard County, IL"	4.6	Illinois	2015	17129
+"Estill County, KY"	6.1	Kentucky	2015	21065
+"Anoka County, MN"	3.6	Minnesota	2015	27003
+"Dallas County, IA"	2.9	Iowa	2015	19049
+"Collin County, TX"	3.6	Texas	2015	48085
+"Russell County, KS"	3.8	Kansas	2015	20167
+"Christian County, MO"	4.2	Missouri	2015	29043
+"Roberts County, SD"	4.3	South Dakota	2015	46109
+"Chautauqua County, NY"	6	New York	2015	36013
+"Lamar County, GA"	7.7	Georgia	2015	13171
+"Perry County, KY"	8.9	Kentucky	2015	21193
+"Danville City, VA"	7.2	Virginia	2015	unavailable
+"Washington County, OK"	4.3	Oklahoma	2015	40147
+"Carlton County, MN"	5	Minnesota	2015	27017
+"Bates County, MO"	6.1	Missouri	2015	29013
+"Washington County, KY"	4.3	Kentucky	2015	21229
+"Howell County, MO"	6.4	Missouri	2015	29091
+"Lafayette County, AR"	7.6	Arkansas	2015	5073
+"Gilliam County, OR"	6.4	Oregon	2015	41021
+"Campbell County, SD"	2.9	South Dakota	2015	46021
+"Hall County, TX"	5.3	Texas	2015	48191
+"Hamilton County, TN"	5.3	Tennessee	2015	47065
+"Pickaway County, OH"	4.8	Ohio	2015	39129
+"Dallam County, TX"	2.2	Texas	2015	48111
+"Ware County, GA"	6.5	Georgia	2015	13299
+"Randolph County, AL"	5.9	Alabama	2015	1111
+"Roanoke City, VA"	4.9	Virginia	2015	unavailable
+"Carroll County, VA"	5.4	Virginia	2015	51035
+"Wheeler County, GA"	10.9	Georgia	2015	13309
+"Clarke County, AL"	11.7	Alabama	2015	1025
+"Madison County, NY"	5.7	New York	2015	36053
+"Gilmer County, GA"	6	Georgia	2015	13123
+"Trinity County, TX"	5.9	Texas	2015	48455
+"McDowell County, WV"	12.8	West Virginia	2015	54047
+"Amador County, CA"	6.6	California	2015	6005
+"Bibb County, AL"	6.7	Alabama	2015	1007
+"Prowers County, CO"	4.1	Colorado	2015	8099
+"Scotland County, NC"	10.6	North Carolina	2015	37165
+"Westmoreland County, PA"	5.4	Pennsylvania	2015	42129
+"Custer County, OK"	4	Oklahoma	2015	40039
+"McKinley County, NM"	9.8	New Mexico	2015	35031
+"Brookings County, SD"	2.9	South Dakota	2015	46011
+"Franklin County, MS"	7.7	Mississippi	2015	28037
+"Webster County, MO"	5.1	Missouri	2015	29225
+"Houston County, MN"	3.8	Minnesota	2015	27055
+"Richmond County, NY"	5.8	New York	2015	36085
+"Boundary County, ID"	5.5	Idaho	2015	16021
+"Saint Martin Parish, LA"	6.9	Louisiana	2015	unavailable
+"Fulton County, AR"	5.2	Arkansas	2015	5049
+"Jasper County, MO"	4.3	Missouri	2015	29097
+"Logan County, KS"	2.5	Kansas	2015	20109
+"Torrance County, NM"	9	New Mexico	2015	35057
+"Chattooga County, GA"	6.2	Georgia	2015	13055
+"Cass County, TX"	6.8	Texas	2015	48067
+"Irion County, TX"	3.6	Texas	2015	48235
+"Tillamook County, OR"	5.6	Oregon	2015	41057
+"Otsego County, NY"	5.4	New York	2015	36077
+"Moniteau County, MO"	4.9	Missouri	2015	29135
+"Berkshire County, MA"	5.4	Massachusetts	2015	25003
+"Pocahontas County, IA"	3.1	Iowa	2015	19151
+"Stillwater County, MT"	3.7	Montana	2015	30095
+"Defiance County, OH"	4.9	Ohio	2015	39039
+"Trego County, KS"	3.5	Kansas	2015	20195
+"Miami County, OH"	4.4	Ohio	2015	39109
+"Furnas County, NE"	2.7	Nebraska	2015	31065
+"Cumberland County, PA"	4	Pennsylvania	2015	42041
+"Collier County, FL"	5.2	Florida	2015	12021
+"Lee County, VA"	7.2	Virginia	2015	51105
+"Wright County, IA"	4	Iowa	2015	19197
+"Desoto County, FL"	5.8	Florida	2015	unavailable
+"Maury County, TN"	5.1	Tennessee	2015	47119
+"Woodruff County, AR"	6.4	Arkansas	2015	5147
+"Kings County, NY"	5.9	New York	2015	36047
+"Clearwater County, MN"	9.1	Minnesota	2015	27029
+"Campbell County, KY"	4.2	Kentucky	2015	21037
+"Orleans County, NY"	6.4	New York	2015	36073
+"Williamsburg County, SC"	9.2	South Carolina	2015	45089
+"Kingman County, KS"	4.4	Kansas	2015	20095
+"Clay County, SD"	3	South Dakota	2015	46027
+"Henry County, TN"	6.5	Tennessee	2015	47079
+"Garza County, TX"	3.7	Texas	2015	48169
+"Citrus County, FL"	7.4	Florida	2015	12017
+"Florence County, SC"	6.5	South Carolina	2015	45041
+"Henderson County, TN"	7.9	Tennessee	2015	47077
+"New Castle County, DE"	4.7	Delaware	2015	10003
+"Talbot County, MD"	4.9	Maryland	2015	24041
+"Lenoir County, NC"	6.4	North Carolina	2015	37107
+"Hughes County, OK"	7.5	Oklahoma	2015	40063
+"Greene County, IN"	6.9	Indiana	2015	18055
+"Hancock County, KY"	5	Kentucky	2015	21091
+"Rush County, KS"	3.5	Kansas	2015	20165
+"Pepin County, WI"	4.2	Wisconsin	2015	55091
+"McMinn County, TN"	6.3	Tennessee	2015	47107
+"Sioux County, NE"	2.5	Nebraska	2015	31165
+"Jackson County, AL"	6.6	Alabama	2015	1071
+"Hot Spring County, AR"	5.1	Arkansas	2015	5059
+"Gooding County, ID"	3.5	Idaho	2015	16047
+"Eau Claire County, WI"	3.8	Wisconsin	2015	55035
+"Freeborn County, MN"	3.8	Minnesota	2015	27047
+"Union County, GA"	5.3	Georgia	2015	13291
+"Kankakee County, IL"	6.7	Illinois	2015	17091
+"Tuscarawas County, OH"	5.4	Ohio	2015	39157
+"Tuscola County, MI"	6.7	Michigan	2015	26157
+"Saint Marys County, MD"	4.9	Maryland	2015	unavailable
+"Herkimer County, NY"	6.2	New York	2015	36043
+"Spalding County, GA"	8	Georgia	2015	13255
+"Lyon County, NV"	9.3	Nevada	2015	32019
+"Hernando County, FL"	6.9	Florida	2015	12053
+"Liberty County, TX"	6.9	Texas	2015	48291
+"Dakota County, MN"	3.3	Minnesota	2015	27037
+"Yadkin County, NC"	5	North Carolina	2015	37197
+"Mecklenburg County, NC"	5.4	North Carolina	2015	37119
+"Jones County, NC"	5.8	North Carolina	2015	37103
+"Yuba County, CA"	9.2	California	2015	6115
+"Clay County, MO"	4.5	Missouri	2015	29047
+"Banner County, NE"	3.4	Nebraska	2015	31007
+"Piute County, UT"	6.4	Utah	2015	49031
+"Reno County, KS"	4.3	Kansas	2015	20155
+"Crawford County, PA"	5.2	Pennsylvania	2015	42039
+"Hardy County, WV"	7.5	West Virginia	2015	54031
+"Leflore County, MS"	10.7	Mississippi	2015	28083
+"Davison County, SD"	2.5	South Dakota	2015	46035
+"Barnwell County, SC"	9	South Carolina	2015	45011
+"Pickens County, SC"	5.8	South Carolina	2015	45077
+"Jones County, SD"	2.7	South Dakota	2015	46075
+"Val Verde County, TX"	6	Texas	2015	48465
+"Grant County, WA"	7.3	Washington	2015	53025
+"Meagher County, MT"	3.6	Montana	2015	30059
+"Colfax County, NM"	6	New Mexico	2015	35007
+"Webb County, TX"	4.7	Texas	2015	48479
+"Morgan County, OH"	7.3	Ohio	2015	39115
+"Roane County, TN"	6.4	Tennessee	2015	47145
+"Terry County, TX"	4.7	Texas	2015	48445
+"Winneshiek County, IA"	3.7	Iowa	2015	19191
+"Aleutians West Census Area, AK"	3.8	Alaska	2015	2016
+"Hamilton County, OH"	4.5	Ohio	2015	39061
+"Sanilac County, MI"	6.5	Michigan	2015	26151
+"Portage County, OH"	4.9	Ohio	2015	39133
+"Union County, IA"	4.3	Iowa	2015	19175
+"Lucas County, OH"	5.3	Ohio	2015	39095
+"Etowah County, AL"	6.1	Alabama	2015	1055
+"Red Willow County, NE"	2.7	Nebraska	2015	31145
+"Westmoreland County, VA"	5.4	Virginia	2015	51193
+"Fairbanks North Star Borough, AK"	5.4	Alaska	2015	2090
+"Lynn County, TX"	4	Texas	2015	48305
+"Plymouth County, IA"	2.9	Iowa	2015	19149
+"Cleburne County, AL"	6	Alabama	2015	1029
+"Seminole County, GA"	8.1	Georgia	2015	13253
+"Nantucket County, MA"	5.4	Massachusetts	2015	25019
+"Yankton County, SD"	2.6	South Dakota	2015	46135
+"Gentry County, MO"	4.2	Missouri	2015	29075
+"Decatur County, GA"	6.8	Georgia	2015	13087
+"Dorchester County, SC"	5.5	South Carolina	2015	45035
+"Wicomico County, MD"	6.8	Maryland	2015	24045
+"Washington County, VT"	3.5	Vermont	2015	50023
+"Onondaga County, NY"	4.9	New York	2015	36067
+"Wallowa County, OR"	7.8	Oregon	2015	41063
+"Johnson County, MO"	5.4	Missouri	2015	29101
+"Bergen County, NJ"	4.7	New Jersey	2015	34003
+"Lemhi County, ID"	7.1	Idaho	2015	16059
+"Lyon County, KY"	5.6	Kentucky	2015	21143
+"Swain County, NC"	7.7	North Carolina	2015	37173
+"Mahaska County, IA"	4	Iowa	2015	19123
+"Carroll County, MS"	8.2	Mississippi	2015	28015
+"Pointe Coupee Parish, LA"	6.6	Louisiana	2015	22077
+"Ramsey County, MN"	3.6	Minnesota	2015	27123
+"Dare County, NC"	7.5	North Carolina	2015	37055
+"Fort Bend County, TX"	4.3	Texas	2015	48157
+"Summit County, CO"	2.5	Colorado	2015	8117
+"Teton County, ID"	3.5	Idaho	2015	16081
+"Rowan County, NC"	6.1	North Carolina	2015	37159
+"Fairfax City, VA"	3.5	Virginia	2015	unavailable
+"Cumberland County, KY"	5.9	Kentucky	2015	21057
+"King and Queen County, VA"	4.8	Virginia	2015	51097
+"Bleckley County, GA"	8.5	Georgia	2015	13023
+"Sequatchie County, TN"	6.5	Tennessee	2015	47153
+"Dickens County, TX"	4.6	Texas	2015	48125
+"Terrell County, GA"	7.4	Georgia	2015	13273
+"Benewah County, ID"	6.6	Idaho	2015	16009
+"Milam County, TX"	5.2	Texas	2015	48331
+"Livingston County, IL"	5.3	Illinois	2015	17105
+"Clearfield County, PA"	6.6	Pennsylvania	2015	42033
+"Vance County, NC"	8.6	North Carolina	2015	37181
+"Montrose County, CO"	5.1	Colorado	2015	8085
+"Mineral County, NV"	10.3	Nevada	2015	32021
+"Newport County, RI"	5.2	Rhode Island	2015	44005
+"Wetzel County, WV"	10	West Virginia	2015	54103
+"Shoshone County, ID"	7.8	Idaho	2015	16079
+"York County, VA"	4.3	Virginia	2015	51199
+"Wyoming County, PA"	6.1	Pennsylvania	2015	42131
+"Larue County, KY"	5.1	Kentucky	2015	21123
+"Charles County, MD"	5	Maryland	2015	24017
+"Marion County, MS"	7.3	Mississippi	2015	28091
+"Union County, OH"	3.8	Ohio	2015	39159
+"Dawson County, GA"	5.1	Georgia	2015	13085
+"Bourbon County, KY"	4.8	Kentucky	2015	21017
+"Claiborne Parish, LA"	7.3	Louisiana	2015	22027
+"Blaine County, MT"	5	Montana	2015	30005
+"Granite County, MT"	6.2	Montana	2015	30039
+"Grand Isle County, VT"	4.2	Vermont	2015	50013
+"Baltimore City, MD"	7.5	Maryland	2015	unavailable
+"Grant County, WI"	4.4	Wisconsin	2015	55043
+"Stanislaus County, CA"	9.5	California	2015	6099
+"Houston County, TX"	4.5	Texas	2015	48225
+"Nance County, NE"	2.5	Nebraska	2015	31125
+"Bond County, IL"	5.2	Illinois	2015	17005
+"Ballard County, KY"	6.9	Kentucky	2015	21007
+"Ascension Parish, LA"	5.1	Louisiana	2015	22005
+"Cattaraugus County, NY"	6.3	New York	2015	36009
+"La Plata County, CO"	3.5	Colorado	2015	8067
+"Macon County, AL"	8	Alabama	2015	1087
+"Livingston County, KY"	7.2	Kentucky	2015	21139
+"Woodford County, KY"	3.5	Kentucky	2015	21239
+"Sonoma County, CA"	4.5	California	2015	6097
+"Hennepin County, MN"	3.3	Minnesota	2015	27053
+"Lewis County, NY"	6.9	New York	2015	36049
+"Meriwether County, GA"	8	Georgia	2015	13199
+"Owsley County, KY"	9.8	Kentucky	2015	21189
+"Dillon County, SC"	8.6	South Carolina	2015	45033
+"Pike County, GA"	5.7	Georgia	2015	13231
+"Jewell County, KS"	4.4	Kansas	2015	20089
+"Johnson County, KY"	8.3	Kentucky	2015	21115
+"Grant County, OK"	2.9	Oklahoma	2015	40053
+"Fayette County, OH"	4.9	Ohio	2015	39047
+"Rhea County, TN"	7.3	Tennessee	2015	47143
+"Mille Lacs County, MN"	5.8	Minnesota	2015	27095
+"Latah County, ID"	3.5	Idaho	2015	16057
+"McLeod County, MN"	4	Minnesota	2015	27085
+"Columbus County, NC"	7.6	North Carolina	2015	37047
+"Pierce County, GA"	6.2	Georgia	2015	13229
+"Washington County, MO"	6.7	Missouri	2015	29221
+"Walthall County, MS"	8.1	Mississippi	2015	28147
+"Ottawa County, MI"	3.6	Michigan	2015	26139
+"Ontonagon County, MI"	9.3	Michigan	2015	26131
+"Debaca County, NM"	5.2	New Mexico	2015	unavailable
+"Sargent County, ND"	1.8	North Dakota	2015	38081
+"Elk County, PA"	4.9	Pennsylvania	2015	42047
+"Mower County, MN"	3.2	Minnesota	2015	27099
+"Calcasieu Parish, LA"	5.4	Louisiana	2015	22019
+"East Baton Rouge Parish, LA"	5.4	Louisiana	2015	22033
+"Cuyahoga County, OH"	5.2	Ohio	2015	39035
+"Hertford County, NC"	7.1	North Carolina	2015	37091
+"Rio Grande County, CO"	6.3	Colorado	2015	8105
+"James City County, VA"	4.3	Virginia	2015	51095
+"Canyon County, ID"	5	Idaho	2015	16027
+"Emmet County, IA"	3.8	Iowa	2015	19063
+"Chesterfield County, SC"	6.1	South Carolina	2015	45025
+"Cobb County, GA"	5.1	Georgia	2015	13067
+"Montgomery County, MO"	5	Missouri	2015	29139
+"Fluvanna County, VA"	3.8	Virginia	2015	51065
+"Roseau County, MN"	4	Minnesota	2015	27135
+"Orange County, NY"	4.7	New York	2015	36071
+"Foster County, ND"	2.9	North Dakota	2015	38031
+"Colorado County, TX"	3.9	Texas	2015	48089
+"Kershaw County, SC"	6	South Carolina	2015	45055
+"Washington County, OH"	6	Ohio	2015	39167
+"McCone County, MT"	2.2	Montana	2015	30055
+"Stokes County, NC"	5.4	North Carolina	2015	37169
+"Calhoun County, MI"	5.1	Michigan	2015	26025
+"Hamilton County, FL"	6.4	Florida	2015	12047
+"Goshen County, WY"	3.3	Wyoming	2015	56015
+"Lee County, NC"	7.2	North Carolina	2015	37105
+"Greenville County, SC"	5	South Carolina	2015	45045
+"Emmet County, MI"	7.2	Michigan	2015	26047
+"Carroll County, GA"	6.7	Georgia	2015	13045
+"Rutherford County, NC"	7.8	North Carolina	2015	37161
+"Spokane County, WA"	6.6	Washington	2015	53063
+"Wright County, MO"	6.2	Missouri	2015	29229
+"Mellette County, SD"	5.1	South Dakota	2015	46095
+"Zapata County, TX"	7.6	Texas	2015	48505
+"Grant County, NM"	6.5	New Mexico	2015	35017
+"Snyder County, PA"	4.7	Pennsylvania	2015	42109
+"Prairie County, AR"	4.7	Arkansas	2015	5117
+"Henry County, AL"	6.8	Alabama	2015	1067
+"Wallace County, KS"	2.7	Kansas	2015	20199
+"Greene County, MO"	4.1	Missouri	2015	29077
+"Troup County, GA"	6.1	Georgia	2015	13285
+"Huntington County, IN"	4.4	Indiana	2015	18069
+"Canadian County, OK"	3.6	Oklahoma	2015	40017
+"Kenai Peninsula Borough, AK"	7.8	Alaska	2015	2122
+"Mercer County, MO"	4.4	Missouri	2015	29129
+"Reeves County, TX"	4.8	Texas	2015	48389
+"Elbert County, GA"	7.4	Georgia	2015	13105
+"Saint Johns County, FL"	3.9	Florida	2015	unavailable
+"Napa County, CA"	4.6	California	2015	6055
+"Silver Bow County, MT"	4.3	Montana	2015	30093
+"Butte County, SD"	3.4	South Dakota	2015	46019
+"Black Hawk County, IA"	4.7	Iowa	2015	19013
+"Platte County, MO"	4.2	Missouri	2015	29165
+"Lander County, NV"	6.7	Nevada	2015	32015
+"Chester County, PA"	3.8	Pennsylvania	2015	42029
+"Lexington County, SC"	4.9	South Carolina	2015	45063
+"Woodford County, IL"	5	Illinois	2015	17203
+"Inyo County, CA"	5.8	California	2015	6027
+"Franklin County, IN"	5.1	Indiana	2015	18047
+"Gila County, AZ"	7.8	Arizona	2015	4007
+"Dewitt County, TX"	4	Texas	2015	unavailable
+"Boone County, WV"	9.7	West Virginia	2015	54005
+"Orange County, CA"	4.4	California	2015	6059
+"Clarendon County, SC"	7.7	South Carolina	2015	45027
+"Wood County, OH"	4.3	Ohio	2015	39173
+"Baylor County, TX"	3.5	Texas	2015	48023
+"Powder River County, MT"	2.5	Montana	2015	30075
+"Scott County, IN"	5.4	Indiana	2015	18143
+"Smith County, TX"	4.5	Texas	2015	48423
+"Pondera County, MT"	4.4	Montana	2015	30073
+"Lake County, FL"	5.5	Florida	2015	12069
+"Perquimans County, NC"	7.1	North Carolina	2015	37143
+"Millard County, UT"	3.5	Utah	2015	49027
+"Leon County, FL"	5	Florida	2015	12073
+"Carson County, TX"	3.2	Texas	2015	48065
+"Clay County, WV"	11.2	West Virginia	2015	54015
+"Taos County, NM"	9.2	New Mexico	2015	35055
+"Coles County, IL"	6	Illinois	2015	17029
+"Albany County, NY"	4.3	New York	2015	36001
+"Chouteau County, MT"	3.3	Montana	2015	30015
+"Henry County, KY"	4.7	Kentucky	2015	21103
+"Coffee County, GA"	6.7	Georgia	2015	13069
+"Stonewall County, TX"	4.4	Texas	2015	48433
+"Lafayette County, FL"	4.5	Florida	2015	12067
+"Potter County, SD"	3.2	South Dakota	2015	46107
+"Lincoln County, WY"	4.7	Wyoming	2015	56023
+"Norton City, VA"	6.9	Virginia	2015	unavailable
+"Hood County, TX"	4.5	Texas	2015	48221
+"Grant County, IN"	5.4	Indiana	2015	18053
+"Harrison County, TX"	5.2	Texas	2015	48203
+"Dallas County, TX"	4.3	Texas	2015	48113
+"Washburn County, WI"	5.4	Wisconsin	2015	55129
+"Converse County, WY"	3.6	Wyoming	2015	56009
+"Divide County, ND"	1.8	North Dakota	2015	38023
+"Deuel County, SD"	4.9	South Dakota	2015	46039
+"Audrain County, MO"	4.6	Missouri	2015	29007
+"Tulare County, CA"	11.5	California	2015	6107
+"Allegany County, NY"	6.5	New York	2015	36003
+"Quitman County, MS"	10.7	Mississippi	2015	28119
+"Pasquotank County, NC"	7.3	North Carolina	2015	37139
+"Lee County, SC"	8.4	South Carolina	2015	45061
+"Saint Clair County, IL"	6.5	Illinois	2015	unavailable
+"Warren County, MS"	6.6	Mississippi	2015	28149
+"Bedford County, VA"	4.4	Virginia	2015	51019
+"Chesapeake City, VA"	4.5	Virginia	2015	unavailable
+"Wayne County, MO"	5.9	Missouri	2015	29223
+"Greene County, TN"	6.4	Tennessee	2015	47059
+"Bourbon County, KS"	4.8	Kansas	2015	20011
+"Callaway County, MO"	4.7	Missouri	2015	29027
+"Bladen County, NC"	8	North Carolina	2015	37017
+"Phillips County, AR"	7.6	Arkansas	2015	5107
+"Sac County, IA"	3.4	Iowa	2015	19161
+"Hale County, TX"	6.4	Texas	2015	48189
+"McHenry County, IL"	5.4	Illinois	2015	17111
+"Powell County, KY"	7	Kentucky	2015	21197
+"Hampton City, VA"	6	Virginia	2015	unavailable
+"Nash County, NC"	7.3	North Carolina	2015	37127
+"Putnam County, GA"	8.1	Georgia	2015	13237
+"Frederick County, VA"	4	Virginia	2015	51069
+"Petersburg City, VA"	9.2	Virginia	2015	unavailable
+"Guadalupe County, TX"	3.5	Texas	2015	48187
+"Washington County, ME"	6.9	Maine	2015	23029
+"Morgan County, TN"	7.4	Tennessee	2015	47129
+"Carver County, MN"	3.2	Minnesota	2015	27019
+"Williamson County, TX"	3.5	Texas	2015	48491
+"Northumberland County, VA"	6.1	Virginia	2015	51133
+"Del Norte County, CA"	8.5	California	2015	6015
+"Chase County, KS"	3.6	Kansas	2015	20017
+"Martin County, MN"	4.1	Minnesota	2015	27091
+"Jefferson County, FL"	5.9	Florida	2015	12065
+"Jefferson Parish, LA"	5.8	Louisiana	2015	22051
+"East Carroll Parish, LA"	14.1	Louisiana	2015	22035
+"Clay County, AR"	6.6	Arkansas	2015	5021
+"Hartley County, TX"	2.1	Texas	2015	48205
+"Humphreys County, TN"	6.7	Tennessee	2015	47085
+"McCracken County, KY"	5.7	Kentucky	2015	21145
+"Chaves County, NM"	6.3	New Mexico	2015	35005
+"Childress County, TX"	3.1	Texas	2015	48075
+"Marion County, IN"	5.1	Indiana	2015	18097
+"Nelson County, ND"	3.8	North Dakota	2015	38063
+"New Haven County, CT"	6.2	Connecticut	2015	9009
+"Todd County, MN"	4.4	Minnesota	2015	27153
+"Monroe County, FL"	3.5	Florida	2015	12087
+"Edmonson County, KY"	7.1	Kentucky	2015	21061
+"Haywood County, TN"	8.3	Tennessee	2015	47075
+"Fayette County, AL"	7	Alabama	2015	1057
+"Washington County, FL"	5.9	Florida	2015	12133
+"Wichita County, TX"	4.3	Texas	2015	48485
+"Hardin County, KY"	4.9	Kentucky	2015	21093
+"Sedgwick County, KS"	4.8	Kansas	2015	20173
+"Genesee County, MI"	6.1	Michigan	2015	26049
+"Ouray County, CO"	4.3	Colorado	2015	8091
+"Summit County, OH"	5	Ohio	2015	39153
+"Arkansas County, AR"	4.2	Arkansas	2015	5001
+"Polk County, GA"	6.6	Georgia	2015	13233
+"Yakima County, WA"	8.1	Washington	2015	53077
+"Madison County, VA"	3.4	Virginia	2015	51113
+"Platte County, WY"	3.9	Wyoming	2015	56031
+"Pike County, IN"	4.3	Indiana	2015	18125
+"Covington County, MS"	5.8	Mississippi	2015	28031
+"Columbia County, NY"	4	New York	2015	36021
+"Delaware County, OH"	3.5	Ohio	2015	39041
+"Midland County, TX"	3.5	Texas	2015	48329
+"Ford County, KS"	3.4	Kansas	2015	20057
+"Grant County, MN"	4.7	Minnesota	2015	27051
+"Warren County, PA"	5	Pennsylvania	2015	42123
+"Colusa County, CA"	15.3	California	2015	6011
+"Putnam County, IL"	6.1	Illinois	2015	17155
+"Gladwin County, MI"	7.2	Michigan	2015	26051
+"Limestone County, TX"	5	Texas	2015	48293
+"Choctaw County, MS"	6.2	Mississippi	2015	28019
+"Florence County, WI"	6.8	Wisconsin	2015	55037
+"Ward County, ND"	3.2	North Dakota	2015	38101
+"Lewis County, MO"	4.9	Missouri	2015	29111
+"Scott County, TN"	9.3	Tennessee	2015	47151
+"Williamson County, TN"	4	Tennessee	2015	47187
+"Contra Costa County, CA"	5	California	2015	6013
+"San Jacinto County, TX"	5.6	Texas	2015	48407
+"Limestone County, AL"	5.5	Alabama	2015	1083
+"Mississippi County, AR"	9	Arkansas	2015	5093
+"Hart County, KY"	5.1	Kentucky	2015	21099
+"Sampson County, NC"	5.9	North Carolina	2015	37163
+"Wright County, MN"	3.7	Minnesota	2015	27171
+"Craig County, VA"	5.5	Virginia	2015	51045
+"Pinal County, AZ"	6.3	Arizona	2015	4021
+"Valley County, NE"	2.8	Nebraska	2015	31175
+"Nicholas County, WV"	9.1	West Virginia	2015	54067
+"Columbia County, PA"	5.7	Pennsylvania	2015	42037
+"McDonough County, IL"	6	Illinois	2015	17109
+"Guadalupe County, NM"	7.1	New Mexico	2015	35019
+"Calloway County, KY"	4.7	Kentucky	2015	21035
+"Morris County, KS"	4.3	Kansas	2015	20127
+"San Augustine County, TX"	9.1	Texas	2015	48405
+"Sandusky County, OH"	4.8	Ohio	2015	39143
+"Crawford County, WI"	5.9	Wisconsin	2015	55023
+"Surry County, VA"	5.1	Virginia	2015	51181
+"Arlington County, VA"	2.8	Virginia	2015	51013
+"Hunterdon County, NJ"	4.3	New Jersey	2015	34019
+"Dorchester County, MD"	7.2	Maryland	2015	24019
+"Jackson County, NC"	6.1	North Carolina	2015	37099
+"Warren County, TN"	5.6	Tennessee	2015	47177
+"Polk County, NC"	5.1	North Carolina	2015	37149
+"Ashe County, NC"	6	North Carolina	2015	37009
+"Clinton County, OH"	6.2	Ohio	2015	39027
+"Mitchell County, KS"	3.3	Kansas	2015	20123
+"Nelson County, VA"	4.1	Virginia	2015	51125
+"Ontario County, NY"	4.7	New York	2015	36069
+"Sevier County, TN"	6	Tennessee	2015	47155
+"Richland Parish, LA"	8.7	Louisiana	2015	22083
+"Campbell County, TN"	7.9	Tennessee	2015	47013
+"Tippah County, MS"	6.3	Mississippi	2015	28139
+"Polk County, FL"	6.3	Florida	2015	12105
+"Warren County, IA"	3.5	Iowa	2015	19181
+"Marion County, GA"	8.4	Georgia	2015	13197
+"Anderson County, SC"	5.4	South Carolina	2015	45007
+"Morgan County, KY"	8.2	Kentucky	2015	21175
+"Kiowa County, KS"	3	Kansas	2015	20097
+"Hitchcock County, NE"	3.3	Nebraska	2015	31087
+"Ashland County, WI"	6.3	Wisconsin	2015	55003
+"Alcorn County, MS"	5.6	Mississippi	2015	28003
+"Carbon County, MT"	3.7	Montana	2015	30009
+"Wayne County, MI"	6.9	Michigan	2015	26163
+"Live Oak County, TX"	4	Texas	2015	48297
+"Mountrail County, ND"	2	North Dakota	2015	38061
+"Page County, VA"	6.9	Virginia	2015	51139
+"Upshur County, TX"	5.3	Texas	2015	48459
+"Beaufort County, NC"	6.6	North Carolina	2015	37013
+"Lavaca County, TX"	3.8	Texas	2015	48285
+"Okaloosa County, FL"	4.5	Florida	2015	12091
+"Guernsey County, OH"	6.2	Ohio	2015	39059
+"Smyth County, VA"	6.5	Virginia	2015	51173
+"Clay County, GA"	11.8	Georgia	2015	13061
+"Norman County, MN"	4.7	Minnesota	2015	27107
+"Kittson County, MN"	4.6	Minnesota	2015	27069
+"Iron County, MO"	7.9	Missouri	2015	29093
+"Southeast Fairbanks Census Area, AK"	10.5	Alaska	2015	2240
+"Cooper County, MO"	5.8	Missouri	2015	29053
+"Haskell County, OK"	7.9	Oklahoma	2015	40061
+"Hardin County, TN"	7.1	Tennessee	2015	47071
+"Rapides Parish, LA"	6.5	Louisiana	2015	22079
+"Winkler County, TX"	5.7	Texas	2015	48495
+"Grant County, NE"	2.3	Nebraska	2015	31075
+"Beaver County, OK"	2.7	Oklahoma	2015	40007
+"Clinton County, IL"	4.5	Illinois	2015	17027
+"Luce County, MI"	6.9	Michigan	2015	26095
+"Uinta County, WY"	5	Wyoming	2015	56041
+"Effingham County, IL"	4.8	Illinois	2015	17049
+"Chatham County, NC"	4.8	North Carolina	2015	37037
+"Pershing County, NV"	6.8	Nevada	2015	32027
+"Jasper County, GA"	5.5	Georgia	2015	13159
+"Emanuel County, GA"	8.7	Georgia	2015	13107
+"Taylor County, WV"	6	West Virginia	2015	54091
+"Lubbock County, TX"	3.4	Texas	2015	48303
+"Cannon County, TN"	5.7	Tennessee	2015	47015
+"La Paz County, AZ"	7.4	Arizona	2015	4012
+"Vernon County, MO"	5.1	Missouri	2015	29217
+"Santa Rosa County, FL"	4.8	Florida	2015	12113
+"Boone County, AR"	4.9	Arkansas	2015	5009
+"Renville County, MN"	4.8	Minnesota	2015	27129
+"Newport News City, VA"	5.4	Virginia	2015	unavailable
+"Box Butte County, NE"	3.1	Nebraska	2015	31013
+"Wilcox County, AL"	14.6	Alabama	2015	1131
+"Houghton County, MI"	6.3	Michigan	2015	26061
+"Douglas County, KS"	3.7	Kansas	2015	20045
+"Pickens County, AL"	6.8	Alabama	2015	1107
+"Carbon County, WY"	3.7	Wyoming	2015	56007
+"Seward County, NE"	2.9	Nebraska	2015	31159
+"Elmore County, AL"	5.1	Alabama	2015	1051
+"Hughes County, SD"	2.4	South Dakota	2015	46065
+"McNairy County, TN"	8.5	Tennessee	2015	47109
+"Polk County, TN"	6.5	Tennessee	2015	47139
+"Harrison County, IA"	3.5	Iowa	2015	19085
+"Saint Louis City, MO"	6	Missouri	2015	unavailable
+"Calhoun County, SC"	7.1	South Carolina	2015	45017
+"Nottoway County, VA"	4.5	Virginia	2015	51135
+"Ida County, IA"	3.2	Iowa	2015	19093
+"Miller County, GA"	5.4	Georgia	2015	13201
+"Sangamon County, IL"	5.1	Illinois	2015	17167
+"Eaton County, MI"	4.4	Michigan	2015	26045
+"Lackawanna County, PA"	5.8	Pennsylvania	2015	42069
+"Bradford County, PA"	5.9	Pennsylvania	2015	42015
+"Ferry County, WA"	10.2	Washington	2015	53019
+"Cloud County, KS"	3.8	Kansas	2015	20029
+"Noble County, OH"	7.3	Ohio	2015	39121
+"Meade County, SD"	3.1	South Dakota	2015	46093
+"Marion County, AL"	6.9	Alabama	2015	1093
+"McDowell County, NC"	5.5	North Carolina	2015	37111
+"Green County, WI"	3.8	Wisconsin	2015	55045
+"Lebanon County, PA"	4.5	Pennsylvania	2015	42075
+"Wayne County, WV"	7.1	West Virginia	2015	54099
+"Ionia County, MI"	4.5	Michigan	2015	26067
+"Knox County, TN"	4.6	Tennessee	2015	47093
+"Boone County, KY"	4.1	Kentucky	2015	21015
+"Routt County, CO"	3.3	Colorado	2015	8107
+"Clinton County, MI"	3.9	Michigan	2015	26037
+"Roscommon County, MI"	9	Michigan	2015	26143
+"Kalamazoo County, MI"	4.3	Michigan	2015	26077
+"Andrews County, TX"	3.5	Texas	2015	48003
+"Cass County, ND"	2.3	North Dakota	2015	38017
+"Haakon County, SD"	2.3	South Dakota	2015	46055
+"Ellis County, TX"	3.9	Texas	2015	48139
+"Treasure County, MT"	5	Montana	2015	30103
+"Churchill County, NV"	6.9	Nevada	2015	32001
+"Carroll County, OH"	6	Ohio	2015	39019
+"White County, TN"	6	Tennessee	2015	47185
+"Daniels County, MT"	2.5	Montana	2015	30019
+"Saratoga County, NY"	4.1	New York	2015	36091
+"Highland County, OH"	6.4	Ohio	2015	39071
+"Alcona County, MI"	8	Michigan	2015	26001
+"Saint John the Baptist Parish, LA"	7.5	Louisiana	2015	unavailable
+"Wilcox County, GA"	7.8	Georgia	2015	13315
+"Yuma County, AZ"	21.6	Arizona	2015	4027
+"Pike County, IL"	5.1	Illinois	2015	17149
+"Montgomery County, OH"	5	Ohio	2015	39113
+"Worth County, IA"	4.1	Iowa	2015	19195
+"Sumner County, TN"	4.6	Tennessee	2015	47165
+"Santa Barbara County, CA"	5.3	California	2015	6083
+"Kent County, RI"	5.6	Rhode Island	2015	44003
+"Northampton County, PA"	5.3	Pennsylvania	2015	42095
+"Lassen County, CA"	7.2	California	2015	6035
+"Briscoe County, TX"	3.9	Texas	2015	48045
+"Franklin County, VT"	3.6	Vermont	2015	50011
+"Lyon County, KS"	4.3	Kansas	2015	20111
+"Durham County, NC"	5	North Carolina	2015	37063
+"Walworth County, WI"	4.7	Wisconsin	2015	55127
+"Macoupin County, IL"	6.3	Illinois	2015	17117
+"Pawnee County, OK"	5.8	Oklahoma	2015	40117
+"Marshall County, OK"	5.4	Oklahoma	2015	40095
+"Dickenson County, VA"	10.1	Virginia	2015	51051
+"Frio County, TX"	3.8	Texas	2015	48163
+"Monroe County, AL"	10	Alabama	2015	1099
+"Ashland County, OH"	5	Ohio	2015	39005
+"Kendall County, IL"	5.2	Illinois	2015	17093
+"Suffolk County, MA"	4.5	Massachusetts	2015	25025
+"Bosque County, TX"	4.5	Texas	2015	48035
+"Huron County, OH"	6.6	Ohio	2015	39077
+"El Dorado County, CA"	5.7	California	2015	6017
+"Isabella County, MI"	4.8	Michigan	2015	26073
+"Palo Alto County, IA"	3.1	Iowa	2015	19147
+"Taylor County, WI"	4.4	Wisconsin	2015	55119
+"McIntosh County, ND"	3.1	North Dakota	2015	38051
+"Crook County, WY"	3.5	Wyoming	2015	56011
+"Jackson County, MO"	5.9	Missouri	2015	29095
+"Hidalgo County, TX"	7.9	Texas	2015	48215
+"Stewart County, GA"	6.9	Georgia	2015	13259
+"Hardin County, IL"	8.4	Illinois	2015	17069
+"Morrill County, NE"	2.9	Nebraska	2015	31123
+"Rowan County, KY"	5.8	Kentucky	2015	21205
+"Monroe County, GA"	5.8	Georgia	2015	13207
+"Iron County, WI"	8.8	Wisconsin	2015	55051
+"Fall River County, SD"	4.4	South Dakota	2015	46047
+"Jefferson County, AR"	7.1	Arkansas	2015	5069
+"Wilkin County, MN"	3.3	Minnesota	2015	27167
+"Thomas County, KS"	2.7	Kansas	2015	20193
+"Weakley County, TN"	6.7	Tennessee	2015	47183
+"Saginaw County, MI"	5.7	Michigan	2015	26145
+"Robertson County, TX"	4.8	Texas	2015	48395
+"Lawrence County, PA"	6.3	Pennsylvania	2015	42073
+"Raleigh County, WV"	7.4	West Virginia	2015	54081
+"Harrison County, WV"	6.3	West Virginia	2015	54033
+"Randolph County, IN"	5	Indiana	2015	18135
+"Steele County, ND"	2.3	North Dakota	2015	38091
+"Apache County, AZ"	13.2	Arizona	2015	4001
+"Lincoln County, ID"	4.5	Idaho	2015	16063
+"Breathitt County, KY"	9.4	Kentucky	2015	21025
+"Humphreys County, MS"	12.6	Mississippi	2015	28053
+"Lee County, AL"	5.2	Alabama	2015	1081
+"Madison County, IL"	5.9	Illinois	2015	17119
+"Jackson County, FL"	5.8	Florida	2015	12063
+"Lee County, FL"	5.1	Florida	2015	12071
+"Pleasants County, WV"	8.5	West Virginia	2015	54073
+"King William County, VA"	4.2	Virginia	2015	51101
+"Henry County, VA"	6.4	Virginia	2015	51089
+"Washington County, VA"	4.8	Virginia	2015	51191
+"Grant County, AR"	4.6	Arkansas	2015	5053
+"Johnson County, WY"	4.9	Wyoming	2015	56019
+"Grant County, OR"	8.7	Oregon	2015	41023
+"McCreary County, KY"	8.2	Kentucky	2015	21147
+"Union County, SC"	7.9	South Carolina	2015	45087
+"Oliver County, ND"	5.9	North Dakota	2015	38065
+"Graham County, NC"	12	North Carolina	2015	37075
+"Charlotte County, VA"	5.7	Virginia	2015	51037
+"Poweshiek County, IA"	3.7	Iowa	2015	19157
+"Union County, KY"	6.7	Kentucky	2015	21225
+"Union County, NM"	4.4	New Mexico	2015	35059
+"Los Alamos County, NM"	4.1	New Mexico	2015	35028
+"Dade County, MO"	5.1	Missouri	2015	29057
+"Grenada County, MS"	5.9	Mississippi	2015	28043
+"Santa Fe County, NM"	5.4	New Mexico	2015	35049
+"Jones County, TX"	5.5	Texas	2015	48253
+"Portage County, WI"	4.6	Wisconsin	2015	55097
+"Dickey County, ND"	1.8	North Dakota	2015	38021
+"Starr County, TX"	13.5	Texas	2015	48427
+"Randolph County, GA"	9.1	Georgia	2015	13243
+"Allegany County, MD"	7	Maryland	2015	24001
+"Nemaha County, NE"	3.7	Nebraska	2015	31127
+"Monmouth County, NJ"	5.2	New Jersey	2015	34025
+"Marion County, OR"	6	Oregon	2015	41047
+"Itawamba County, MS"	5.7	Mississippi	2015	28057
+"Scott County, IL"	5.7	Illinois	2015	17171
+"Dawson County, MT"	3.1	Montana	2015	30021
+"Sweetwater County, WY"	4.7	Wyoming	2015	56037
+"Cerro Gordo County, IA"	4	Iowa	2015	19033
+"Lincoln County, WA"	5.9	Washington	2015	53043
+"Lawrence County, AL"	7.7	Alabama	2015	1079
+"Kidder County, ND"	3.7	North Dakota	2015	38043
+"Rockingham County, VA"	4.1	Virginia	2015	51165
+"Wakulla County, FL"	4.6	Florida	2015	12129
+"Pierce County, ND"	4.2	North Dakota	2015	38069
+"Shackelford County, TX"	2.8	Texas	2015	48417
+"Williams County, ND"	2.4	North Dakota	2015	38105
+"Wheeler County, OR"	5.2	Oregon	2015	41069
+"Campbell County, WY"	3.9	Wyoming	2015	56005
+"Shelby County, IA"	2.9	Iowa	2015	19165
+"Greene County, NY"	5.6	New York	2015	36039
+"Trumbull County, OH"	6.4	Ohio	2015	39155
+"Niagara County, NY"	6.2	New York	2015	36063
+"Hickman County, TN"	5.7	Tennessee	2015	47081
+"Mercer County, WV"	7.3	West Virginia	2015	54055
+"Switzerland County, IN"	5	Indiana	2015	18155
+"Big Horn County, MT"	6.7	Montana	2015	30003
+"Saint Francois County, MO"	6.1	Missouri	2015	unavailable
+"Logan County, WV"	11.2	West Virginia	2015	54045
+"Hartford County, CT"	5.9	Connecticut	2015	9003
+"Ford County, IL"	5.4	Illinois	2015	17053
+"Tazewell County, IL"	6.2	Illinois	2015	17179
+"Bradley County, AR"	6.1	Arkansas	2015	5011
+"Curry County, NM"	4.9	New Mexico	2015	35009
+"Union County, FL"	4.8	Florida	2015	12125
+"Fountain County, IN"	5.9	Indiana	2015	18045
+"Jefferson County, AL"	5.8	Alabama	2015	1073
+"Richmond County, NC"	7.9	North Carolina	2015	37153
+"Story County, IA"	2.5	Iowa	2015	19169
+"Lincoln County, NC"	5.4	North Carolina	2015	37109
+"Walton County, FL"	4.7	Florida	2015	12131
+"Gibson County, TN"	7.3	Tennessee	2015	47053
+"Burlington County, NJ"	5.4	New Jersey	2015	34005
+"Winston County, AL"	7.5	Alabama	2015	1133
+"Hamilton County, KS"	2	Kansas	2015	20075
+"Dane County, WI"	3.2	Wisconsin	2015	55025
+"Escambia County, FL"	5.5	Florida	2015	12033
+"Perkins County, SD"	3.1	South Dakota	2015	46105
+"Winn Parish, LA"	8.4	Louisiana	2015	22127
+"Berrien County, GA"	7.2	Georgia	2015	13019
+"Bon Homme County, SD"	2.6	South Dakota	2015	46009
+"Wilkinson County, MS"	10.5	Mississippi	2015	28157
+"Knox County, NE"	3.2	Nebraska	2015	31107
+"Ray County, MO"	5.5	Missouri	2015	29177
+"Washington County, NC"	8.7	North Carolina	2015	37187
+"Penobscot County, ME"	4.7	Maine	2015	23019
+"Clark County, AR"	5.6	Arkansas	2015	5019
+"Madison County, IA"	4	Iowa	2015	19121
+"Winston County, MS"	8.2	Mississippi	2015	28159
+"Martin County, NC"	7.7	North Carolina	2015	37117
+"Webster County, GA"	9.4	Georgia	2015	13307
+"Bowie County, TX"	4.8	Texas	2015	48037
+"Warren County, GA"	7.8	Georgia	2015	13301
+"Crawford County, IL"	5.9	Illinois	2015	17033
+"Garfield County, WA"	6.2	Washington	2015	53023
+"Davie County, NC"	5	North Carolina	2015	37059
+"Glenn County, CA"	8.7	California	2015	6021
+"Hardeman County, TN"	7.5	Tennessee	2015	47069
+"Emmons County, ND"	5	North Dakota	2015	38029
+"Murray County, OK"	4.2	Oklahoma	2015	40099
+"Effingham County, GA"	5.1	Georgia	2015	13103
+"Pike County, KY"	9.3	Kentucky	2015	21195
+"Rogers County, OK"	4.4	Oklahoma	2015	40131
+"Cortland County, NY"	5.9	New York	2015	36023
+"Baker County, GA"	7.2	Georgia	2015	13007
+"Lincoln County, NM"	5.8	New Mexico	2015	35027
+"Roosevelt County, NM"	5.4	New Mexico	2015	35041
+"Hancock County, IL"	6.1	Illinois	2015	17067
+"Harris County, TX"	4.6	Texas	2015	48201
+"Tehama County, CA"	7.9	California	2015	6103
+"Columbia County, OR"	7.2	Oregon	2015	41009
+"Rensselaer County, NY"	4.6	New York	2015	36083
+"Jackson County, SD"	4.3	South Dakota	2015	46071
+"Monroe County, NY"	5.1	New York	2015	36055
+"McClain County, OK"	3.7	Oklahoma	2015	40087
+"Bethel Census Area, AK"	14.2	Alaska	2015	2050
+"Marengo County, AL"	7.6	Alabama	2015	1091
+"Madison County, NC"	5.7	North Carolina	2015	37115
+"Davis County, UT"	3.4	Utah	2015	49011
+"Tucker County, WV"	6.1	West Virginia	2015	54093
+"Frederick County, MD"	4.5	Maryland	2015	24021
+"Pulaski County, VA"	5.1	Virginia	2015	51155
+"Kewaunee County, WI"	4.1	Wisconsin	2015	55061
+"Panola County, TX"	5.2	Texas	2015	48365
+"Hopkins County, KY"	5.6	Kentucky	2015	21107
+"Lincoln County, MT"	10	Montana	2015	30053
+"Saint James Parish, LA"	8.5	Louisiana	2015	unavailable
+"Fayette County, KY"	3.9	Kentucky	2015	21067
+"Park County, MT"	4.8	Montana	2015	30067
+"Montgomery County, MD"	3.9	Maryland	2015	24031
+"Gallia County, OH"	6.5	Ohio	2015	39053
+"Mercer County, IL"	6.2	Illinois	2015	17131
+"Giles County, VA"	5.2	Virginia	2015	51071
+"Kane County, UT"	4.4	Utah	2015	49025
+"Jersey County, IL"	6.3	Illinois	2015	17083
+"Montgomery County, TN"	5.8	Tennessee	2015	47125
+"Washington County, MS"	10.2	Mississippi	2015	28151
+"Hardin County, TX"	5.6	Texas	2015	48199
+"Jessamine County, KY"	4.2	Kentucky	2015	21113
+"Concordia Parish, LA"	8.7	Louisiana	2015	22029
+"Deer Lodge County, MT"	4	Montana	2015	30023
+"Clinton County, NY"	5.8	New York	2015	36019
+"Parmer County, TX"	2.4	Texas	2015	48369
+"Henderson County, IL"	5.9	Illinois	2015	17071
+"Perry County, PA"	4.5	Pennsylvania	2015	42099
+"Richland County, IL"	5.8	Illinois	2015	17159
+"Ward County, TX"	4.3	Texas	2015	48475
+"Cumberland County, TN"	7	Tennessee	2015	47035
+"Calvert County, MD"	4.6	Maryland	2015	24009
+"Gilpin County, CO"	3.1	Colorado	2015	8047
+"Tuolumne County, CA"	7	California	2015	6109
+"Ulster County, NY"	4.8	New York	2015	36111
+"Marshall County, KY"	5.6	Kentucky	2015	21157
+"Allegan County, MI"	4.1	Michigan	2015	26005
+"Muhlenberg County, KY"	7.2	Kentucky	2015	21177
+"Garrett County, MD"	6.3	Maryland	2015	24023
+"Sibley County, MN"	4.2	Minnesota	2015	27143
+"Las Animas County, CO"	5.6	Colorado	2015	8071
+"Kingsbury County, SD"	2.9	South Dakota	2015	46077
+"Stephens County, GA"	6.5	Georgia	2015	13257
+"Carroll County, IA"	2.7	Iowa	2015	19027
+"Olmsted County, MN"	2.9	Minnesota	2015	27109
+"Hunt County, TX"	4.7	Texas	2015	48231
+"Iroquois County, IL"	5.6	Illinois	2015	17075
+"Christian County, IL"	6.5	Illinois	2015	17021
+"Graham County, AZ"	7.3	Arizona	2015	4009
+"Catawba County, NC"	5.5	North Carolina	2015	37035
+"Adair County, OK"	6	Oklahoma	2015	40001
+"Manistee County, MI"	6.6	Michigan	2015	26101
+"Hall County, GA"	4.9	Georgia	2015	13139
+"Forsyth County, NC"	5.5	North Carolina	2015	37067
+"Crittenden County, KY"	5.4	Kentucky	2015	21055
+"Tensas Parish, LA"	9.8	Louisiana	2015	22107
+"Jackson County, OK"	4	Oklahoma	2015	40065
+"Buffalo County, WI"	4.9	Wisconsin	2015	55011
+"Schuyler County, MO"	5.8	Missouri	2015	29197
+"Adams County, NE"	3.2	Nebraska	2015	31001
+"Crockett County, TN"	6.4	Tennessee	2015	47033
+"Northwest Arctic Borough, AK"	15.9	Alaska	2015	2188
+"Washington Parish, LA"	7.6	Louisiana	2015	22117
+"Montour County, PA"	4.3	Pennsylvania	2015	42093
+"Franklin County, FL"	4.7	Florida	2015	12037
+"Ellis County, KS"	3	Kansas	2015	20051
+"Cambria County, PA"	6.6	Pennsylvania	2015	42021
+"Berrien County, MI"	5.2	Michigan	2015	26021
+"Burleigh County, ND"	2.4	North Dakota	2015	38015
+"Palo Pinto County, TX"	5.2	Texas	2015	48363
+"Pierce County, NE"	2.6	Nebraska	2015	31139
+"Vermilion Parish, LA"	6.9	Louisiana	2015	22113
+"Oneida County, ID"	3.6	Idaho	2015	16071
+"Crane County, TX"	5.8	Texas	2015	48103
+"Adams County, MS"	8	Mississippi	2015	28001
+"Muskegon County, MI"	5.8	Michigan	2015	26121
+"Grimes County, TX"	5.3	Texas	2015	48185
+"Franklin County, GA"	6.3	Georgia	2015	13119
+"Lewis County, ID"	5.8	Idaho	2015	16061
+"Wayne County, MS"	7.9	Mississippi	2015	28153
+"Jackson County, AR"	7.5	Arkansas	2015	5067
+"Morris County, NJ"	4.4	New Jersey	2015	34027
+"Jefferson County, CO"	3.5	Colorado	2015	8059
+"Tripp County, SD"	2.6	South Dakota	2015	46123
+"Walker County, AL"	7.3	Alabama	2015	1127
+"Jefferson County, GA"	9	Georgia	2015	13163
+"Habersham County, GA"	5.7	Georgia	2015	13137
+"Colfax County, NE"	2.6	Nebraska	2015	31037
+"Traill County, ND"	2.8	North Dakota	2015	38097
+"Bayfield County, WI"	8.3	Wisconsin	2015	55007
+"Dimmit County, TX"	4.6	Texas	2015	48127
+"Jackson County, WI"	4.8	Wisconsin	2015	55053
+"Jackson County, MI"	5.3	Michigan	2015	26075
+"Guilford County, NC"	5.9	North Carolina	2015	37081
+"Pocahontas County, WV"	8.2	West Virginia	2015	54075
+"Logan County, OK"	3.8	Oklahoma	2015	40083
+"Overton County, TN"	7.1	Tennessee	2015	47133
+"Weber County, UT"	4.1	Utah	2015	49057
+"Outagamie County, WI"	4	Wisconsin	2015	55087
+"Craven County, NC"	6.1	North Carolina	2015	37049
+"Warren County, MO"	4.8	Missouri	2015	29219
+"Mercer County, NJ"	5	New Jersey	2015	34021
+"Hart County, GA"	6.2	Georgia	2015	13147
+"Fillmore County, NE"	3	Nebraska	2015	31059
+"Stearns County, MN"	3.6	Minnesota	2015	27145
+"Scurry County, TX"	4.1	Texas	2015	48415
+"Butler County, MO"	6.2	Missouri	2015	29023
+"Twiggs County, GA"	9.1	Georgia	2015	13289
+"Upson County, GA"	7.2	Georgia	2015	13293
+"Huron County, MI"	5.4	Michigan	2015	26063
+"Garvin County, OK"	4.7	Oklahoma	2015	40049
+"Mercer County, ND"	4.2	North Dakota	2015	38057
+"Taney County, MO"	8	Missouri	2015	29213
+"Kinney County, TX"	6.4	Texas	2015	48271
+"Meeker County, MN"	4.2	Minnesota	2015	27093
+"Jefferson Davis Parish, LA"	6.2	Louisiana	2015	22053
+"Gunnison County, CO"	3	Colorado	2015	8051
+"Brunswick County, NC"	7.3	North Carolina	2015	37019
+"Marathon County, WI"	4	Wisconsin	2015	55073
+"Richland County, WI"	4.2	Wisconsin	2015	55103
+"Hale County, AL"	7.8	Alabama	2015	1065
+"Toombs County, GA"	8.7	Georgia	2015	13279
+"Escambia County, AL"	7	Alabama	2015	1053
+"Osage County, KS"	5	Kansas	2015	20139
+"Marion County, MO"	4.4	Missouri	2015	29127
+"Sweet Grass County, MT"	2.8	Montana	2015	30097
+"Montgomery County, PA"	4.2	Pennsylvania	2015	42091
+"Madison County, OH"	4	Ohio	2015	39097
+"Hampton County, SC"	8.4	South Carolina	2015	45049
+"Fergus County, MT"	4.1	Montana	2015	30027
+"Crockett County, TX"	6	Texas	2015	48105
+"New York County, NY"	4.9	New York	2015	36061
+"Dolores County, CO"	3.2	Colorado	2015	8033
+"Jasper County, MS"	7.8	Mississippi	2015	28061
+"Maverick County, TX"	10.7	Texas	2015	48323
+"Dukes County, MA"	6.7	Massachusetts	2015	25007
+"York County, SC"	5.5	South Carolina	2015	45091
+"Linn County, KS"	6.4	Kansas	2015	20107
+"Stephenson County, IL"	6.5	Illinois	2015	17177
+"Jefferson Davis County, MS"	8.7	Mississippi	2015	28065
+"Rosebud County, MT"	5.3	Montana	2015	30087
+"Ransom County, ND"	2.5	North Dakota	2015	38073
+"Nevada County, CA"	5.4	California	2015	6057
+"Miller County, MO"	6	Missouri	2015	29131
+"Vermillion County, IN"	7.1	Indiana	2015	18165
+"Leavenworth County, KS"	4.5	Kansas	2015	20103
+"Androscoggin County, ME"	4.1	Maine	2015	23001
+"Pecos County, TX"	5.2	Texas	2015	48371
+"Palm Beach County, FL"	5.1	Florida	2015	12099
+"Grundy County, IL"	6.9	Illinois	2015	17063
+"Clay County, NE"	3	Nebraska	2015	31035
+"Marion County, IA"	3.3	Iowa	2015	19125
+"Livingston County, MO"	4.2	Missouri	2015	29117
+"Wood County, TX"	5.3	Texas	2015	48499
+"Rock County, WI"	5.2	Wisconsin	2015	55105
+"Waseca County, MN"	4.2	Minnesota	2015	27161
+"Franklin County, PA"	5	Pennsylvania	2015	42055
+"Juneau County, WI"	5.2	Wisconsin	2015	55057
+"Henry County, OH"	5.6	Ohio	2015	39069
+"Tattnall County, GA"	6.2	Georgia	2015	13267
+"Brown County, NE"	3.7	Nebraska	2015	31017
+"Stafford County, VA"	4.5	Virginia	2015	51179
+"Mercer County, PA"	5.4	Pennsylvania	2015	42085
+"Leake County, MS"	6.1	Mississippi	2015	28079
+"Prince George's County, MD"	5.3	Maryland	2015	24033
+"Morrison County, MN"	5.4	Minnesota	2015	27097
+"Pettis County, MO"	5.2	Missouri	2015	29159
+"Marshall County, WV"	8.5	West Virginia	2015	54051
+"Labette County, KS"	5.8	Kansas	2015	20099
+"Camden County, NJ"	6.5	New Jersey	2015	34007
+"Lancaster County, PA"	4.1	Pennsylvania	2015	42071
+"Grayson County, VA"	5.9	Virginia	2015	51077
+"Madison County, TN"	5.9	Tennessee	2015	47113
+"Swisher County, TX"	4.8	Texas	2015	48437
+"Seminole County, FL"	4.9	Florida	2015	12117
+"Grafton County, NH"	2.8	New Hampshire	2015	33009
+"Dubuque County, IA"	3.7	Iowa	2015	19061
+"Dodge County, MN"	3.8	Minnesota	2015	27039
+"Miami County, IN"	5.2	Indiana	2015	18103
+"Wayne County, NC"	6.1	North Carolina	2015	37191
+"San Bernardino County, CA"	6.4	California	2015	6071
+"Posey County, IN"	4	Indiana	2015	18129
+"Coleman County, TX"	5.6	Texas	2015	48083
+"Vermilion County, IL"	7	Illinois	2015	17183
+"Le Sueur County, MN"	4.9	Minnesota	2015	27079
+"Hanover County, VA"	3.9	Virginia	2015	51085
+"Pitt County, NC"	6.1	North Carolina	2015	37147
+"Benton County, MS"	8	Mississippi	2015	28009
+"Yancey County, NC"	5.9	North Carolina	2015	37199
+"Brazoria County, TX"	4.6	Texas	2015	48039
+"Barton County, KS"	4.2	Kansas	2015	20009
+"Jay County, IN"	5	Indiana	2015	18075
+"Hancock County, MS"	6.5	Mississippi	2015	28045
+"Wharton County, TX"	4.4	Texas	2015	48481
+"Garland County, AR"	5.5	Arkansas	2015	5051
+"Edmunds County, SD"	2.4	South Dakota	2015	46045
+"Crawford County, MI"	7.8	Michigan	2015	26039
+"Ouachita County, AR"	6.4	Arkansas	2015	5103
+"Shelby County, MO"	4.7	Missouri	2015	29205
+"Lake County, CO"	3.9	Colorado	2015	8065
+"Jones County, MS"	6	Mississippi	2015	28067
+"Griggs County, ND"	2.3	North Dakota	2015	38039
+"Garfield County, OK"	3.9	Oklahoma	2015	40047
+"Pima County, AZ"	5.4	Arizona	2015	4019
+"Carroll County, KY"	5.6	Kentucky	2015	21041
+"Wayne County, KY"	7.9	Kentucky	2015	21231
+"Abbeville County, SC"	6.9	South Carolina	2015	45001
+"Blaine County, NE"	4.5	Nebraska	2015	31009
+"Bledsoe County, TN"	7.9	Tennessee	2015	47007
+"Blanco County, TX"	3.1	Texas	2015	48031
+"Robertson County, KY"	6.4	Kentucky	2015	21201
+"Carteret County, NC"	5.9	North Carolina	2015	37031
+"Garfield County, MT"	2.7	Montana	2015	30033
+"Wexford County, MI"	6.7	Michigan	2015	26165
+"Douglas County, OR"	7.5	Oregon	2015	41019
+"Windsor County, VT"	3.2	Vermont	2015	50027
+"LaGrange County, IN"	3.7	Indiana	2015	unavailable
+"Clay County, TN"	8.8	Tennessee	2015	47027
+"Scott County, AR"	4.8	Arkansas	2015	5127
+"Saint Lucie County, FL"	6.3	Florida	2015	unavailable
+"Allegheny County, PA"	5	Pennsylvania	2015	42003
+"Morrow County, OH"	5	Ohio	2015	39117
+"Hocking County, OH"	5.6	Ohio	2015	39073
+"Ketchikan Gateway Borough, AK"	6.8	Alaska	2015	2130
+"Porter County, IN"	5.4	Indiana	2015	18127
+"Cache County, UT"	3.1	Utah	2015	49005
+"Grand County, UT"	6.1	Utah	2015	49019
+"Perry County, AR"	6.1	Arkansas	2015	5105
+"Cedar County, MO"	5.3	Missouri	2015	29039
+"Marion County, OH"	5.1	Ohio	2015	39101
+"Lewis County, KY"	8.4	Kentucky	2015	21135
+"Monroe County, IL"	4.3	Illinois	2015	17133
+"Prince William County, VA"	4.1	Virginia	2015	51153
+"Prince George County, VA"	5.4	Virginia	2015	51149
+"Faulkner County, AR"	4.7	Arkansas	2015	5045
+"McCormick County, SC"	7.1	South Carolina	2015	45065
+"Greene County, IA"	3.6	Iowa	2015	19073
+"Saline County, AR"	4.1	Arkansas	2015	5125
+"Screven County, GA"	8.3	Georgia	2015	13251
+"Breckinridge County, KY"	6	Kentucky	2015	21027
+"Kitsap County, WA"	5.6	Washington	2015	53035
+"Wabaunsee County, KS"	3.9	Kansas	2015	20197
+"Caldwell County, KY"	5.5	Kentucky	2015	21033
+"Hoke County, NC"	8	North Carolina	2015	37093
+"McIntosh County, GA"	6.5	Georgia	2015	13191
+"Catoosa County, GA"	5.2	Georgia	2015	13047
+"Hillsborough County, NH"	3.5	New Hampshire	2015	33011
+"Barnes County, ND"	3.2	North Dakota	2015	38003
+"Ashley County, AR"	7.8	Arkansas	2015	5003
+"Tift County, GA"	6.1	Georgia	2015	13277
+"Carroll County, TN"	8.2	Tennessee	2015	47017
+"Carter County, MO"	7.4	Missouri	2015	29035
+"Fannin County, GA"	6.2	Georgia	2015	13111
+"Berks County, PA"	4.9	Pennsylvania	2015	42011
+"Madison County, IN"	5.7	Indiana	2015	18095
+"Appomattox County, VA"	4.9	Virginia	2015	51011
+"Knox County, OH"	4.6	Ohio	2015	39083
+"Jo Daviess County, IL"	5.4	Illinois	2015	17085
+"Clark County, KY"	5.2	Kentucky	2015	21049
+"Whitman County, WA"	4.9	Washington	2015	53075
+"Lincoln County, GA"	6.7	Georgia	2015	13181
+"Columbia County, GA"	5	Georgia	2015	13073
+"Stevens County, KS"	3.8	Kansas	2015	20189
+"Scott County, KS"	2.8	Kansas	2015	20171
+"Suffolk City, VA"	5	Virginia	2015	unavailable
+"Shelby County, TN"	6.4	Tennessee	2015	47157
+"Fillmore County, MN"	4.1	Minnesota	2015	27045
+"Marshall County, IN"	4.2	Indiana	2015	18099
+"Cooke County, TX"	3.7	Texas	2015	48097
+"Hopewell City, VA"	7.6	Virginia	2015	unavailable
+"Carson City, NV"	7.3	Nevada	2015	32510
+"Pierce County, WI"	3.9	Wisconsin	2015	55093
+"Coffee County, AL"	5.9	Alabama	2015	1031
+"La Salle Parish, LA"	6.9	Louisiana	2015	unavailable
+"Chautauqua County, KS"	5.8	Kansas	2015	20019
+"Adair County, KY"	7.4	Kentucky	2015	21001
+"Spotsylvania County, VA"	4.6	Virginia	2015	51177
+"Trinity County, CA"	7.8	California	2015	6105
+"Buchanan County, MO"	4.6	Missouri	2015	29021
+"Austin County, TX"	4.6	Texas	2015	48015
+"Rains County, TX"	4.6	Texas	2015	48379
+"Sauk County, WI"	4.1	Wisconsin	2015	55111
+"Gibson County, IN"	3.8	Indiana	2015	18051
+"Fairfield County, SC"	8.1	South Carolina	2015	45039
+"Taylor County, FL"	6.6	Florida	2015	12123
+"Forsyth County, GA"	4.5	Georgia	2015	13117
+"Calhoun County, TX"	4	Texas	2015	48057
+"Clarke County, GA"	6.1	Georgia	2015	13059
+"Dona Ana County, NM"	7.3	New Mexico	2015	35013
+"Anderson County, KS"	4.9	Kansas	2015	20003
+"Montcalm County, MI"	5.7	Michigan	2015	26117
+"Franklin County, AR"	5	Arkansas	2015	5047
+"Anderson County, KY"	4.2	Kentucky	2015	21005
+"Laclede County, MO"	6.3	Missouri	2015	29105
+"Kearney County, NE"	2.2	Nebraska	2015	31099
+"Culpeper County, VA"	4.4	Virginia	2015	51047
+"Sumter County, GA"	8.3	Georgia	2015	13261
+"Panola County, MS"	8.7	Mississippi	2015	28107
+"Somerset County, NJ"	4.6	New Jersey	2015	34035
+"Major County, OK"	3.3	Oklahoma	2015	40093
+"Sebastian County, AR"	4.8	Arkansas	2015	5131
+"Accomack County, VA"	5.4	Virginia	2015	51001
+"Hamilton County, NE"	2.9	Nebraska	2015	31081
+"Becker County, MN"	4.4	Minnesota	2015	27005
+"Glacier County, MT"	9	Montana	2015	30035
+"Pottawattamie County, IA"	3.7	Iowa	2015	19155
+"Park County, WY"	4.3	Wyoming	2015	56029
+"San Juan County, NM"	6.9	New Mexico	2015	35045
+"Antrim County, MI"	7.4	Michigan	2015	26009
+"Chickasaw County, IA"	4.6	Iowa	2015	19037
+"Scioto County, OH"	7.6	Ohio	2015	39145
+"Juab County, UT"	4	Utah	2015	49023
+"McPherson County, NE"	2	Nebraska	2015	31117
+"Montgomery County, VA"	4.3	Virginia	2015	51121
+"Madison County, AR"	3.9	Arkansas	2015	5087
+"Pulaski County, AR"	4.6	Arkansas	2015	5119
+"Brown County, KS"	4	Kansas	2015	20013
+"Acadia Parish, LA"	6.8	Louisiana	2015	22001
+"Whitfield County, GA"	6.4	Georgia	2015	13313
+"Judith Basin County, MT"	3.4	Montana	2015	30045
+"Grundy County, TN"	7.7	Tennessee	2015	47061
+"Cocke County, TN"	7.7	Tennessee	2015	47029
+"Pike County, AR"	5.9	Arkansas	2015	5109
+"Lauderdale County, AL"	6.9	Alabama	2015	1077
+"Lafayette Parish, LA"	5.7	Louisiana	2015	22055
+"Power County, ID"	4.7	Idaho	2015	16077
+"Caldwell County, MO"	4.5	Missouri	2015	29025
+"Paulding County, OH"	4.8	Ohio	2015	39125
+"Crenshaw County, AL"	6	Alabama	2015	1041
+"Dawson County, TX"	4.5	Texas	2015	48115
+"Lexington City, VA"	6.8	Virginia	2015	unavailable
+"De Soto Parish, LA"	8	Louisiana	2015	22031
+"Valley County, MT"	3.1	Montana	2015	30105
+"Greenwood County, KS"	4.6	Kansas	2015	20073
+"Woods County, OK"	2.7	Oklahoma	2015	40151
+"Butts County, GA"	6.6	Georgia	2015	13035
+"Wichita County, KS"	3	Kansas	2015	20203
+"Cedar County, IA"	3.5	Iowa	2015	19031
+"Otsego County, MI"	6.1	Michigan	2015	26137
+"Marshall County, MS"	7.2	Mississippi	2015	28093
+"Randolph County, NC"	5.7	North Carolina	2015	37151
+"Lancaster County, NE"	2.7	Nebraska	2015	31109
+"Tom Green County, TX"	4.1	Texas	2015	48451
+"Columbia County, FL"	5.4	Florida	2015	12023
+"Somervell County, TX"	5	Texas	2015	48425
+"Anderson County, TX"	3.9	Texas	2015	48001
+"Caldwell County, TX"	4.3	Texas	2015	48055
+"Charlton County, GA"	6.4	Georgia	2015	13049
+"Merced County, CA"	11.3	California	2015	6047
+"Laurens County, GA"	7.5	Georgia	2015	13175
+"Caldwell Parish, LA"	8.3	Louisiana	2015	22021
+"Hopkins County, TX"	4.2	Texas	2015	48223
+"Brown County, MN"	4.1	Minnesota	2015	27015
+"McCulloch County, TX"	4.8	Texas	2015	48307
+"Camden County, GA"	5.5	Georgia	2015	13039
+"White County, IL"	5.7	Illinois	2015	17193
+"Poquoson City, VA"	3.9	Virginia	2015	unavailable
+"Jones County, GA"	5.5	Georgia	2015	13169
+"Harlan County, KY"	11.9	Kentucky	2015	21095
+"Hickman County, KY"	5.8	Kentucky	2015	21105
+"Leelanau County, MI"	5.2	Michigan	2015	26089
+"Montgomery County, IA"	3.6	Iowa	2015	19137
+"Lampasas County, TX"	4.4	Texas	2015	48281
+"Elko County, NV"	5.2	Nevada	2015	32007
+"Desoto County, MS"	4.8	Mississippi	2015	unavailable
+"Lewis County, WV"	8.3	West Virginia	2015	54041
+"Haskell County, TX"	3.5	Texas	2015	48207
+"Hyde County, SD"	2.8	South Dakota	2015	46069
+"Comanche County, KS"	3.3	Kansas	2015	20033
+"Evangeline Parish, LA"	7.5	Louisiana	2015	22039
+"Grady County, OK"	4.5	Oklahoma	2015	40051
+"Burke County, GA"	8.1	Georgia	2015	13033
+"Cascade County, MT"	4	Montana	2015	30013
+"Brown County, WI"	4.1	Wisconsin	2015	55009
+"Pemiscot County, MO"	9	Missouri	2015	29155
+"Mills County, TX"	3.7	Texas	2015	48333
+"Wheeler County, TX"	3.9	Texas	2015	48483
+"Early County, GA"	6.9	Georgia	2015	13099
+"Alfalfa County, OK"	2.9	Oklahoma	2015	40003
+"Trousdale County, TN"	5.9	Tennessee	2015	47169
+"Butler County, NE"	2.8	Nebraska	2015	31023
+"Beauregard Parish, LA"	6.3	Louisiana	2015	22011
+"Tioga County, NY"	5.5	New York	2015	36107
+"Drew County, AR"	7	Arkansas	2015	5043
+"Sullivan County, TN"	5.7	Tennessee	2015	47163
+"Upshur County, WV"	8.1	West Virginia	2015	54097
+"Yellow Medicine County, MN"	3.7	Minnesota	2015	27173
+"Pacific County, WA"	9	Washington	2015	53049
+"Adams County, WA"	7	Washington	2015	53001
+"Klickitat County, WA"	7.2	Washington	2015	53039
+"Natrona County, WY"	4.9	Wyoming	2015	56025
+"Erie County, OH"	5.5	Ohio	2015	39043
+"Kenedy County, TX"	3.2	Texas	2015	48261
+"Sevier County, AR"	6.2	Arkansas	2015	5133
+"Union County, TN"	6.8	Tennessee	2015	47173
+"Lincoln County, WI"	5	Wisconsin	2015	55069
+"Richardson County, NE"	3.3	Nebraska	2015	31147
+"Wabash County, IL"	5.6	Illinois	2015	17185
+"Madera County, CA"	10.5	California	2015	6039
+"Holmes County, FL"	6.1	Florida	2015	12059
+"Curry County, OR"	8.2	Oregon	2015	41015
+"Henderson County, TX"	4.9	Texas	2015	48213
+"Okanogan County, WA"	7	Washington	2015	53047
+"Oscoda County, MI"	8.6	Michigan	2015	26135
+"Nassau County, NY"	4.2	New York	2015	36059
+"Saluda County, SC"	5.3	South Carolina	2015	45081
+"Livingston Parish, LA"	5.1	Louisiana	2015	22063
+"Hinsdale County, CO"	2.9	Colorado	2015	8053
+"Cleveland County, AR"	5.7	Arkansas	2015	5025
+"Geary County, KS"	6.2	Kansas	2015	20061
+"Mayes County, OK"	4.3	Oklahoma	2015	40097
+"Cheyenne County, CO"	2.7	Colorado	2015	8017
+"Pennington County, SD"	3.1	South Dakota	2015	46103
+"Middlesex County, VA"	4.2	Virginia	2015	51119
+"Grand Traverse County, MI"	4.6	Michigan	2015	26055
+"Madison County, GA"	5.5	Georgia	2015	13195
+"Wilson County, KS"	6.6	Kansas	2015	20205
+"Burnett County, WI"	7	Wisconsin	2015	55013
+"Perry County, MO"	4.2	Missouri	2015	29157
+"Lyman County, SD"	4.7	South Dakota	2015	46085
+"San Mateo County, CA"	3.4	California	2015	6081
+"Fallon County, MT"	2.3	Montana	2015	30025
+"Erie County, PA"	5.5	Pennsylvania	2015	42049
+"Tyler County, TX"	7	Texas	2015	48457
+"Tishomingo County, MS"	6.3	Mississippi	2015	28141
+"Box Elder County, UT"	3.7	Utah	2015	49003
+"Adams County, CO"	4.4	Colorado	2015	8001
+"Custer County, SD"	4.2	South Dakota	2015	46033
+"Zavala County, TX"	11.2	Texas	2015	48507
+"Geneva County, AL"	5.9	Alabama	2015	1061
+"Tolland County, CT"	4.9	Connecticut	2015	9013
+"Rappahannock County, VA"	4.2	Virginia	2015	51157
+"Avoyelles Parish, LA"	7.5	Louisiana	2015	22009
+"Crook County, OR"	8.3	Oregon	2015	41013
+"Fulton County, GA"	6	Georgia	2015	13121
+"Orangeburg County, SC"	10.9	South Carolina	2015	45075
+"Marshall County, AL"	5.8	Alabama	2015	1095
+"York County, ME"	3.9	Maine	2015	23031
+"Jackson County, OH"	7.5	Ohio	2015	39079
+"Rockwall County, TX"	3.8	Texas	2015	48397
+"Buchanan County, VA"	10.9	Virginia	2015	51027
+"Crawford County, IA"	4.3	Iowa	2015	19047
+"Caswell County, NC"	6.3	North Carolina	2015	37033
+"Saint Clair County, AL"	5.3	Alabama	2015	unavailable
+"Champaign County, IL"	5.1	Illinois	2015	17019
+"Polk County, MO"	5.3	Missouri	2015	29167
+"Poinsett County, AR"	5.6	Arkansas	2015	5111
+"Carroll County, AR"	4.6	Arkansas	2015	5015
+"Mills County, IA"	4.2	Iowa	2015	19129
+"Borden County, TX"	2.9	Texas	2015	48033
+"Schoolcraft County, MI"	10.8	Michigan	2015	26153
+"Dakota County, NE"	3.6	Nebraska	2015	31043
+"Okfuskee County, OK"	5.8	Oklahoma	2015	40107
+"Johnson County, AR"	5.8	Arkansas	2015	5071
+"Barbour County, AL"	8.8	Alabama	2015	1005
+"White Pine County, NV"	5.3	Nevada	2015	32033
+"Union County, NC"	4.9	North Carolina	2015	37179
+"Phelps County, MO"	5.3	Missouri	2015	29161
+"Powell County, MT"	4.4	Montana	2015	30077
+"Somerset County, ME"	6.6	Maine	2015	23025
+"Pope County, IL"	6.8	Illinois	2015	17151
+"Lyon County, IA"	2	Iowa	2015	19119
+"Knox County, IN"	4.6	Indiana	2015	18083
+"Wilson County, NC"	9.5	North Carolina	2015	37195
+"Treutlen County, GA"	8.5	Georgia	2015	13283
+"Saint Bernard Parish, LA"	6.6	Louisiana	2015	unavailable
+"Madison County, NE"	2.8	Nebraska	2015	31119
+"Hillsborough County, FL"	5	Florida	2015	12057
+"Wayne County, PA"	5.8	Pennsylvania	2015	42127
+"Barren County, KY"	5.2	Kentucky	2015	21009
+"Dawson County, NE"	3.2	Nebraska	2015	31047
+"Throckmorton County, TX"	3.2	Texas	2015	48447
+"Morrow County, OR"	5.7	Oregon	2015	41049
+"Mitchell County, TX"	5.6	Texas	2015	48335
+"Piscataquis County, ME"	5.8	Maine	2015	23021
+"Kandiyohi County, MN"	3.8	Minnesota	2015	27067
+"Adams County, PA"	4.2	Pennsylvania	2015	42001
+"Marion County, IL"	6.7	Illinois	2015	17121
+"Choctaw County, AL"	9.1	Alabama	2015	1023
+"Hamblen County, TN"	6.2	Tennessee	2015	47063
+"Sutton County, TX"	6.1	Texas	2015	48435
+"Amelia County, VA"	4.5	Virginia	2015	51007
+"Delaware County, NY"	6	New York	2015	36025
+"Charles Mix County, SD"	3.4	South Dakota	2015	46023
+"Shasta County, CA"	7.7	California	2015	6089
+"Johnson County, IA"	2.7	Iowa	2015	19103
+"Menominee County, MI"	5.4	Michigan	2015	26109
+"Newberry County, SC"	5.3	South Carolina	2015	45071
+"Montgomery County, KY"	6.5	Kentucky	2015	21173
+"Mc Kean County, PA"	6.1	Pennsylvania	2015	42083
+"Valley County, ID"	6.2	Idaho	2015	16085
+"Franklin County, KS"	4.6	Kansas	2015	20059
+"Franklin County, KY"	4.3	Kentucky	2015	21073
+"Henderson County, NC"	4.8	North Carolina	2015	37089
+"Columbia County, WA"	6.6	Washington	2015	53013
+"Sublette County, WY"	5.2	Wyoming	2015	56035
+"Licking County, OH"	4.4	Ohio	2015	39089
+"Campbell County, VA"	4.7	Virginia	2015	51031
+"Clay County, TX"	4.4	Texas	2015	48077
+"Harris County, GA"	5.2	Georgia	2015	13145
+"Putnam County, WV"	5.6	West Virginia	2015	54079
+"Grundy County, MO"	4.1	Missouri	2015	29079
+"Oconee County, SC"	5.8	South Carolina	2015	45073
+"Beaver County, PA"	6	Pennsylvania	2015	42007
+"Wilkes County, GA"	7.2	Georgia	2015	13317
+"Adair County, IA"	3.3	Iowa	2015	19001
+"Shenandoah County, VA"	4.3	Virginia	2015	51171
+"Cecil County, MD"	6	Maryland	2015	24015
+"Rock County, MN"	2.1	Minnesota	2015	27133
+"Clark County, IN"	4.5	Indiana	2015	18019
+"Highland County, VA"	3.5	Virginia	2015	51091
+"Green County, KY"	5.3	Kentucky	2015	21087
+"Kiowa County, CO"	2.6	Colorado	2015	8061
+"Chattahoochee County, GA"	8.8	Georgia	2015	13053
+"Deaf Smith County, TX"	3.2	Texas	2015	48117
+"Piatt County, IL"	5	Illinois	2015	17147
+"Juneau Borough, AK"	4.7	Alaska	2015	2110
+"Glynn County, GA"	6.1	Georgia	2015	13127
+"Daviess County, IN"	3.8	Indiana	2015	18027
+"Douglas County, MN"	3.4	Minnesota	2015	27041
+"Kodiak Island Borough, AK"	4.8	Alaska	2015	2150
+"Liberty County, GA"	6.3	Georgia	2015	13179
+"Sheridan County, ND"	5.1	North Dakota	2015	38083
+"Howard County, MO"	4.9	Missouri	2015	29089
+"Bastrop County, TX"	3.9	Texas	2015	48021
+"Mecklenburg County, VA"	6.1	Virginia	2015	51117
+"Sevier County, UT"	4.5	Utah	2015	49041
+"Roosevelt County, MT"	5.2	Montana	2015	30085
+"Gove County, KS"	2.5	Kansas	2015	20063
+"Mason County, IL"	7	Illinois	2015	17125
+"Decatur County, KS"	3.7	Kansas	2015	20039
+"Harrison County, OH"	6.3	Ohio	2015	39067
+"Broomfield County, CO"	3.3	Colorado	2015	8014
+"Delaware County, IA"	3.4	Iowa	2015	19055
+"Macon County, GA"	9.2	Georgia	2015	13193
+"Loudon County, TN"	5.6	Tennessee	2015	47105
+"Woodson County, KS"	5	Kansas	2015	20207
+"Jefferson County, WV"	4.1	West Virginia	2015	54037
+"Tulsa County, OK"	4.1	Oklahoma	2015	40143
+"Dinwiddie County, VA"	5.4	Virginia	2015	51053
+"Saline County, KS"	3.8	Kansas	2015	20169
+"Middlesex County, MA"	3.9	Massachusetts	2015	25017
+"Adams County, ND"	3	North Dakota	2015	38001
+"Calhoun County, AR"	5.4	Arkansas	2015	5013
+"Randolph County, IL"	5.4	Illinois	2015	17157
+"Mono County, CA"	6.1	California	2015	6051
+"Lanier County, GA"	6.7	Georgia	2015	13173
+"Clay County, AL"	6.1	Alabama	2015	1027
+"Madison County, KY"	4.4	Kentucky	2015	21151
+"Fannin County, TX"	4.1	Texas	2015	48147
+"Tippecanoe County, IN"	4.2	Indiana	2015	18157
+"Menifee County, KY"	8.6	Kentucky	2015	21165
+"Glades County, FL"	7.1	Florida	2015	12043
+"Conway County, AR"	6.1	Arkansas	2015	5029
+"Candler County, GA"	5.7	Georgia	2015	13043
+"Stevens County, MN"	2.8	Minnesota	2015	27149
+"Lincoln County, KY"	6.8	Kentucky	2015	21137
+"Catron County, NM"	7.9	New Mexico	2015	35003
+"Crowley County, CO"	4.5	Colorado	2015	8025
+"Davis County, IA"	4.5	Iowa	2015	19051
+"Maries County, MO"	5.3	Missouri	2015	29125
+"Pasco County, FL"	5.8	Florida	2015	12101
+"Boise County, ID"	6.4	Idaho	2015	16015
+"Burnet County, TX"	3.6	Texas	2015	48053
+"Itasca County, MN"	6.5	Minnesota	2015	27061
+"Humboldt County, IA"	3.4	Iowa	2015	19091
+"Douglas County, CO"	3.1	Colorado	2015	8035
+"Ozark County, MO"	7.9	Missouri	2015	29153
+"Chickasaw County, MS"	7.7	Mississippi	2015	28017
+"Gogebic County, MI"	7.3	Michigan	2015	26053
+"Tooele County, UT"	4.2	Utah	2015	49045
+"Lake County, MI"	8.5	Michigan	2015	26085
+"Dent County, MO"	5.8	Missouri	2015	29065
+"Tompkins County, NY"	4.4	New York	2015	36109
+"Scott County, VA"	5.2	Virginia	2015	51169
+"Bailey County, TX"	4.3	Texas	2015	48017
+"Cavalier County, ND"	2.8	North Dakota	2015	38019
+"Merrimack County, NH"	3.1	New Hampshire	2015	33013
+"Hardeman County, TX"	4.9	Texas	2015	48197
+"Watauga County, NC"	4.9	North Carolina	2015	37189
+"Culberson County, TX"	4.1	Texas	2015	48109
+"Issaquena County, MS"	17.1	Mississippi	2015	28055
+"New Hanover County, NC"	5.4	North Carolina	2015	37129
+"Flagler County, FL"	6.2	Florida	2015	12035
+"Garrard County, KY"	5.1	Kentucky	2015	21079
+"Franklin County, MO"	5.1	Missouri	2015	29071
+"Seneca County, OH"	4.8	Ohio	2015	39147
+"Red River County, TX"	6.3	Texas	2015	48387
+"Charlotte County, FL"	5.9	Florida	2015	12015
+"Jackson County, MN"	4.1	Minnesota	2015	27063
+"Clark County, MO"	7.1	Missouri	2015	29045
+"Eureka County, NV"	5.9	Nevada	2015	32011
+"Morgan County, UT"	3.1	Utah	2015	49029
+"Arenac County, MI"	8.9	Michigan	2015	26011
+"Uintah County, UT"	6.8	Utah	2015	49047
+"Stutsman County, ND"	2.6	North Dakota	2015	38093
+"Juniata County, PA"	5	Pennsylvania	2015	42067
+"Union County, OR"	6.2	Oregon	2015	41061
+"Union County, MS"	5.1	Mississippi	2015	28145
+"Genesee County, NY"	5	New York	2015	36037
+"Brown County, IN"	4.8	Indiana	2015	18013
+"Dyer County, TN"	7.1	Tennessee	2015	47045
+"Chariton County, MO"	4.7	Missouri	2015	29041
+"Washington County, UT"	4.1	Utah	2015	49053
+"Morgan County, CO"	3.8	Colorado	2015	8087
+"Wolfe County, KY"	9.9	Kentucky	2015	21237
+"McPherson County, SD"	3.3	South Dakota	2015	46089
+"Lawrence County, IN"	6.5	Indiana	2015	18093
+"Allen County, KS"	5.1	Kansas	2015	20001
+"Harney County, OR"	7.2	Oregon	2015	41025
+"Dubois County, IN"	3.4	Indiana	2015	18037
+"Webster Parish, LA"	8.8	Louisiana	2015	22119
+"Auglaize County, OH"	3.7	Ohio	2015	39011
+"Oceana County, MI"	7.9	Michigan	2015	26127
+"Garden County, NE"	2.4	Nebraska	2015	31069
+"Rice County, KS"	3.8	Kansas	2015	20159
+"Windham County, CT"	6.3	Connecticut	2015	9015
+"Bay County, MI"	5.7	Michigan	2015	26017
+"Camp County, TX"	6.1	Texas	2015	48063
+"Des Moines County, IA"	4.8	Iowa	2015	19057
+"Mitchell County, NC"	6.9	North Carolina	2015	37121
+"Rolette County, ND"	10.3	North Dakota	2015	38079
+"Ouachita Parish, LA"	6.7	Louisiana	2015	22073
+"Placer County, CA"	5	California	2015	6061
+"Warren County, KY"	4.5	Kentucky	2015	21227
+"Wayne County, TN"	7.4	Tennessee	2015	47181
+"Santa Cruz County, CA"	7.5	California	2015	6087
+"Clallam County, WA"	8.2	Washington	2015	53009
+"Hamilton County, NY"	6.7	New York	2015	36041
+"Cumberland County, NJ"	8.9	New Jersey	2015	34011
+"Yakutat Borough, AK"	8.5	Alaska	2015	2282
+"Shelby County, IN"	4.4	Indiana	2015	18145
+"Medina County, TX"	4.4	Texas	2015	48325
+"Orleans Parish, LA"	6.5	Louisiana	2015	22071
+"Redwood County, MN"	3.9	Minnesota	2015	27127
+"Brown County, OH"	6.2	Ohio	2015	39015
+"Alexander County, NC"	4.9	North Carolina	2015	37003
+"Vanderburgh County, IN"	4.3	Indiana	2015	18163
+"Wythe County, VA"	5.4	Virginia	2015	51197
+"Cherokee County, SC"	7.1	South Carolina	2015	45021
+"Marinette County, WI"	5.8	Wisconsin	2015	55075
+"Lawrence County, TN"	6.6	Tennessee	2015	47099
+"Washington County, AR"	3.5	Arkansas	2015	5143
+"Osceola County, FL"	5.7	Florida	2015	12097
+"Laramie County, WY"	3.9	Wyoming	2015	56021
+"Wayne County, NE"	2.6	Nebraska	2015	31179
+"Webster County, IA"	4.4	Iowa	2015	19187
+"Moore County, TN"	4.5	Tennessee	2015	47127
+"Johnson County, TX"	4.4	Texas	2015	48251
+"Surry County, NC"	5.4	North Carolina	2015	37171
+"Platte County, NE"	3	Nebraska	2015	31141
+"Dauphin County, PA"	4.7	Pennsylvania	2015	42043
+"Tallapoosa County, AL"	6.1	Alabama	2015	1123
+"Otero County, NM"	6.2	New Mexico	2015	35035
+"Valdez-Cordova Census Area, AK"	8.6	Alaska	2015	2261
+"Rockcastle County, KY"	6.5	Kentucky	2015	21203
+"Indiana County, PA"	6.3	Pennsylvania	2015	42063
+"Taliaferro County, GA"	7.8	Georgia	2015	13265
+"Hidalgo County, NM"	6.2	New Mexico	2015	35023
+"Little River County, AR"	5.5	Arkansas	2015	5081
+"Chemung County, NY"	5.9	New York	2015	36015
+"Clark County, OH"	5	Ohio	2015	39023
+"Castro County, TX"	3.4	Texas	2015	48069
+"Sullivan County, NH"	2.8	New Hampshire	2015	33019
+"Cochran County, TX"	5.1	Texas	2015	48079
+"Potter County, TX"	3.3	Texas	2015	48375
+"Cherokee County, IA"	5.3	Iowa	2015	19035
+"Navarro County, TX"	4.2	Texas	2015	48349
+"Henry County, GA"	6.2	Georgia	2015	13151
+"Franklin County, OH"	4.1	Ohio	2015	39049
+"Bronx County, NY"	7.8	New York	2015	36005
+"Sullivan County, MO"	5.9	Missouri	2015	29211
+"Smith County, KS"	3.9	Kansas	2015	20183
+"Howard County, IA"	3.6	Iowa	2015	19089
+"Berkeley County, WV"	4.9	West Virginia	2015	54003
+"Cheshire County, NH"	3.2	New Hampshire	2015	33005
+"Richmond County, VA"	4.6	Virginia	2015	51159
+"Towns County, GA"	7.9	Georgia	2015	13281
+"Morgan County, IN"	4.7	Indiana	2015	18109
+"Howard County, IN"	5	Indiana	2015	18067
+"Teton County, MT"	3.8	Montana	2015	30099
+"Waldo County, ME"	5.1	Maine	2015	23027
+"Moore County, TX"	3.1	Texas	2015	48341
+"Stewart County, TN"	7.6	Tennessee	2015	47161
+"Hampshire County, WV"	5.6	West Virginia	2015	54027
+"Lunenburg County, VA"	5.1	Virginia	2015	51111
+"Guthrie County, IA"	3.8	Iowa	2015	19077
+"Sussex County, DE"	4.9	Delaware	2015	10005
+"Johnson County, GA"	7	Georgia	2015	13167
+"Wagoner County, OK"	4.2	Oklahoma	2015	40145
+"Holmes County, OH"	3.4	Ohio	2015	39075
+"Blaine County, OK"	3.8	Oklahoma	2015	40011
+"Lake County, CA"	7.6	California	2015	6033
+"Mackinac County, MI"	9.6	Michigan	2015	26097
+"Marshall County, TN"	5.6	Tennessee	2015	47117
+"Humboldt County, NV"	5.8	Nevada	2015	32013
+"Bureau County, IL"	6.4	Illinois	2015	17011
+"Alexandria City, VA"	3.3	Virginia	2015	unavailable
+"Esmeralda County, NV"	4.3	Nevada	2015	32009
+"Gillespie County, TX"	2.9	Texas	2015	48171
+"Concho County, TX"	3.3	Texas	2015	48095
+"Warren County, IN"	4.9	Indiana	2015	18171
+"Andrew County, MO"	4.1	Missouri	2015	29003
+"Monroe County, PA"	6.5	Pennsylvania	2015	42089
+"Hemphill County, TX"	3.1	Texas	2015	48211
+"Harding County, SD"	2.4	South Dakota	2015	46063
+"Montgomery County, IN"	4	Indiana	2015	18107
+"Mississippi County, MO"	5.8	Missouri	2015	29133
+"Dallas County, AL"	9.6	Alabama	2015	1047
+"Bennington County, VT"	4.2	Vermont	2015	50003
+"Blount County, AL"	5.4	Alabama	2015	1009
+"Teller County, CO"	4.5	Colorado	2015	8119
+"Cabarrus County, NC"	5.2	North Carolina	2015	37025
+"Butler County, AL"	7.6	Alabama	2015	1013
+"Kalkaska County, MI"	7.6	Michigan	2015	26079
+"Sumner County, KS"	4.5	Kansas	2015	20191
+"Lynchburg City, VA"	5.6	Virginia	2015	unavailable
+"Sullivan County, NY"	5.4	New York	2015	36105
+"Lycoming County, PA"	6	Pennsylvania	2015	42081
+"Kennebec County, ME"	4.2	Maine	2015	23011
+"Craig County, OK"	4.8	Oklahoma	2015	40035
+"Kanabec County, MN"	6.6	Minnesota	2015	27065
+"Bradley County, TN"	5.2	Tennessee	2015	47011
+"Lafayette County, MO"	4.8	Missouri	2015	29107
+"Cass County, MO"	4.8	Missouri	2015	29037
+"Grays Harbor County, WA"	9.1	Washington	2015	53027
+"Mesa County, CO"	5.6	Colorado	2015	8077
+"Eagle County, CO"	3.2	Colorado	2015	8037
+"Hutchinson County, TX"	4.4	Texas	2015	48233
+"New London County, CT"	5.9	Connecticut	2015	9011
+"Henry County, IN"	5.3	Indiana	2015	18065
+"Talladega County, AL"	6.6	Alabama	2015	1121
+"Howard County, MD"	3.8	Maryland	2015	24027
